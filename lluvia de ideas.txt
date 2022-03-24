@@ -1,0 +1,24 @@
+implementar BST<E>
+implementar Association<K,V> 
+
+
+file reader, writer
+
+leer diccionario.txt dict
+construir 3 diccionarios (en-es-fr)
+	BinarySearchTree<Association<String, String[3]>>
+	BST dict ingles
+	for line in dict
+		string[] value = split ","
+		new Association<value[0], value>
+recorrer diccionario in-order y devolver 
+
+recibe archivo txt = texto
+pregunta idioma de origen (escoge diccionario dict)
+pregunta idioma de destino (escoge numero del arreglo i)
+
+string traducido
+for s in texto:
+	busca s en dict
+		if encuentra s: append dict-s[i]
+		else: append "*"+s+"*" 
