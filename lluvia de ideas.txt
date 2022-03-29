@@ -5,12 +5,14 @@ implementar Association<K,V>
 file reader, writer
 
 leer diccionario.txt dict
+
 construir 3 diccionarios (en-es-fr)
 	BinarySearchTree<Association<String, String[3]>>
 	BST dict ingles
 	for line in dict
 		string[] value = split ","
 		new Association<value[0], value>
+		
 recorrer diccionario in-order y devolver 
 
 recibe archivo txt = texto

@@ -1,3 +1,3 @@
-public class BinarySearchTree {
+public class BinarySearchTree<E> {
     
 }
