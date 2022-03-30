@@ -1,4 +1,3 @@
-import java.util.Iterator;
 import java.util.Comparator;
 
 public class BinarySearchTree<E extends Comparable<E>>
@@ -19,12 +18,7 @@ public class BinarySearchTree<E extends Comparable<E>>
      * The number of nodes in the tree
      */ 
     protected int count;
-    /**
-     * The ordering used on this search tree.
-     */
-    protected Comparator<E> ordering;
-
-
+    
     /**
      * Constructs a binary search tree with no data
      *
@@ -32,19 +26,8 @@ public class BinarySearchTree<E extends Comparable<E>>
      */
     public BinarySearchTree()
     {
-        this(new NaturalComparator<E>());
-    }
-
-    /**
-     * Constructs a binary search tree with no data
-     *
-     * @post Constructs an empty binary search tree
-     */
-    public BinarySearchTree(Comparator<E> alternateOrder)
-    {
         root = EMPTY;
         count = 0;
-        ordering = alternateOrder;
     }
 
     /**
@@ -56,7 +39,7 @@ public class BinarySearchTree<E extends Comparable<E>>
      */
     public boolean isEmpty()
     {
-        return root == EMPTY;
+        return root.equals(EMPTY);
     }
 
     /**
@@ -95,7 +78,7 @@ public class BinarySearchTree<E extends Comparable<E>>
         // found at root: done
         if (rootValue.equals(value)) return root;
         // look left if less-than, right if greater-than
-        if (ordering.compare(rootValue,value) < 0)
+        if (rootValue.compareTo(value) < 0)
         {
             child = root.right();
         } else {
@@ -112,8 +95,6 @@ public class BinarySearchTree<E extends Comparable<E>>
 
     protected BinaryTree<E> predecessor(BinaryTree<E> root)
     {
-        Assert.pre(!root.isEmpty(), "No predecessor to middle value.");
-        Assert.pre(!root.left().isEmpty(), "Root has left child.");
         BinaryTree<E> result = root.left();
         while (!result.right().isEmpty()) {
             result = result.right();
@@ -123,8 +104,6 @@ public class BinarySearchTree<E extends Comparable<E>>
     
     protected BinaryTree<E> successor(BinaryTree<E> root)
     {
-        Assert.pre(!root.isEmpty(), "Tree is non-null.");
-        Assert.pre(!root.right().isEmpty(), "Root has right child.");
         BinaryTree<E> result = root.right();
         while (!result.left().isEmpty()) {
             result = result.left();
@@ -153,7 +132,7 @@ public class BinarySearchTree<E extends Comparable<E>>
             E nodeValue = insertLocation.value();
             // The location returned is the successor or predecessor
             // of the to-be-inserted value
-            if (ordering.compare(nodeValue,value) < 0) {
+            if (nodeValue.compareTo(value) < 0) {
                 insertLocation.setRight(newNode);
             } else {
                 if (!insertLocation.left().isEmpty()) {
@@ -200,10 +179,11 @@ public class BinarySearchTree<E extends Comparable<E>>
         if (root.isEmpty()) return null;
 
         BinaryTree<E> possibleLocation = locate(root,value);
-        if (value.equals(possibleLocation.value()))
-          return possibleLocation.value();
-        else
-          return null;
+        boolean found = possibleLocation.value().equals(value);
+        if (found){
+          return possibleLocation.value();}
+        else{
+          return null;}
     }
 
     /**
@@ -295,42 +275,12 @@ public class BinarySearchTree<E extends Comparable<E>>
         return predecessor;
     }
 
-    /**
-     * Returns an iterator over the binary search tree.  Iterator should
-     * not be used if tree is modified, as behavior may be unpredicatable
-     * Traverses elements using in-order traversal order
-     *
-     * @post Returns iterator to traverse BST
-     * 
-     * @return An iterator over binary search tree
-     */
-    public Iterator<E> iterator()
-    {
-        return root.inorderIterator();
+    public void printInorder(){
+        root.printInorder(root);
     }
 
-    /**
-     * Returns the hashCode of the value stored by this object.
-     *
-     * @return The hashCode of the value stored by this object.
-     */
-    public int hashCode(){
-        return root.hashCode();
-    } 
 
-    /**
-     * Returns a (possibly long) string representing tree.  Differs
-     * from {@link #toString()} in that {@link #toString()} outputs 
-     * a single line representation of the contents of the tree.
-     * <code>treeString</code>, however, prints out a graphical 
-     * representations of the tree's <i>structure</i>.
-     * 
-     * @post Generates a string representation of the AVLST
-     * @return String representation of tree
-     */
-    public String treeString(){
-        return root.treeString();
-    }
+    
 
     /**
      * Returns a string representing tree

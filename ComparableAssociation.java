@@ -1,4 +1,5 @@
 
+import java.security.Key;
 import java.util.Map;
 public class ComparableAssociation<K extends Comparable<K>,V>
     extends Association<K,V>
@@ -56,8 +57,12 @@ public class ComparableAssociation<K extends Comparable<K>,V>
      */
     public String toString()
     {
-        StringBuffer s = new StringBuffer();
-        s.append("<ComparableAssociation: "+getKey()+"="+getValue()+">");
-        return s.toString();
+        return theKey.toString();
+    }
+
+    public boolean equals(ComparableAssociation<K,V> compared){
+
+        boolean equal = theKey.equals(compared.getKey());
+        return equal;
     }
 }

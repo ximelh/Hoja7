@@ -6,9 +6,9 @@ public class Main {
         System.out.println("LEER ARCHIVO");
         ArrayList<String[]> strings = leer("diccionario.txt");
         System.out.println("CONSTRUIR LOS DICCIONARIOS");
-        BinarySearchTree<Association<String, String[]>> dictEN = construirDict(strings, 0);
-        BinarySearchTree<Association<String, String[]>> dictES = construirDict(strings, 1);
-        BinarySearchTree<Association<String, String[]>> dictFR = construirDict(strings, 2);
+        BinarySearchTree<ComparableAssociation<String, String[]>> dictEN = construirDict(strings, 0);
+        BinarySearchTree<ComparableAssociation<String, String[]>> dictES = construirDict(strings, 1);
+        BinarySearchTree<ComparableAssociation<String, String[]>> dictFR = construirDict(strings, 2);
         System.out.println("RECORRER IN-ORDER");
         recorrer(dictEN);
     }
@@ -28,15 +28,15 @@ public class Main {
     /**
      * metodo que cree un Tree, recibe la lista de arrays con 3 strings que van 
      * a estar [ingles, espanol, frances], entonces tambien recibe el int que le dice
-     * de que idioma va a ser el diccionario, o sea cual va a ser la Key de las Association.
-     * El tree es de Associations entonces tiene la llave del idioma que se escoge asociado
+     * de que idioma va a ser el diccionario, o sea cual va a ser la Key de las ComparableAssociation.
+     * El tree es de ComparableAssociations entonces tiene la llave del idioma que se escoge asociado
      * al array con las 3 palabras.
      */
-    private static BinarySearchTree<Association<String, String[]>> construirDict(ArrayList<String[]> strings, int lengua) {
+    private static BinarySearchTree<ComparableAssociation<String, String[]>> construirDict(ArrayList<String[]> strings, int lengua) {
         
 	    // for palabra in strings
-        //    hacer un new Association<palabra[lengua], palabra>
-        //    y meter este Association al BST
+        //    hacer un new ComparableAssociation<palabra[lengua], palabra>
+        //    y meter este ComparableAssociation al BST
         
         return null;   
     }
@@ -44,7 +44,7 @@ public class Main {
     /**
      * recorrer el tree in-order eso sí no sé como se hace, toca averiguarlo
      */
-    private static void recorrer(BinarySearchTree<Association<String, String[]>> dict) {
+    private static void recorrer(BinarySearchTree<ComparableAssociation<String, String[]>> dict) {
         
     }
 
@@ -64,6 +64,7 @@ public class Main {
         //     busca s en dict
         //         if encuentra s: append dict-s[i]
         //         else: append "*"+s+"*" 
+        return null;
     }
 
 }

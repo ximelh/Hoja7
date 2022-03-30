@@ -1,3 +1,6 @@
+/**
+ * Binary Tree
+ */
 public class BinaryTree<E>
 {
 
@@ -9,7 +12,7 @@ public class BinaryTree<E>
 	// post: constructor that generates an empty node
 	{
 		val = null;
-		parent = null; left = right = this;
+		parent = null; left = right = null;
 	}
 	
 	public BinaryTree(E value)
@@ -31,15 +34,33 @@ public class BinaryTree<E>
 		setRight(right);
 	}
 	
+	public void setRight(BinaryTree<E> newRight) {
+		if (isEmpty()) return;
+		if (right != null && right.parent() == this) right.setParent(null);
+		right = newRight;
+		right.setParent(this);
+	
+	}
+
 	public BinaryTree<E> left()
-	// post: returns reference to (possibly empty) left subtree
-	// post: returns reference to (possibly empty) left subtree
 	{
 		return left;
 	}
+
+	public BinaryTree<E> right()
+	{
+		return right;
+	}
 	
+	/**
+	 * returns reference to parent node
+	 * @return
+	 */
 	public BinaryTree<E> parent()
-	// post: returns reference to parent node, or null
+	{
+		return parent;
+	}
+	// post: , or null
 	
 	public void setLeft(BinaryTree<E> newLeft)
 	// post: sets left subtree to newLeft
@@ -51,6 +72,10 @@ public class BinaryTree<E>
 		left.setParent(this);
 	}
 	
+	boolean isEmpty() {
+		return val==null;
+	}
+
 	protected void setParent(BinaryTree<E> newParent)
 	// post: re-parents this node to parent reference, or null
 	{
@@ -59,11 +84,6 @@ public class BinaryTree<E>
 		}
 	}
 	
-	public Iterator<E> iterator()
-	// post: returns an in-order iterator of the elements
-	
-	public boolean isLeftChild()
-	// post: returns true if this is a left child of parent
 	
 	public E value()
 	// post: returns value associated with this node
@@ -76,5 +96,22 @@ public class BinaryTree<E>
 	{
 		val = value;
 	}
-	
+
+	public void printInorder(BinaryTree<E> node)
+    {
+        if (node.value() == null)
+            return;
+ 
+        /* first recur on left child */
+        printInorder(node.left());
+ 
+        /* then print the data of node */
+        System.out.print(node.value().toString() + "\n");
+ 
+        /* now recur on right child */
+        printInorder(node.right());
+    }
 }
+
+
+ 
