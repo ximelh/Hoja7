@@ -1,20 +1,122 @@
 import java.util.ArrayList;
+import java.util.Scanner;
 import java.io.*;
-import java.io.FileReader;
-import java.io.FileNotFoundException;
 
 
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("LEER ARCHIVO");
+        try {
+            Scanner scan = new Scanner(System.in);
+            System.out.println("LEER ARCHIVO");
         ArrayList<String[]> strings = leer("diccionario.txt");
         System.out.println("CONSTRUIR LOS DICCIONARIOS");
         BinarySearchTree<ComparableAssociation<String, String[]>> dictEN = construirDict(strings, 0);
         BinarySearchTree<ComparableAssociation<String, String[]>> dictES = construirDict(strings, 1);
         BinarySearchTree<ComparableAssociation<String, String[]>> dictFR = construirDict(strings, 2);
         System.out.println("RECORRER IN-ORDER");
+        scan.nextLine();
+
         recorrer(dictEN);
+
+        
+        String texto = "";
+        ArrayList<String[]> text = new ArrayList<String[]>();
+        String cadena;
+        BinarySearchTree<ComparableAssociation<String, String[]>> DicOrigen = new BinarySearchTree<ComparableAssociation<String, String[]>>();
+        int LenDestino = 0;
+
+
+        System.out.println("Bienvenido al traductor\n");
+        System.out.println("Ingrese el nombre exacto del archivo de texto que desea traducir\n");
+        texto =scan.nextLine();
+
+        FileReader f = new FileReader(texto); //abre el archivo
+        BufferedReader b = new BufferedReader(f); // lee el archivo
+        while((cadena = b.readLine())!=null) { // Para separar con espacios
+            String[] parts = cadena.split(" ");
+            text.add(parts);
+        }
+        b.close();
+        
+        // System.out.println("Ingrese el número que indica el idioma de origen de su archivo\n ");
+        // int opcion = 0;
+		// while (opcion != 3){
+		// 	System.out.println("1. Ingles");
+		// 	System.out.println("2. Español");
+		// 	System.out.println("3. Francés");
+        //     scan = new Scanner(System.in);
+		// 	try{opcion = scan.nextInt();}
+		// 	catch(Exception e){System.out.println("INVALIDO");}
+
+		// 	if (opcion == 1){
+		// 		DicOrigen = dictEN;
+		// 	}
+		// 	else if (opcion == 2){
+		// 		DicOrigen = dictES;
+		// 	} 
+		// 	else if (opcion == 3){
+        //         DicOrigen = dictFR;
+        //     }
+        //     else{ System.out.println("Agregue una entrada valida del menu");}
+        // }
+
+        // System.out.println("Ingrese el número que indica el idioma al que desea traducir su archivo\n ");
+        // int opcion2 = 0;
+		// while (opcion2 != 3){
+		// 	System.out.println("1. Ingles");
+		// 	System.out.println("2. Español");
+		// 	System.out.println("3. Francés");
+        //     scan = new Scanner(System.in);
+		// 	try{opcion2 = scan.nextInt();}
+		// 	catch(Exception e){System.out.println("INVALIDO");}
+
+		// 	if (opcion2 == 1){
+		// 		LenDestino = 0;
+		// 	}
+		// 	else if (opcion2 == 2){
+		// 		LenDestino = 1;
+		// 	} 
+		// 	else if (opcion2 == 3){
+        //         LenDestino = 2;
+        //     }
+        //     else{ System.out.println("Agregue una entrada valida del menu");}
+        // }
+        // pregunta idioma de origen (escoge diccionario dict)
+        // pregunta idioma de destino (escoge numero del array i)
+
+        LenDestino = 2;
+        DicOrigen = dictES;
+
+        for (String[] linea : text) {
+            String trad = "";
+            for (String s : linea) {
+                ComparableAssociation<String, String[]> encontrado;
+                encontrado = DicOrigen.get(new ComparableAssociation<String,String[]>(s));
+                if (encontrado.equals(null)) {
+                    trad.concat("*"+s+"*");
+                } else{
+                    String[] valor = encontrado.getValue();
+                    String t = valor[LenDestino];
+                    trad.concat(t);
+                }
+            }
+            System.out.println(trad);
+        }
+
+
+        
+        // string traducido
+        // for s in texto:
+        //     busca s en dict
+        //         if encuentra s: concat dict-s[i]
+        //         else: append "*"+s+"*" 
+
+
+        } catch (Exception e) {
+            e.fillInStackTrace();
+        }
+        
     }
 
     /**
@@ -23,21 +125,22 @@ public class Main {
      * pero he visto que hay varias formas, lo devuelve en una lista de Strings
      * y después para cada lista hacer un split con separador de comas, para tener
      * una lista de arrays de 3 strings.
+     * @throws IOException
      */
-    private static ArrayList<String[]> leer(String archivo) {
+    private static ArrayList<String[]> leer(String archivo) throws IOException {
         String cadena;
-        FileReader f = new FileReader("diccionario.txt"); //abre el archivo
+        FileReader f = new FileReader(archivo); //abre el archivo
         BufferedReader b = new BufferedReader(f); // lee el archivo
+        ArrayList<String[]> dic = new ArrayList<String[]>();
     
         while((cadena = b.readLine())!=null) { // Para separar en comas
             String[] parts = cadena.split(",");
-            Ingrediente ing = new Ingrediente(); // Crea arraylist???
-            ing.setCantidadNutrientes(Double.parseDouble(parts[0]));
-            ing.setCoste(Double.parseDouble(parts[1]));
+            dic.add(parts);
         }
         b.close();
+
+        return dic;
     }
-    
 
     /**
      * metodo que cree un Tree, recibe la lista de arrays con 3 strings que van 
@@ -45,80 +148,26 @@ public class Main {
      * de que idioma va a ser el diccionario, o sea cual va a ser la Key de las ComparableAssociation.
      * El tree es de ComparableAssociations entonces tiene la llave del idioma que se escoge asociado
      * al array con las 3 palabras.
-     * 
-     * NO SE
      */
     private static BinarySearchTree<ComparableAssociation<String, String[]>> construirDict(ArrayList<String[]> strings, int lengua) {
-        
+        BinarySearchTree<ComparableAssociation<String, String[]>> bst;
+        bst = new BinarySearchTree<ComparableAssociation<String, String[]>>();
+        for (String[] p : strings) {
+            ComparableAssociation<String, String[]> a;
+            a = new ComparableAssociation<String, String[]>(p[lengua],p);
+            bst.add(a);
+         }
 	    // for palabra in strings
         //    hacer un new ComparableAssociation<palabra[lengua], palabra>
         //    y meter este ComparableAssociation al BST con add
         
-        return null;   
+        return bst;   
     }
     
     /**
      * recorrer el tree in-order eso sí no sé como se hace, toca averiguarlo
-     * 
-     * NO SE
      */
     private static void recorrer(BinarySearchTree<ComparableAssociation<String, String[]>> dict) {
-        
+        dict.printInorder();
     }
-
-    /**
-     * Devuelve el string traducido, recibe como parametros el archivo de texto (o el texto),
-     * el diccionario que va a usar segun idioma de origen, y int de idioma de destino para 
-     * sacar de los arrays.
-     * 
-     */
-    private static String traducir() { 
-        // recibe archivo txt = texto (No se como)
-
-
-
-        System.out.println("Bienvenido a la calculadora infix\n");
-        //iniciar variables de apoyo
-        boolean valida1 = false;
-        String tipoStack = "";
-        String tipoList = "";
-
-        //obtener el tipo de stack, y si es list el tipo de list
-        while(!valida1){
-            System.out.println("Escriba el tipo de stack que quiere:\n1. Escriba AL si quiere con arraylist\n2. Escriba VE si quiere con vector\n3. Escriba LI si quiere con lista\n");
-            tipoStack=scan.nextLine();
-            if (tipoStack.equalsIgnoreCase("Al")){
-                valida1=true;
-            } else if (tipoStack.equalsIgnoreCase("VE")){
-                valida1=true;
-            } else if (tipoStack.equalsIgnoreCase("LI")){
-                boolean valida2 = false;
-                while(!valida2){
-                    System.out.println("Escriba el tipo de lista que quiere:\n1. Escriba S si quiere simple\n2. Escriba D si quiere doble\n");
-                    tipoList=scan.nextLine();
-                    if (tipoList.equalsIgnoreCase("S")){
-                        valida2=true;
-                    } else if (tipoList.equalsIgnoreCase("D")){
-                        valida2=true;
-                    } else{
-                        System.out.println("\nIngrese una opcion valida\n");
-                    }
-                }
-                valida1=true;
-            } else{
-                System.out.println("\nIngrese una opcion valida\n");
-            }
-
-            
-        // pregunta idioma de origen (escoge diccionario dict)
-        // pregunta idioma de destino (escoge numero del array i)
-
-        // string traducido (No se)
-        // for s in texto:
-        //     busca s en dict
-        //         if encuentra s: append dict-s[i]
-        //         else: append "*"+s+"*" 
-        return null;
-    }
-
 }
