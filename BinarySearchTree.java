@@ -179,7 +179,7 @@ public class BinarySearchTree<E extends Comparable<E>>
         if (root.isEmpty()) return null;
 
         BinaryTree<E> possibleLocation = locate(root,value);
-        boolean found = possibleLocation.value().equals(value);
+        boolean found = possibleLocation.value().compareTo(value)==0;
         if (found){
           return possibleLocation.value();}
         else{

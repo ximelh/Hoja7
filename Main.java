@@ -36,7 +36,7 @@ public class Main {
         
 	    // for palabra in strings
         //    hacer un new ComparableAssociation<palabra[lengua], palabra>
-        //    y meter este ComparableAssociation al BST
+        //    y meter este ComparableAssociation al BST con add
         
         return null;   
     }
