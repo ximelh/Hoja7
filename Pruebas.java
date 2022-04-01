@@ -15,11 +15,11 @@ public class Pruebas extends TestCase{
         ca2 = new ComparableAssociation<String,String>("key",null);
         assertEquals(0, ca1.compareTo(ca2));
 
-        ca1 = new ComparableAssociation<String,String>("bait","aaa");
+        ca1 = new ComparableAssociation<String,String>("gato","aaa");
         assertEquals(true, ca1.compareTo(ca2)<0);
 
-        ca1 = new ComparableAssociation<String,String>("kung fu","aaa");
-        assertEquals(false, ca1.compareTo(ca2)<0);
+        ca1 = new ComparableAssociation<String,String>("gastar","aaa");
+        assertEquals(false, ca1.compareTo(ca2)>0);
     }
 
     @Test
@@ -50,6 +50,11 @@ public class Pruebas extends TestCase{
         assertEquals(64.0, ca2.getKey());
         assertEquals("a12", ca2.getValue()[0]);
 
+
+    }
+
+    @Test
+    public void testA(){
 
     }
 }

@@ -1,3000 +1,3000 @@
-encourage,alentar,encourager
-basic,básico,de base
-page,página,page
-staff,personal,personnel
-exhibition,exposición,exposition
-positive,positivo,positif
-assume,asumir,supposer
-prisoner,prisionero,prisonnier
-punishment,castigo,châtiment
-live,en vivo,habitent
-presentation,presentación,présentation
-tribe,tribu,tribu
-test,prueba,test
-statement,declaración,déclaration
-employment,empleo,emploi
-pipe,tubo,tuyau
-plus,más,plus
-treat,tratar,traiter
-saving,ahorro,économie
-spot,lugar,place
-dare,atrevimiento,oser
-profit,ganancia,profit
-horizon,horizonte,horizon
-nose,nariz,nez
-regular,regular,régulier
-exercise,ejercicio,exercer
-warning,advertencia,attention
-opening,apertura,ouverture
-researcher,investigador,chercheur
-dealer,distribuidor,marchand
-never,nunca,jamais
-group,grupo,grouper
-spokesman,portavoz,porte-parole
-debt,deuda,dette
-acquire,adquirir,acquérir
-faculty,facultad,la faculté
-permission,permiso,autorisation
-leadership,liderazgo,leadership
-write,escribe,écrivez
-responsibility,responsabilidad,responsabilité
-council,consejo,conseil
-proportion,proporción,proportion
-pine,pino,pin
-senator,senador,sénateur
-host,anfitrión,héberger
-urge,impulso,exhorter
-founder,fundador,fondateur
-ago,atrás,depuis
-singer,cantante,chanteur
-establish,establecer,établir
-deficit,déficit,déficit
-birthday,cumpleaños,date d'anniversaire
-evening,noche,soirée
-those,esos,celles
-toward,hacia,vers
-finish,finalizar,terminer
-text,texto,texte
-actress,actriz,actrice
-seize,aprovechar,s'emparer de
-at,en,à
-quiet,tranquilo,silencieux
-neighborhood,vecindario,quartier
-am,soy,un m
-fate,destino,destin
-performance,rendimiento,performance
-fruit,fruta,fruit
-substance,sustancia,substance
-boyfriend,novio,petit ami
-review,revisión,la revue
-plot,trama,parcelle
-adapt,adaptar,adapter
-hour,hora,heure
-green,verde,vert
-personality,personalidad,personnalité
-inquiry,consulta,enquête
-identify,identificar,identifier
-fault,culpa,faute
-certain,cierto,certain
-pick,elegir,prendre
-lifestyle,estilo de vida,mode de vie
-everyday,cada día,tous les jours
-information,información,information
-shrug,encogimiento de hombros,hausser les épaules
-adviser,asesor,conseiller
-across,al otro lado de,de l'autre côté
-airport,aeropuerto,aéroport
-fly,mosca,voler
-mark,marca,marque
-district,distrito,quartier
-dirty,sucio,sale
-volunteer,voluntario,bénévole
-mere,mero,simple
-bright,brillante,brillant
-system,sistema,système
-nice,agradable,agréable
-conservative,conservador,conservateur
-project,proyecto,projet
-officer,oficial,officier
-brand,marca,marque
-divorce,divorcio,divorce
-employer,empleador,employeur
-within,dentro de,dans
-specialist,especialista,spécialiste
-substantial,sustancial,substantiel
-town,pueblo,ville
-station,estación,station
-illegal,ilegal,illégal
-face,rostro,visage
-get,obtener,avoir
-rarely,casi nunca,rarement
-among,entre,parmi
-atmosphere,atmósfera,atmosphère
-violate,violar,violer
-sort,clasificar,sorte
-vehicle,vehículo,véhicule
-forward,hacia adelante,effronté
-temperature,temperatura,température
-soft,suave,doux
-disability,invalidez,invalidité
-insurance,seguro,assurance
-household,familiar,ménage
-publication,publicación,publication
-main,principal,principale
-distance,distancia,distance
-originally,originalmente,initialement
-fade,desvanecerse,disparaître
-art,arte,art
-gas,gas,gaz
-organize,organizar,organiser
-fellow,compañero,compagnon
-chair,silla,chaise
-nor,ni,ni
-row,fila,ligne
-suppose,suponer,supposer
-something,algo,quelque chose
-large,grande,grande
-painter,pintor,peintre
-display,mostrar,affichage
-analyze,analizar,analyser
-string,cuerda,chaîne de caractères
-promise,promesa,promettre
-knife,cuchillo,couteau
-implication,implicación,implication
-section,sección,section
-flesh,carne,chair
-tragedy,tragedia,la tragédie
-advocate,defensor,avocat
-experience,experiencia,expérience
-recovery,recuperación,récupération
-girlfriend,novia,copine
-muscle,músculo,muscle
-international,internacional,international
-fortune,fortuna,fortune
-expensive,caro,cher
-due,vencer,payable
-touch,tocar,toucher
-little,poco,peu
-wrong,incorrecto,tort
-king,rey,roi
-myth,mito,mythe
-lack,carecer,manque
-passage,paso,passage
-struggle,dificil,lutter
-county,condado,comté
-agency,agencia,agence
-british,británico,britanique
-witness,testigo,témoin
-horse,caballo,cheval
-forget,olvidar,oubliez
-judge,juez,juge
-towards,hacia,vers
-screen,pantalla,écran
-pain,dolor,douleur
-pleasure,placer,plaisir
-wisdom,sabiduría,sagesse
-which,cual,lequel
-slide,diapositiva,faire glisser
-hip,cadera,hanche
-challenge,desafío,défi
-relax,relajarse,détendez-vous
-director,director,réalisateur
-prescription,prescripción,ordonnance
-connection,conexión,connexion
-venture,riesgo,entreprise
-shelf,estante,étagère
-son,hijo,fils
-plant,planta,plante
-organic,orgánico,biologique
-transportation,transporte,transport
-apparently,aparentemente,apparemment
-star,estrella,star
-planning,planificación,planification
-partner,compañero,partenaire
-direct,directo,direct
-connect,conectar,relier
-intelligence,inteligencia,intelligence
-fact,hecho,fait
-expect,suponer,attendre
-split,separar,diviser
-widely,ampliamente,largement
-do,hacer,fais
-idea,idea,idée
-storm,tormenta,orage
-pot,maceta,pot
-capable,capaz,capable
-prevent,evitar,empêcher
-issue,asunto,publier
-stick,palo,coller
-resemble,asemejarse a,ressembler
-deny,negar,nier
-resistance,resistencia,la résistance
-fiction,ficción,fiction
-former,anterior,ancien
-maker,fabricante,fabricant
-stress,estrés,stress
-carry,llevar,porter
-cooperation,cooperación,la coopération
-already,ya,déjà
-working,trabajando,travaillant
-even,incluso,même
-round,ronda,rond
-exact,exacto,exact
-degree,la licenciatura,diplôme
-today,hoy dia,aujourd'hui
-assist,ayudar,aider
-pop,música pop,pop
-understanding,comprensión,entente
-successfully,exitosamente,avec succès
-contemporary,contemporáneo,contemporain
-justify,justificar,justifier
-critical,crítico,critique
-priority,prioridad,priorité
-neck,cuello,cou
-rhythm,ritmo,rythme
-rule,regla,régner
-identity,identidad,identité
-efficiency,eficiencia,efficacité
-quarterback,jugador de ataque,stratège
-million,millón,million
-obtain,obtener,obtenir
-alone,solo,seule
-assumption,suposición,supposition
-him,él,lui
-through,a través de,par
-them,ellos,leur
-conference,conferencia,conférence
-small,pequeña,petit
-frequent,frecuente,fréquent
-civilian,civil,civil
-than,que,que
-blow,soplar,souffler
-anxiety,ansiedad,anxiété
-flavor,sabor,saveur
-suicide,suicidio,suicide
-corporate,corporativo,d'entreprise
-education,educación,éducation
-travel,viaje,voyage
-gradually,gradualmente,progressivement
-style,estilo,style
-relative,relativo,relatif
-poetry,poesía,poésie
-hero,héroe,héros
-tension,tensión,tension
-behind,detrás,derrière
-opportunity,oportunidad,opportunité
-existence,existencia,existence
-production,producción,production
-economics,ciencias económicas,économie
-enormous,enorme,énorme
-far,lejos,loin
-change,cambiar,changement
-cash,dinero en efectivo,en espèces
-philosophy,filosofía,philosophie
-fail,fallar,échouer
-wise,sabio,sage
-surprised,sorprendido,surpris
-translate,traducir,traduire
-insight,visión,aperçu
-gang,pandilla,gang
-aspect,aspecto,aspect
-arrival,llegada,arrivée
-gallery,galería,galerie
-ensure,garantizar,assurer
-resident,residente,résident
-ideal,ideal,idéal
-wonder,preguntarse,merveille
-third,tercera,la troisième
-dead,muerto,mort
-barely,apenas,à peine
-boat,bote,bateau
-replace,reemplazar,remplacer
-example,ejemplo,exemple
-toe,dedo del pie,doigt de pied
-lead,dirigir,mener
-nobody,nadie,personne
-curious,curioso,curieuse
-sell,vender,vendre
-broken,roto,cassé
-less,menos,moins
-grave,tumba,la tombe
-abortion,aborto,avortement
-stroke,carrera,accident vasculaire cérébral
-killing,asesinato,meurtre
-truly,verdaderamente,vraiment
-cat,gato,chat
-branch,rama,branche
-scientific,científico,scientifique
-eastern,oriental,est
-advice,consejo,conseils
-lot,lote,parcelle
-christian,cristiano,christian
-garage,garaje,garage
-regulation,regulación,régulation
-qualify,calificar,qualifier
-manner,conducta,manière
-weather,tiempo,la météo
-lifetime,toda la vida,durée de vie
-draw,dibujar,dessiner
-label,etiqueta,étiqueter
-introduce,introducir,présenter
-bible,biblia,bible
-illustrate,ilustrar,illustrer
-begin,empezar,commencer
-gay,gay,gay
-cotton,algodón,coton
-neighbor,vecino,voisine
-master,maestro,maître
-soil,tierra,sol
-unable,incapaz,incapable
-quality,calidad,qualité
-pilot,piloto,pilote
-progress,progreso,le progrès
-generation,generacion,génération
-virtually,virtualmente,virtuellement
-finger,dedo,doigt
-environment,ambiente,environnement
-white,blanco,blanche
-silver,plata,argent
-shirt,camisa,chemise
-next,próximo,suivant
-price,precio,le prix
-margin,margen,marge
-resource,recurso,ressource
-code,código,code
-involved,involucrado,impliqué
-application,solicitud,application
-reinforce,reforzarse,renforcer
-task,tarea,tâche
-wire,cable,fil
-stone,roca,calcul
-finance,finanzas,la finance
-lawn,césped,pelouse
-evolve,evolucionar,évoluer
-participant,partícipe,participant
-bus,autobús,autobus
-embrace,abarcar,embrasse
-love,amor,amour
-consultant,consultor,consultant
-skin,piel,la peau
-impossible,imposible,impossible
-completely,completamente,complètement
-correct,correcto,correct
-appointment,cita,rendez-vous
-deserve,merecer,mériter
-critic,crítico,critique
-story,historia,récit
-as,como,comme
-disease,enfermedad,maladie
-satisfy,satisfacer,satisfaire
-sexual,sexual,sexuel
-heart,corazón,cœur
-quietly,en silencio,tranquillement
-some,algunos,quelque
-deck,plataforma,plate-forme
-extensive,extenso,extensif
-definitely,definitivamente,absolument
-mistake,error,erreur
-initially,inicialmente,initialement
-farm,granja,cultiver
-curriculum,plan de estudios,curriculum
-institution,institución,institution
-billion,billón,milliard
-sauce,salsa,sauce
-friendly,amistoso,amical
-me,me,moi
-jew,judío,juif
-improve,mejorar,améliorer
-lover,amante,amoureux
-accomplish,lograr,accomplir
-associate,asociar,associer
-otherwise,de lo contrario,par ailleurs
-investigation,investigación,enquête
-any,ninguna,quelconque
-realize,darse cuenta de,prendre conscience de
-consideration,consideración,considération
-its,su,son
-heaven,cielo,paradis
-content,contenido,contenu
-child,niño,enfant
-lab,laboratorio,laboratoire
-thinking,pensando,en pensant
-beginning,comenzando,début
-play,jugar,jouer
-politically,políticamente,politiquement
-annual,anual,annuel
-jacket,chaqueta,veste
-growing,creciente,croissance
-dialogue,diálogo,dialogue
-note,nota,remarque
-beauty,belleza,beauté
-galaxy,galaxia,galaxie
-option,opción,option
-radical,radical,radical
-fantasy,fantasía,fantaisie
-famous,famoso,célèbre
-holiday,fiesta,vacances
-hell,infierno,enfer
-who,quién,oms
-basically,básicamente,fondamentalement
-palestinian,palestino,palestinien
-notice,aviso,remarquer
-highly,muy,très
-chase,perseguir,chasser
-ear,oreja,oreille
-public,público,publique
-easy,fácil,facile
-raise,aumentar,élever
-handful,puñado,poignée
-habit,hábito,habitude
-wonderful,maravilloso,magnifique
-tail,cola,queue
-repeatedly,repetidamente,à plusieurs reprises
-naturally,naturalmente,naturellement
-program,programa,programme
-yield,producir,rendement
-e-mail,email,e-mail
-whose,cuyo,à qui
-reflect,reflejar,réfléchir
-scream,grito,crier
-classroom,salón de clases,salle de classe
-invasion,invasión,invasion
-traffic,tráfico,circulation
-tactic,táctica,tactique
-promote,promover,promouvoir
-ahead,adelante,devant
-united,unido,uni
-exactly,exactamente,exactement
-literature,literatura,littérature
-rating,clasificación,notation
-ceiling,techo,plafond
-certainly,ciertamente,certainement
-rush,prisa,se ruer
-cold,frío,du froid
-milk,leche,lait
-limit,límite,limite
-chapter,capítulo,chapitre
-item,ít,objet
-way,manera,façon
-middle,medio,milieu
-especially,especialmente,surtout
-spend,gastar,dépenser
-boot,bota,démarrage
-muslim,musulmán,musulman
-physically,físicamente,physiquement
-criticize,criticar,critiquer
-minor,menor,mineur
-six,seis,six
-class,clase,classer
-investor,inversor,investisseur
-conclusion,conclusión,conclusion
-distribution,distribución,distribution
-fashion,moda,mode
-ultimate,último,ultime
-appoint,nombrar,nommer
-chief,jefe,chef
-move,moverse,bouge toi
-democrat,demócrata,démocrate
-land,tierra,terre
-create,crear,créer
-tv,televisor,la télé
-basket,cesta,corbeille
-twice,dos veces,deux fois
-awful,horrible,affreux
-abroad,en el extranjero,à l'étranger
-excellent,excelente,excellent
-normally,normalmente,en temps normal
-pursue,perseguir,poursuivre
-immediately,inmediatamente,immédiatement
-recover,recuperar,se remettre
-awareness,conciencia,sensibilisation
-destroy,destruir,détruire
-cloud,nube,nuage
-near,cerca,près
-primarily,ante todo,principalement
-nut,tuerca,noix
-often,con frecuencia,souvent
-largely,en gran parte,en grande partie
-celebrate,celebrar,célébrer
-mad,enojado,fou
-bone,hueso,os
-publish,publicar,publier
-proposed,propuesto,proposé
-horror,horror,horreur
-cool,frio,frais
-physician,médico,médecin
-link,enlace,lien
-blue,azul,bleu
-perspective,perspectiva,la perspective
-hat,sombrero,chapeau
-dad,papá,père
-street,calle,rue
-birth,nacimiento,naissance
-demonstrate,demostrar,démontrer
-funding,fondos,le financement
-pair,par,paire
-lip,labio,lèvre
-divide,dividir,diviser
-security,seguridad,sécurité
-remote,remoto,à distance
-musician,músico,musicien
-independent,independiente,indépendant
-italian,italiano,italien
-association,asociación,association
-expansion,expansión,expansion
-threat,amenaza,menace
-friendship,amistad,relation amicale
-remaining,restante,restant
-maintenance,mantenimiento,maintenance
-soup,sopa,soupe
-window,ventana,la fenêtre
-clinical,clínico,clinique
-symbol,símbolo,symbole
-route,ruta,route
-economist,economista,économiste
-taxpayer,contribuyente,contribuable
-movie,película,film
-voter,votante,électeur
-us,nosotros,nous
-treatment,tratamiento,traitement
-theater,teatro,théâtre
-why,por qué,pourquoi
-afternoon,tarde,après midi
-significantly,significativamente,significativement
-evidence,evidencia,preuve
-distant,distante,loin
-cultural,cultural,culturel
-force,fuerza,obliger
-politics,política,politique
-proposal,propuesta,proposition
-running,corriendo,fonctionnement
-her,su,son
-cholesterol,colesterol,cholestérol
-better,mejor,mieux
-miss,extrañar,mademoiselle
-serious,grave,sérieux
-wheel,rueda,roue
-advance,avance,avance
-anyone,alguien,n'importe qui
-cook,cocinar,cuisiner
-christmas,navidad,noël
-another,otro,une autre
-relevant,pertinente,pertinent
-headquarters,sede,quartier général
-simply,simplemente,simplement
-tower,torre,la tour
-phenomenon,fenómeno,phénomène
-right,correcto,droit
-species,especies,espèce
-discussion,discusión,discussion
-newly,recién,nouvellement
-survive,sobrevivir,survivre
-european,europeo,européen
-vote,votar,voter
-bit,poco,bit
-nothing,nada,rien
-well,bien,bien
-suspect,sospechar,suspect
-late,tarde,en retard
-tone,tono,ton
-ball,bola,balle
-until,hasta que,jusqu'à ce que
-inner,interno,intérieur
-moral,moral,moral
-country,país,de campagne
-teaspoon,cucharilla,cuillère à café
-development,desarrollo,développement
-great,estupendo,génial
-mix,mezcla,mélanger
-anticipate,prever,anticiper
-category,categoría,catégorie
-natural,natural,naturel
-crowd,multitud,foule
-journalist,periodista,journaliste
-name,nombre,nom
-conclude,concluir,conclure
-lunch,comida,déjeuner
-portray,retratar,représenter
-inspire,inspirar,inspirer
-because,porque,car
-concentration,concentración,concentration
-root,raíz,racine
-session,sesión,session
-waste,desperdicio,déchets
-quickly,rápidamente,rapidement
-bunch,racimo,groupe
-student,estudiante,élève
-twenty,veinte,vingt
-exciting,excitante,passionnant
-copy,copiar,copie
-cabinet,gabinete,cabinet
-high,elevado,haut
-prepare,preparar,préparer
-closer,más cerca,plus proche
-pose,pose,pose
-universal,universal,universel
-develop,desarrollar,développer
-bear,oso,ours
-opponent,adversario,adversaire
-gear,engranaje,équipement
-guest,huésped,invité
-four,cuatro,quatre
-girl,niña,fille
-biological,biológico,biologique
-gray,gris,grise
-protest,protesta,manifestation
-also,además,également
-tour,excursión,visiter
-jewish,judío,juif
-sanction,sanción,sanction
-shore,orilla,rive
-soul,alma,âme
-so-called,así llamado,soi-disant
-sand,arena,sable
-tennis,tenis,tennis
-road,camino,route
-real,verdadero,réel
-fourth,cuatro,quatrième
-privacy,intimidad,intimité
-beat,derrotar,battre
-boss,patrón,chef
-produce,produce,produire
-absolutely,absolutamente,tout à fait
-expand,expandir,développer
-frustration,frustración,frustration
-creative,creativo,créatif
-bike,bicicleta,bicyclette
-ugly,feo,laid
-virtue,virtud,vertu
-personal,personal,personnel
-offensive,ofensiva,offensive
-weapon,arma,arme
-independence,independencia,indépendance
-senate,senado,sénat
-juice,jugo,jus
-foreign,extranjero,étranger
-accept,aceptar,j'accepte
-concern,preocupación,préoccuper
-interpret,interpretar,interpréter
-carrier,transportador,transporteur
-constitute,constituir,constituer
-distinct,distinto,distinct
-observe,observar,observer
-ceremony,ceremonia,la cérémonie
-conflict,conflicto,conflit
-pan,sartén,poêle
-unique,único,unique
-yourself,tú mismo,toi-même
-legend,leyenda,légende
-rather,bastante,plutôt
-body,cuerpo,corps
-expose,exponer,exposer
-patch,parche,pièce
-skill,habilidad,compétence
-stomach,estómago,estomac
-additional,adicional,additionnel
-course,curso,cours
-weekly,semanal,hebdomadaire
-portrait,retrato,portrait
-impose,imponer,imposer
-earnings,ganancias,gains
-surround,rodear,entourer
-efficient,eficiente,efficace
-sigh,suspiro,soupir
-vision,visión,vision
-bank,banco,banque
-material,material,matériel
-track,pista,piste
-secure,seguro,sécurise
-family,familia,famille
-secretary,secretario,secrétaire
-election,elección,élection
-debate,debate,débat
-ms,milisegundo,mme
-race,raza,course
-stable,estable,stable
-should,deberían,devrait
-kitchen,cocina,cuisine
-platform,plataforma,plate-forme
-alcohol,alcohol,de l'alcool
-innocent,inocente,innocent
-snow,nieve,neiger
-instead,en lugar de,au lieu
-desire,deseo,désir
-below,debajo,au dessous de
-glove,guante,gant
-whereas,mientras que,tandis que
-shade,sombra,ombre
-amazing,increíble,étonnante
-improvement,mejora,amélioration
-detail,detalle,détail
-evaluate,evaluar,évaluer
-contain,contiene,contenir
-someone,alguien,quelqu'un
-occasion,ocasión,occasion
-secret,secreto,secret
-dangerous,peligroso,dangereux
-freeze,congelar,geler
-song,canción,chanson
-academic,académico,académique
-fair,justo,équitable
-romantic,romántico,romantique
-rid,deshacerse,débarrasser
-lower,más bajo,plus bas
-evolution,evolución,évolution
-mask,máscara,masquer
-destruction,destrucción,destruction
-final,final,final
-arrive,llegar,arrivée
-length,longitud,longueur
-hospital,hospital,hôpital
-wedding,boda,mariage
-close,cerrar,fermer
-governor,gobernador,gouverneur
-producer,productor,producteur
-pm,pm,pm
-incredible,increíble,incroyable
-married,casado,marié
-fifty,cincuenta,cinquante
-permanent,permanente,permanent
-respondent,demandado,intimé
-acknowledge,reconocer,accuser réception
-keep,mantenerse,garder
-communication,comunicación,la communication
-slow,lento,lent
-message,mensaje,un message
-scandal,escándalo,scandale
-briefly,brevemente,brièvement
-describe,describir,décris
-whatever,lo que,peu importe
-private,privado,privé
-can,lata,pouvez
-military,militar,militaire
-card,tarjeta,carte
-borrow,tomar prestado,emprunter
-government,gobierno,gouvernement
-core,centro,cœur
-ourselves,nosotros mismos,nous-mêmes
-exchange,intercambio,échanger
-episode,episodio,épisode
-found,fundar,a trouvé
-rank,rango,rang
-event,evento,un événement
-term,término,terme
-pocket,bolsillo,poche
-gift,regalo,cadeau
-differently,diferentemente,différemment
-surely,seguramente,sûrement
-seven,siete,sept
-somehow,de alguna manera,en quelque sorte
-poverty,pobreza,la pauvreté
-share,cuota,partager
-accompany,acompañar,accompagner
-tomorrow,mañana,demain
-possibility,posibilidad,possibilité
-previous,anterior,précédent
-wave,ola,vague
-injury,lesión,blessure
-shall,deberá,doit
-telescope,telescopio,télescope
-steal,robar,voler
-male,masculino,masculin
-you,usted,toi
-dream,sueño,rêver
-again,otra vez,de nouveau
-celebration,celebracion,fête
-foundation,fundación,fondation
-onto,sobre,sur
-once,una vez,une fois que
-beach,playa,plage
-mental,mental,mental
-center,centrar,centre
-to,para,pour
-capability,capacidad,aptitude
-artist,artista,artiste
-tired,cansado,fatigué
-intellectual,intelectual,intellectuel
-elsewhere,en otra parte,ailleurs
-second,segundo,seconde
-first,primero,première
-notion,noción,notion
-objective,objetivo,objectif
-novel,novela,roman
-office,oficina,bureau
-throw,lanzar,lancer
-writing,escribiendo,en écrivant
-furniture,mueble,meubles
-factor,factor,facteur
-recommendation,recomendación,recommandation
-ever,siempre,jamais
-angry,enfadado,en colère
-narrow,estrecho,étroit
-tomato,tomate,tomate
-collect,recolectar,collecter
-attempt,intento,tentative
-belt,cinturón,ceinture
-clinic,clínica,clinique
-ability,capacidad,capacité
-retirement,jubilación,retraite
-sex,sexo,sexe
-gaze,mirada,regard
-drink,bebida,boisson
-probably,probablemente,probablement
-implement,implementar,mettre en œuvre
-meter,metro,mètre
-fix,reparar,réparer
-ring,anillo,bague
-grand,grandioso,grandiose
-odd,impar,impair
-shut,cerrar,fermer
-virus,virus,virus
-peer,mirar,pair
-circumstance,circunstancia,circonstance
-store,tienda,boutique
-eliminate,eliminar,éliminer
-thousand,mil,mille
-generally,generalmente,généralement
-painting,cuadro,la peinture
-outcome,salir,résultat
-gather,recolectar,rassembler
-pregnancy,el embarazo,grossesse
-strong,fuerte,fort
-society,sociedad,société
-training,capacitación,formation
-what,qué,quel
-criminal,delincuente,criminel
-motion,movimiento,mouvement
-owner,dueño,propriétaire
-increasingly,cada vez más,de plus en plus
-speaker,altavoz,conférencier
-how,cómo,comment
-goal,meta,but
-practical,práctico,pratique
-wild,salvaje,sauvage
-warn,advertir,prévenir
-worry,preocuparse,s'inquiéter
-burn,quemar,brûler
-warm,cálido,chaleureux
-calculate,calcular,calculer
-factory,fábrica,usine
-pepper,pimienta,poivre
-honey,cariño,mon chéri
-loud,ruidoso,fort
-ease,facilitar,faciliter
-commander,comandante,le commandant
-hall,salón,salle
-sense,sentido,sens
-hear,escuchar,écouter
-since,ya que,puisque
-highway,carretera,autoroute
-republican,republicano,républicain
-profession,profesión,profession
-impact,impacto,impacter
-external,externo,externe
-mayor,alcalde,maire
-modern,moderno,moderne
-mission,misión,mission
-explosion,explosión,explosion
-diverse,diverso,diverse
-coverage,cobertura,couverture
-surprising,sorprendente,surprenant
-regime,régimen,régime
-make,hacer,fabriquer
-fear,miedo,peur
-salad,ensalada,salade
-ultimately,por último,finalement
-voice,voz,voix
-character,personaje,personnage
-status,estado,statut
-oh,oh,oh
-nervous,nervioso,nerveux
-respect,respeto,le respect
-grass,hierba,gazon
-guideline,guía,ligne directrice
-northern,del norte,nord
-pride,orgullo,orgueil
-enhance,mejorar,améliorer
-file,expediente,fichier
-adolescent,adolescente,adolescent
-attractive,atractivo,attractif
-happy,contento,content
-member,miembro,membre
-anger,enojo,colère
-extension,extensión,extension
-budget,presupuesto,budget
-rest,descanso,du repos
-aid,ayuda,aide
-maintain,mantener,maintenir
-herself,sí misma,se
-naked,desnudo,nu
-world,mundo,monde
-grab,tomar,saisir
-worried,preocupado,inquiet
-tonight,esta noche,ce soir
-ad,anuncio,ad
-charge,cargar,charger
-buy,comprar,acheter
-sick,enfermo,malade
-switch,cambiar,changer
-cost,costo,coût
-process,proceso,traiter
-hi,hola,salut
-specifically,específicamente,plus précisément
-successful,exitoso,réussi
-habitat,habitat,habitat
-recall,recordar,rappeler
-effort,esfuerzo,effort
-ground,terrestre,sol
-disorder,trastorno,désordre
-plastic,el plastico,plastique
-depth,profundidad,profondeur
-commitment,compromiso,engagement
-determine,determinar,déterminer
-between,entre,compris entre
-asian,asiático,asiatique
-police,policía,police
-cell,célula,cellule
-damage,daño,dommage
-drive,conducir,conduire
-guide,guía,guider
-partnership,camaradería,partenariat
-university,universidad,université
-compare,comparar,comparer
-bother,molestar,embêter
-consist,consistir,consister
-marketing,márketing,commercialisation
-month,mes,mois
-gun,pistola,arme à feu
-intervention,intervención,intervention
-sure,por supuesto,bien sur
-therefore,por lo tanto,donc
-principal,principal,principal
-direction,dirección,direction
-capital,capital,capitale
-boundary,perímetro,frontière
-dinner,cena,dîner
-vegetable,vegetal,légume
-arab,árabe,arabe
-network,la red,réseau
-season,temporada,saison
-market,mercado,marché
-limitation,limitación,limitation
-feel,sentir,sentir
-sun,sol,soleil
-southern,meridional,du sud
-mode,modo,mode
-floor,piso,sol
-camera,cámara,appareil photo
-interested,interesado,intéressé
-daughter,hija,la fille
-win,ganar,gagner
-iraqi,iraquí,irakien
-noise,ruido,bruit
-ski,esquí,ski
-captain,capitán,capitaine
-chart,gráfico,graphique
-compete,competir,rivaliser
-complicated,complicado,compliqué
-stability,estabilidad,la stabilité
-major,importante,majeur
-scene,escena,scène
-exhibit,exposición,exposition
-suggest,sugerir,suggérer
-strange,extraño,étrange
-run,correr,cours
-square,cuadrado,carré
-toss,sacudida,lancer
-visual,visual,visuel
-kind,tipo,type
-our,nuestro,notre
-expression,expresión,expression
-standing,de pie,debout
-see,ver,voir
-software,software,logiciel
-investigator,investigador,enquêteur
-thin,delgado,mince
-job,trabajo,travail
-risk,riesgo,risque
-driver,conductor,chauffeur
-tank,tanque,char
-complex,complejo,complexe
-deputy,diputado,adjoint
-adventure,aventuras,aventure
-frame,marco,cadre
-fuel,gasolina,carburant
-north,norte,nord
-precisely,precisamente,précisément
-teen,adolescente,adolescent
-modest,modesto,modeste
-egg,huevo,oeuf
-fast,rápido,vite
-color,color,couleur
-attract,atraer,attirer
-broad,amplio,large
-photo,foto,photo
-unit,unidad,unité
-artistic,artístico,artistique
-they,ellos,elles ou ils
-aim,apuntar,objectif
-homeless,vagabundo,sans-abri
-nuclear,nuclear,nucléaire
-line,línea,ligne
-spirit,espíritu,esprit
-victim,víctima,victime
-spending,gasto,dépenses
-arrest,arrestar,arrêter
-decade,década,décennie
-rate,calificar,taux
-okay,bueno,d'accord
-mortgage,hipoteca,hypothèque
-courage,coraje,courage
-tall,alto,haut
-dna,adn,adn
-slave,esclavo,trimer
-psychological,psicológico,psychologique
-moreover,es más,en outre
-politician,político,politicien
-similar,similar,similaire
-dig,cavar,creuser
-this,esta,ce
-smile,sonreír,le sourire
-senior,mayor,sénior
-paint,pintura,peinture
-metal,metal,métal
-need,necesitar,besoin
-everywhere,en todas partes,partout
-trick,truco,duper
-cow,vaca,vache
-record,registro,disque
-potential,potencial,potentiel
-request,solicitud,demande
-circle,circulo,cercle
-lay,poner,allonger
-tobacco,tabaco,le tabac
-comment,comentario,commenter
-enforcement,aplicación,mise en vigueur
-bridge,puente,pont
-path,sendero,chemin
-mount,montar,monter
-massive,masivo,massif
-native,nativo,originaire de
-short,pequeño,court
-fat,grasa,gros
-income,ingreso,le revenu
-front,parte delantera,de face
-coat,saco,manteau
-numerous,numeroso,nombreux
-mechanism,mecanismo,mécanisme
-assessment,evaluación,évaluation
-health,salud,santé
-quite,bastante,assez
-chest,cofre,coffre
-sing,canta,chanter
-action,acción,action
-five,cinco,cinq
-gender,género,le sexe
-disappear,desaparecer,disparaître
-football,fútbol,football
-tunnel,túnel,tunnel
-welfare,bienestar,bien-être
-ah,ah,ah
-comprehensive,exhaustivo,complet
-take,llevar,prendre
-legacy,legado,héritage
-protein,proteína,protéine
-catholic,católico,catholique
-tendency,tendencia,tendance
-dimension,dimensión,dimension
-assignment,asignación,mission
-veteran,veterano,vétéran
-crew,tripulación,équipage
-characteristic,característica,caractéristique
-likely,probable,probable
-steady,firme,constant
-layer,capa,couche
-carbon,carbón,carbone
-importance,importancia,importance
-corn,maíz,maïs
-provider,proveedor,fournisseur
-support,apoyo,support
-hungry,hambriento,faim
-attack,ataque,attaque
-image,imagen,image
-victory,victoria,la victoire
-total,total,total
-ban,prohibición,interdire
-glass,vidrio,verre
-condition,condición,état
-slightly,levemente,légèrement
-prosecutor,fiscal,procureur
-head,cabeza,diriger
-equally,igualmente,également
-model,modelo,maquette
-sacred,sagrado,sacré
-stay,quédate,rester
-recognize,reconocer,reconnaître
-yet,aún,encore
-personally,personalmente,personnellement
-half,medio,demi
-on,en,au
-hate,odio,détester
-woman,mujer,femme
-convert,convertir,convertir
-partly,parcialmente,partiellement
-sake,motivo,saké
-nod,asentir,hocher la tête
-citizen,ciudadano,citoyen
-french,francés,français
-guy,chico,mec
-missile,misil,missile
-solid,sólido,solide
-match,partido,rencontre
-emotional,emocional,émotif
-just,sólo,juste
-psychologist,psicólogo,psychologue
-portion,parte,portion
-possible,posible,possible
-elementary,elemental,élémentaire
-musical,musical,musical
-diet,dieta,diète
-educator,educador,éducateur
-picture,imagen,image
-supply,suministro,fournir
-recognition,reconocimiento,reconnaissance
-uncle,tío,oncle
-fighter,combatiente,combattant
-daily,a diario,du quotidien
-recently,hace poco,récemment
-doubt,duda,doute
-summit,cumbre,sommet
-flee,huir,fuir
-suffer,sufrir,souffrir
-survival,supervivencia,survie
-guarantee,garantía,garantie
-ill,enfermo,malade
-absolute,absoluto,absolu
-regarding,con respecto a,en ce qui concerne
-violation,violación,violation
-particularly,particularmente,particulièrement
-imply,implicar,impliquer
-thick,grueso,épais
-sleep,dormir,sommeil
-swear,jurar,jurer
-popular,popular,populaire
-invest,invertir,investir
-gain,ganar,gain
-reach,alcanzar,atteindre
-usual,usual,habituel
-variety,variedad,variété
-cut,corte,couper
-garden,jardín,jardin
-cooking,cocinando,cuisine
-stream,arroyo,flux
-present,regalo,cadeau
-journal,diario,journal
-hang,colgar,pendre
-campus,instalaciones,campus
-lift,elevar,ascenseur
-gold,oro,or
-operating,operando,en fonctionnement
-lock,cerrar con llave,fermer à clé
-future,futuro,avenir
-news,noticias,nouvelles
-appropriate,apropiado,approprié
-continued,continuado,a continué
-perfect,perfecto,parfait
-let,dejar,laisser
-smell,oler,sentir
-service,servicio,service
-exist,existe,exister
-strongly,fuertemente,fortement
-heavily,fuertemente,fortement
-map,mapa,carte
-nation,nación,nation
-life,la vida,la vie
-sharp,afilado,tranchant
-respond,responder,répondre
-financial,financiero,financier
-motivation,motivación,motivation
-aggressive,agresivo,agressif
-album,álbum,album
-miracle,milagro,miracle
-bell,campana,cloche
-tissue,tejido,tissu
-attach,adjuntar,attacher
-i,yo,je
-raw,crudo,cru
-themselves,ellos mismos,eux-mêmes
-engage,comprometerse,engager
-overlook,pasar por alto,négliger
-maybe,quizás,peut être
-congress,congreso,congrès
-difficulty,dificultad,difficulté
-law,ley,droit
-female,mujer,femme
-under,bajo,en dessous de
-incident,incidente,incident
-constantly,constantemente,constamment
-commission,comisión,commission
-consider,considerar,considérer
-english,inglés,anglais
-somewhat,algo,quelque peu
-living,viviendo,vivant
-contribute,contribuir,contribuer
-advise,aconsejar,conseiller
-essentially,esencialmente,essentiellement
-sad,triste,triste
-mail,correo,courrier
-persuade,persuadir,persuader
-electric,eléctrico,électrique
-pretend,pretender,faire semblant
-brick,ladrillo,brique
-anything,cualquier cosa,rien
-against,en contra,contre
-forever,siempre,toujours
-manufacturer,fabricante,fabricant
-science,ciencia,la science
-reasonable,razonable,raisonnable
-argument,argumento,argument
-sheet,sábana,drap
-two,dos,deux
-extremely,extremadamente,extrêmement
-immigration,inmigración,immigration
-pull,jalar,tirer
-freedom,libertad,liberté
-wish,deseo,souhaiter
-presence,presencia,présence
-design,diseño,conception
-stake,apostar,pieu
-energy,energía,énergie
-pattern,patrón,modèle
-aware,consciente,au courant
-fishing,pesca,faire de la pêche
-sweet,dulce,sucré
-physical,físico,physique
-commit,cometer,s'engager
-thing,cosa,chose
-soon,pronto,bientôt
-surprisingly,asombrosamente,étonnamment
-reference,referencia,référence
-phrase,frase,phrase
-each,cada,chaque
-indicate,indicar,indiquer
-landscape,paisaje,paysage
-breath,respiración,souffle
-business,negocio,affaires
-then,luego,ensuite
-full,completo,plein
-grant,conceder,accorder
-turn,girar,tourner
-hard,duro,dur
-car,coche,auto
-depending,dependiente,"en fonction, dépendemment"
-ship,embarcacion,bateau
-father,padre,père
-part,parte,partie
-relation,relación,relation
-push,empujar,pousser
-occasionally,de vez en cuando,parfois
-clear,claro,dégager
-healthy,saludable,sain
-without,sin,sans pour autant
-leader,líder,chef
-park,parque,parc
-digital,digital,numérique
-lawyer,abogado,avocat
-release,liberar,libération
-check,controlar,chèque
-dramatically,dramáticamente,radicalement
-learn,aprender,apprendre
-payment,pago,paiement
-teacher,profesor,prof
-perfectly,perfectamente,à la perfection
-if,si,si
-defensive,defensivo,défensive
-instruction,instrucción,instruction
-composition,composición,composition
-detailed,detallado,détaillé
-player,jugador,joueur
-pay,pagar,payer
-legitimate,legítimo,légitime
-territory,territorio,territoire
-subject,tema,matière
-scholarship,beca,bourse
-difference,diferencia,différence
-loose,suelto,ample
-himself,él mismo,lui-même
-buck,dólar,mâle
-consistent,consistente,cohérent
-silence,silencio,silence
-fan,ventilador,ventilateur
-by,por,par
-origin,origen,origine
-must,deber,devoir
-attention,atención,attention
-luck,suerte,chance
-pink,rosa,rose
-clue,pista,indice
-assign,asignar,attribuer
-decline,disminución,déclin
-predict,predecir,prédire
-advanced,avanzado,avancée
-open,abierto,ouvrir
-choice,elección,choix
-instance,ejemplo,exemple
-directly,directamente,directement
-regard,respecto,qui concerne
-eventually,finalmente,finalement
-ancient,antiguo,ancien
-assault,asalto,agression
-after,después,après
-blood,sangre,du sang
-chamber,cámara,chambre
-before,antes de,avant de
-height,altura,la taille
-huge,enorme,énorme
-shock,choque,choc
-regularly,regularmente,régulièrement
-initiative,iniciativa,initiative
-twelve,doce,douze
-contact,contacto,contact
-coach,entrenador,entraîneur
-wet,mojado,mouiller
-stair,escalera,escalier
-tape,cinta,ruban
-western,occidental,occidental
-celebrity,celebridad,célébrité
-analyst,analista,analyste
-framework,estructura,cadre
-disaster,desastre,catastrophe
-studio,estudio,studio
-ethnic,étnico,ethnique
-extreme,extremo,extrême
-anymore,ya no,plus
-alive,vivo,vivant
-entrance,entrada,entrée
 a,un,une
-resort,recurso,recours
-unless,a no ser que,à moins que
-success,éxito,succès
-except,excepto,à l'exception
-influence,influencia,influence
-proper,adecuado,correct
-mean,significar,signifier
-amount,monto,montant
-smoke,humo,fumée
-column,columna,colonne
-representative,representante,représentant
-limited,limitado,limité
-necessary,necesario,nécessaire
-preference,preferencia,préférence
-past,pasado,passé
-hand,mano,main
-rock,rock,roche
-campaign,campaña,campagne
-complain,quejarse,se plaindre
-period,período,point final
-inflation,inflación,inflation
-fish,pez,poisson
-word,palabra,mot
-step,paso,étape
-movement,movimiento,mouvement
-expense,gastos,frais
-cream,crema,crème
-clean,limpio,nettoyer
-bury,enterrar,enterrer
-consumer,consumidor,consommateur
-attorney,abogado,avocat
-leather,cuero,cuir
-contract,contrato,contrat
-wear,tener puesto,porter
-meeting,reunión,rencontre
-meet,reunirse,rencontrer
-lean,inclinarse,mince
-sustain,sostener,soutenir
-exceed,exceder,dépasser
-bullet,bala,balle
-achieve,lograr,atteindre
-location,ubicación,lieu
-yeah,si,ouais
-wake,despertar,réveiller
-think,pensar,pense
-leg,pierna,jambe
-tradition,tradicion,tradition
-power,energía,puissance
-terrible,terrible,terrible
-depression,depresión,dépression
-comfortable,cómodo,à l'aise
-when,cuándo,lorsque
-ride,paseo,conduire
-characterize,caracterizar,caractériser
-like,me gusta,aimer
-threaten,amenazar,menacer
-score,puntaje,but
-greatest,más grande,plus grand
-pause,pausa,pause
-defend,defender,défendre
-cop,policía,flic
-authority,autoridad,autorité
-rely,confiar,compter sur
-couch,sofá,canapé
-assess,evaluar,évaluer
-racial,racial,racial
-derive,derivar,dériver
-cake,pastel,gâteau
-leaf,hoja,feuille
-concept,concepto,concept
-college,universidad,université
-pant,pantalón,haleter
-light,luz,léger
-argue,discutir,se disputer
-powerful,poderoso,puissant
-rare,raro,peu fréquent
-yellow,amarillo,jaune
-hope,esperar,espérer
-end,final,finir
-off,apagado,désactivé
-where,donde,où
-testimony,testimonio,témoignage
-question,pregunta,question
-mom,mamá,maman
-reduction,reducción,réduction
-adequate,adecuado,adéquat
-guilty,culpable,coupable
-apartment,departamento,appartement
-agree,estar de acuerdo,je suis d'accord
-assistance,asistencia,assistance
-relate,relacionar,rapporter
-liberal,liberal,libéral
-here,aquí,ici
-roof,techo,toit
-congressional,del congreso,du congrès
-employ,emplear,employer
-designer,diseñador,designer
-favor,favor,favoriser
-introduction,introducción,introduction
-twin,mellizo,double
-previously,previamente,précédemment
-shopping,compras,achats
-brush,cepillo,brosser
-base,base,base
-drama,drama,drame
-champion,campeón,champion
-cry,llorar,pleurer
-jet,chorro,jet
-restaurant,restaurante,restaurant
-comfort,comodidad,confort
-genetic,genético,génétique
-satisfaction,satisfacción,la satisfaction
-infection,infección,infection
-dismiss,descartar,rejeter
-breathe,respirar,respirer
-fewer,menos,moins
-negotiate,negociar,négocier
-too,también,aussi
-river,río,fleuve
-joy,alegría,joie
-data,datos,les données
-via,vía,via
-object,objeto,objet
-represent,representar,représenter
-useful,útil,utile
-self,uno mismo,soi
-prayer,oración,prière
-impress,impresionar,impressionner
-deeply,profundamente,profondément
-championship,campeonato,championnat
-duty,deber,devoir
-religious,religioso,religieux
-traditional,tradicional,traditionnel
-pound,libra,broyer
-corner,esquina,coin
-return,regreso,retourner
-coast,costa,côte
-angle,ángulo,angle
-easily,fácilmente,facilement
-oven,horno,four
-various,varios,divers
-diversity,diversidad,la diversité
-bombing,bombardeo,bombardement
-person,persona,la personne
-film,película,film
-golden,dorado,doré
-money,dinero,de l'argent
-scholar,erudito,savant
-competition,competencia,concurrence
-crazy,loco,fou
-shit,mierda,merde
-pitch,terreno de juego,terrain
-ignore,ignorar,ignorer
-arise,aumentar,surgir
-shine,brillar,éclat
-activity,actividad,activité
-hypothesis,hipótesis,hypothèse
-tube,tubo,tube
-true,cierto,vrai
-winner,ganador,gagnant
-approve,aprobar,approuver
-pour,verter,verser
-setting,ajuste,réglage
-deer,ciervo,cerf
-photograph,fotografía,photographier
-contest,concurso,concours
-act,actuar,acte
-online,en línea,en ligne
-committee,comité,comité
-yes,sí,oui
-reply,respuesta,réponse
-up,arriba,en haut
-used,usado,utilisé
-obviously,obviamente,de toute évidence
-volume,volumen,le volume
-bond,vínculo,lier
-alternative,alternativa,alternative
-television,televisión,télévision
-official,oficial,officiel
-army,ejército,armée
-barrel,barril,baril
-stock,valores,stock
-watch,reloj,regardez
-court,corte,rechercher
-refugee,refugiado,réfugié
-level,nivel,niveau
-age,años,âge
-ghost,fantasma,fantôme
-bottle,botella,bouteille
-devote,dedicar,consacrer
-admire,admirar,admirer
-draft,sequía,brouillon
-wife,esposa,femme
-bend,doblar,pliez
-social,social,social
-prove,probar,prouver
-admission,admisión,admission
-penalty,multa,peine
-beside,junto a,à côté de
-leading,principal,premier
-though,aunque,mais
-competitive,competitivo,compétitif
-young,joven,jeune
-shower,ducha,douche
-subsequent,subsecuente,subséquent
-industry,industria,industrie
-cheese,queso,fromage
-busy,ocupado,occupé
+abandon,abandonar,abandonner
+ability,capacidad,capacite
+able,poder,pouvoir
+abortion,aborto,avortement
+about,sobre,sur
 above,encima,au dessus
-surface,superficie,surface
-opposite,opuesto,opposé
-weight,peso,poids
-have,tener,avoir
-install,instalar en pc,installer
-join,unirse,rejoindre
-garlic,ajo,ail
-much,mucho,beaucoup
-forest,bosque,forêt
-arrangement,arreglo,arrangement
-war,guerra,guerre
-monitor,monitor,surveiller
-gap,brecha,écart
-peace,paz,paix
-register,registrarse,s'inscrire
-mutual,mutuo,mutuel
-add,agregar,ajouter
-scheme,esquema,schème
-theory,teoría,théorie
-follow,seguir,suivre
-allow,permitir,autoriser
-brother,hermano,frère
-detect,detectar,détecter
-temporary,temporal,temporaire
-recording,grabación,enregistrement
-counter,encimera,contrer
-fresh,nuevo,frais
-sufficient,suficiente,suffisant
-addition,adición,une addition
-parent,padre,parent
-pale,pálido,pâle
-container,envase,récipient
-date,fecha,date
-ordinary,ordinario,ordinaire
-worth,valor,valeur
-cover,cubrir,couverture
-medicine,medicamento,médicament
-sight,visión,vue
-testify,testificar,témoigner
-proud,orgulloso,fier
-least,menos,moins
-math,matemáticas,math
-water,agua,l'eau
-belong,pertenecer,appartiennent
-ten,diez,dix
-provision,provisión,disposition
-joke,broma,blague
-technical,técnico,technique
-terrorism,terrorismo,terrorisme
-representation,representación,représentation
-coffee,café,café
-appearance,apariencia,apparence
-industrial,industrial,industriel
-truth,verdad,vérité
-acid,ácido,acide
-approximately,aproximadamente,approximativement
-trend,tendencia,tendance
-area,área,région
-gently,suavemente,doucement
-rise,aumento,se lever
-feature,rasgo,caractéristique
-number,número,numéro
-global,global,global
-fee,tarifa,frais
-start,comienzo,démarrer
-your,tu,ton
-combination,combinación,combinaison
-shelter,refugio,abri
-spring,primavera,le printemps
-legal,legal,légal
-battle,batalla,bataille
-rich,rico,riche
-knowledge,conocimiento,connaissances
-band,banda,bande
-people,gente,gens
-recruit,recluta,recruter
-crop,cultivo,recadrer
-flow,flujo,couler
-architect,arquitecto,architecte
-engine,motor,moteur
-statistics,estadísticas,statistiques
-reading,leyendo,la lecture
-painful,doloroso,douloureux
-despite,a pesar de,en dépit
-and,y,et
-mexican,mexicano,mexicain
-mass,masa,masse
-hunting,caza,chasse
-hurt,herir,faire mal
-surprise,sorpresa,surprendre
-others,otros,les autres
-school,colegio,l'école
-danger,peligro,danger
-shout,gritar,crier
-interview,entrevista,entretien
-junior,júnior,junior
-wander,vagar,errer
-supporter,seguidor,supporter
-possibly,posiblemente,peut-être
-writer,escritor,écrivain
-grade,calificación,noter
-gentleman,caballero,gentilhomme
-fabric,tela,en tissu
-eat,come,manger
-please,por favor,s'il te plaît
-free,gratis,libre
-tale,cuento,conte
-context,contexto,le contexte
-distinguish,distinguir,distinguer
-controversy,controversia,controverse
-bar,bar,bar
-extraordinary,extraordinario,extraordinaire
-frequency,frecuencia,la fréquence
-knock,golpear,frappe
-indication,indicación,indication
-prospect,perspectiva,perspective
-roughly,aproximadamente,à peu près
-original,original,original
-channel,canal,canal
-hold,sostener,tenir
-sue,demandar,poursuivre en justice
-compose,componer,composer
-include,incluir,inclure
-procedure,procedimiento,procédure
-my,mi,ma
-village,pueblo,village
-it,eso,ce
-could,pudo,pouvait
-error,error,erreur
-given,dado,étant donné
-tourist,turista,touristique
-same,mismo,même
-we,nosotros,nous
-mystery,misterio,mystère
-instrument,instrumento,instrument
-accuse,acusar,accuser
-yard,yarda,cour
-key,llave,clé
-clothing,ropa,vêtements
-black,negro,le noir
-moderate,moderar,modérer
-undergo,someterse,subir
-other,otro,autre
-submit,enviar,nous faire parvenir
-throat,garganta,gorge
-conviction,convicción,conviction
-imagine,imagina,imaginer
-bird,pájaro,oiseau
-claim,afirmar,réclamer
-coalition,coalición,coalition
-tea,té,thé
-range,rango,intervalle
-yours,tuya,le tiens
-care,cuidado,se soucier
-mouse,ratón,souris
-chicken,pollo,poulet
-edition,edición,édition
-planet,planeta,planète
-brief,breve,bref
-left,izquierda,la gauche
-load,carga,charge
-only,solamente,seulement
-drop,soltar,laissez tomber
-succeed,triunfar,réussir
-state,estado,etat
-aids,sida,le sida
-makeup,maquillaje,se réconcilier
-meal,comida,repas
-emergency,emergencia,urgence
-ready,listo,prêt
-adjust,ajustar,régler
-separate,separar,séparé
-topic,tema,sujet
-apply,aplicar,appliquer
-ok,ok,d'accord
-handle,encargarse de,poignée
-title,título,titre
-minute,minuto,minute
-relationship,relación,relation amoureuse
-tell,decir,dire
-constitutional,constitucional,constitutionnel
-into,dentro,dans
-give,dar,donner
-peak,cima,de pointe
-reporter,reportero,journaliste
-dance,danza,danse
-prompt,inmediato,rapide
-colleague,colega,collègue
-intend,intentar,intention de
-provide,proveer,apporter
-scientist,científico,scientifique
-field,campo,champ
-weak,débil,faible
-conversation,conversacion,conversation
-imagination,imaginación,imagination
+abroad,en el extranjero,à l'etranger
+absence,ausencia,absence
+absolute,absoluto,absolu
+absolutely,absolutamente,tout à fait
 absorb,absorber,absorber
-jail,celda,geôle
-transform,transformar,transformer
-catch,atrapar,attraper
-alter,alterar,modifier
-dominate,dominar,dominer
-pc,ordenador personal,pc
-couple,pareja,coupler
-require,exigir,exiger
-dispute,disputa,contestation
-fund,fondo,fonds
-stupid,estúpido,stupide
-select,seleccione,sélectionner
-show,show,afficher
-room,habitación,salle
-piece,pedazo,pièce
-wall,muro,mur
-encounter,encuentro,rencontrer
-south,sur,sud
-charity,caridad,charité
-moon,luna,lune
-careful,cuidado,prudent
-shoulder,hombro,épaule
-grandfather,abuelo,grand-père
-company,empresa,entreprise
-existing,existente,existant
-disagree,discrepar,être en désaccord
-sudden,repentino,soudain
-order,pedido,commande
-many,muchos,de nombreux
-call,llamada,appel
-operation,operación,opération
-elite,élite,élite
-illness,enfermedad,maladies
-loan,préstamo,prêter
-cup,taza,coupe
-wine,vino,vin
-trouble,problema,inquiéter
-not,no,ne pas
-toy,juguete,jouet
-convention,convención,convention
-electricity,electricidad,électricité
-false,falso,faux
-supposed,supuesto,supposé
-speech,habla,discours
-political,político,politique
-cast,emitir,jeter
-strip,banda,déshabiller
-prominent,prominente,important
-feed,alimento,alimentation
-receive,recibir,recevoir
-thirty,treinta,30
-failure,falla,échec
-space,espacio,espacer
-faith,fe,foi
-athlete,atleta,athlète
+abuse,abuso,abuser de
+academic,academico,academique
+accept,aceptar,j'accepte
+access,acceso,acceder
+accident,accidente,accident
+accompany,acompañar,accompagner
+accomplish,lograr,accomplir
+according,segun,selon
+account,cuenta,compte
+accurate,preciso,precis
+accuse,acusar,accuser
+achieve,lograr,atteindre
+achievement,logro,reussite
+acid,acido,acide
+acknowledge,reconocer,accuser reception
+acquire,adquirir,acquerir
+across,al otro lado de,de l'autre côte
+act,actuar,acte
+action,accion,action
+active,activo,actif
+activist,activista,activiste
+activity,actividad,activite
+actor,actor,acteur
+actress,actriz,actrice
+actual,real,reel
+actually,realmente,en fait
+ad,anuncio,un d
+adapt,adaptar,adapter
+add,agregar,ajouter
+addition,adicion,une addition
+additional,adicional,additionnel
+address,habla a,adresse
+adequate,adecuado,adequat
+adjust,ajustar,regler
+adjustment,ajustamiento,ajustement
+administration,administracion,administration
+administrator,administrador,administrateur
+admire,admirar,admirer
+admission,admision,admission
 admit,admitir,admettre
-workshop,taller,atelier
-protect,proteger,protéger
-try,tratar,essayer
-controversial,polémico,controversé
-fit,encajar,ajuster
-buyer,comprador,acheteur
-israeli,israelí,israélien
-housing,alojamiento,logement
-east,este,est
-entirely,enteramente,entièrement
-administration,administración,administration
-troop,tropa,troupe
-normal,normal,ordinaire
-manager,gerente,directeur
-region,región,région
-era,era,ère
-passenger,pasajero,passager
-japanese,japonés,japonais
-plan,plan,planifier
-hundred,centenar,cent
-property,propiedad,biens
-door,puerta,porte
-strategy,estrategia,stratégie
-may,mayo,mai
-from,desde,à partir de
-coal,carbón,charbon
-dog,perro,chien
+adolescent,adolescente,adolescent
+adopt,adoptar,adopter
+adult,adulto,adulte
+advance,avance,avance
+advanced,avanzado,avancee
+advantage,ventaja,avantage
+adventure,aventuras,aventure
+advertising,publicidad,la publicite
+advice,consejo,conseils
+advise,aconsejar,conseiller
+adviser,asesor,conseiller
+advocate,defensor,avocat
+affair,amorio,affaire
+affect,afectar,affecter
+afford,poder pagar,s'offrir
+afraid,temeroso,peur
+african,africano,africain
+african-american,afroamericano,afro-americain
+after,despues,après
+afternoon,tarde,après midi
+again,otra vez,de nouveau
+against,en contra,contre
+age,años,age
+agency,agencia,agence
+agenda,agenda,ordre du jour
+agent,agente,agent
+aggressive,agresivo,agressif
+ago,atras,depuis
+agree,estar de acuerdo,je suis d'accord
+agreement,convenio,accord
+agricultural,agricola,agricole
+ah,ah,ah
+ahead,adelante,devant
+aid,ayuda,aide
+aide,ayudante,aide
+aids,sida,le sida
+aim,apuntar,objectif
+air,aire,air
+aircraft,aeronave,avion
+airline,aerolinea,compagnie aerienne
+airport,aeropuerto,aeroport
+album,album,album
+alcohol,alcohol,de l'alcool
+alive,vivo,vivant
 all,todos,tous
 alliance,alianza,alliance
-difficult,difícil,difficile
-sometimes,a veces,parfois
-spread,untado,propagé
-author,autor,auteur
-sky,cielo,ciel
-flower,flor,fleur
-operator,operador,opérateur
-trust,confianza,confiance
-signal,señal,signal
-reject,rechazar,rejeter
-overall,en general,globalement
-humor,humor,humour
-dozen,docena,douzaine
-preserve,preservar,préserver
-dark,oscuro,foncé
-go,ir,va
-husband,esposo,mari
-view,vista,voir
-sir,señor,monsieur
-appeal,apelación,faire appel
-consequence,consecuencia,conséquence
-constant,constante,constant
-wound,herida,blesser
-pollution,polución,la pollution
-considerable,considerable,considérable
-site,sitio,placer
-average,promedio,moyen
-stir,revolver,remuer
-forth,adelante,en avant
-distribute,distribuir,distribuer
-winter,invierno,hiver
-bring,traer,apporter
-engineering,ingenieria,ingénierie
-ceo,ceo,pdg
-gate,portón,portail
-library,biblioteca,bibliothèque
-slight,leve,léger
-unusual,raro,inhabituel
-agreement,convenio,accord
-communicate,comunicar,communiquer
-nerve,nervio,nerf
-friend,amigo,amie
-slice,rodaja,tranche
-series,serie,séries
-literary,literario,littéraire
-enjoy,disfrutar,prendre plaisir
-segment,segmento,segment
-rural,rural,rural
-club,club,club
-slip,deslizar,glisser
-decrease,disminución,diminuer
-inside,en el interior,à l'intérieur
-during,durante,durant
-sit,sentarse,asseoir
-situation,situación,situation
-mixture,mezcla,mélange
-cookie,galleta,biscuit
-cope,afrontar,se débrouiller
-cabin,cabina,cabine
-badly,gravemente,mal
-crucial,crucial,crucial
-explode,explotar,exploser
-oil,petróleo,huile
-enterprise,empresa,entreprise
-arm,brazo,bras
-although,aunque,même si
-intensity,intensidad,intensité
-defense,defensa,la défense
-incorporate,incorporar,intégrer
-learning,aprendiendo,apprentissage
-current,actual,courant
-game,juego,jeu
-hardly,difícilmente,à peine
-cross,cruzar,traverser
-away,fuera,une façon
-aside,aparte,de côté
-chip,chip,ébrécher
-article,artículo,article
-contrast,contraste,contraste
-assure,asegurar,assurer
-shooting,tiroteo,tournage
-fence,valla,clôture
-responsible,responsable,responsable
-analysis,análisis,analyse
-death,muerte,décès
-plenty,mucho,beaucoup
-wrap,envoltura,envelopper
-lady,señora,dame
-concerned,preocupado,concerné
-different,diferente,différent
-ethics,ética,éthique
-restore,restaurar,restaurer
-hide,esconder,cacher
-exception,excepción,exception
-african,africano,africain
-but,pero,mais
-upper,superior,supérieur
-hotel,hotel,hôtel
-block,cuadra,bloquer
-nature,naturaleza,nature
-sugar,azúcar,du sucre
-apparent,aparente,apparent
-focus,enfocar,se concentrer
-while,tiempo,tandis que
-museum,museo,musée
-bathroom,baño,salle de bain
-rapid,rápido,rapide
-latter,último,dernier
-stop,detener,arrêter
-custom,personalizado,douane
-ought,debería,devrait
-achievement,logro,réussite
-package,paquete,emballer
-wait,espere,attendre
-folk,gente,populaire
-affair,amorío,affaire
-concrete,hormigón,béton
-address,habla a,adresse
-solar,solar,solaire
-intense,intenso,intense
-swing,balancearse,balançoire
-defeat,fracaso,défaite
-settle,resolver,régler
-silent,silencio,silencieux
-uniform,uniforme,uniforme
-expectation,expectativa,attente
-union,unión,syndicat
-murder,asesinato,meurtre
-confusion,confusión,confusion
-solve,resolver,résoudre
-violence,violencia,la violence
-vacation,vacaciones,vacances
-mainly,principalmente,surtout
-newspaper,periódico,un journal
-account,cuenta,compte
-commercial,comercial,commercial
-myself,yo mismo,moi même
-beneath,bajo,sous
-majority,mayoria,majorité
-answer,responder,répondre
-publisher,editor,éditeur
-blanket,manta,couverture
-federal,federal,fédéral
-ice,hielo,glace
-continue,seguir,continuez
-equipment,equipo,équipement
-laboratory,laboratorio,laboratoire
-agenda,agenda,ordre du jour
-marry,casar,marier
-fundamental,fundamental,fondamental
-crisis,crisis,crise
-discovery,descubrimiento,découverte
-collective,colectivo,collectif
-mr,sres,monsieur
-regulate,regular,réglementer
-sister,hermana,sœur
-estimate,estimar,estimation
-sale,rebaja,vendre
-hello,hola,bonjour
-component,componente,composant
-confirm,confirmar,confirmer
-cigarette,cigarrillo,cigarette
-earn,ganar,gagner
-whisper,susurro,chuchotement
-along,a lo largo de,le long de
-medical,médico,médical
-week,semana,semaine
-experiment,experimentar,expérience
-speed,velocidad,vitesse
-urban,urbano,urbain
-say,decir,dire
-weekend,fin de semana,weekend
-vary,variar,varier
-vital,vital,vital
-size,talla,taille
-fight,pelear,se battre
-relief,alivio,soulagement
-professor,profesor,professeur
-chairman,presidente,président
-iron,planchar,fer à repasser
-participate,participar,participer
-long,largo,long
-trail,rastro,piste
-still,todavía,toujours
-earth,tierra,la terre
-camp,acampar,camp
-executive,ejecutivo,exécutif
-vulnerable,vulnerable,vulnérable
-express,rápido,express
-pool,piscina,bassin
-judgment,juicio,jugement
-ratio,proporción,rapport
-stuff,cosas,truc
-reveal,revelar,faire apparaître
-sin,pecado,péché
-assistant,asistente,assistant
-discrimination,discriminación,la discrimination
-symptom,síntoma,symptôme
-extent,grado,le degré
-confidence,confianza,confiance
-blade,espada,lame
-problem,problema,problème
-democratic,democrático,démocratique
-really,de verdad,vraiment
-lie,mentir,mensonge
-youth,juventud,jeunesse
-sound,sonar,sonner
-search,búsqueda,chercher
-fifth,quinto,cinquième
-reader,lector,lecteur
-cause,porque,causer
-tent,carpa,tente
-bill,cuenta,facture
-climate,clima,climat
-everything,todo,tout
-orientation,orientación,orientation
-dear,estimado,cher
-apple,manzana,pomme
-available,disponible,disponible
-tree,árbol,arbre
-cognitive,cognitivo,cognitif
-smooth,suave,lisse
-method,método,méthode
-mountain,montaña,montagne
-emphasis,énfasis,accent
-description,descripción,la description
-demand,demanda,demande
-settlement,asentamiento,règlement
-shoot,disparo,tirer
-heavy,pesado,lourd
-division,división,division
-giant,gigante,géant
-advantage,ventaja,avantage
-know,saber,connaître
-selection,selección,sélection
-defendant,acusado,défendeur
-die,morir,mourir
-mother,madre,mère
-educational,educativo,éducatif
-long-term,a largo plazo,long terme
-dominant,dominante,dominant
-interpretation,interpretación,interprétation
-negotiation,negociación,négociation
-poor,pobre,pauvre
-whenever,cuando sea,n'importe quand
-craft,artesanía,artisanat
-viewer,espectador,téléspectateur
-mostly,principalmente,la plupart
-empty,vacío,vide
-breakfast,desayuno,petit-déjeuner
-boom,auge,boom
-choose,escoger,choisir
-assert,afirmar,affirmer
-unknown,desconocido,inconnu
-discourse,discurso,discours
-counselor,consejero,conseiller
-creation,creación,création
-repeat,repetir,répéter
-kick,patear,donner un coup
-sink,hundir,évier
-port,puerto,port
-client,cliente,client
-type,escribe,taper
-strategic,estratégico,stratégique
-medium,medio,moyen
-absence,ausencia,absence
-porch,porche,porche
-shell,cascarón,coquille
-practice,práctica,entraine toi
-understand,comprender,comprendre
-language,idioma,langue
-arrange,arreglar,organiser
-president,presidente,président
-reason,razón,raison
-clock,reloj,l'horloge
-trip,viaje,voyage
-tough,difícil,difficile
-apart,aparte,une part
-hill,colina,colline
-suddenly,de repente,tout à coup
-fun,divertido,amusant
-personnel,personal,personnel
-boy,chico,garçon
-minority,minoría,minorité
-purpose,propósito,but
-rail,carril,rail
-tight,ajustado,serré
-eight,ocho,huit
-cycle,ciclo,cycle
-bet,apuesta,pari
-adopt,adoptar,adopter
-behavior,conducta,comportement
-break,descanso,pause
-snap,quebrar,se casser
-salary,salario,un salaire
-regardless,independientemente,indépendamment
-point,punto,indiquer
-establishment,establecimiento,établissement
-fighting,luchando,combat
-lesson,lección,cours
-drawing,dibujo,dessin
-phase,fase,phase
-press,prensa,presse
-anyway,de todos modos,en tous cas
-etc,etc.,etc
-most,más,plus
-ie,es decir,c'est à dire
-obligation,obligación,obligation
-opposition,oposición,opposition
-measure,la medida,mesure
-together,juntos,ensemble
-teach,enseñar,enseigner
-sequence,secuencia,séquence
-educate,educar,éduquer
-product,producto,produit
-save,salvar,enregistrer
-nine,nueve,neuf
-photographer,fotógrafo,photographe
-benefit,beneficio,avantage
-single,único,célibataire
-blind,ciego,aveugle
-entry,entrada,entrée
-occupy,ocupar,occuper
-however,sin embargo,toutefois
-machine,máquina,machine
-tablespoon,cucharada,cuillerée à soupe
-response,respuesta,réponse
-magazine,revista,magazine
-of,de,de
-target,objetivo,cible
-holy,santo,saint
-beautiful,hermosa,magnifique
-rain,lluvia,pluie
-laugh,reír,rire
-being,siendo,être
-anybody,cualquiera,n'importe qui
-primary,primario,primaire
-fairly,equitativamente,équitablement
-zone,zona,zone
-attribute,atributo,attribut
-she,ella,elle
-population,población,population
-typical,típico,typique
-nearly,por poco,presque
-headline,titular,gros titre
-restriction,restricción,restriction
-measurement,medición,la mesure
-stand,pararse,supporter
-cable,cable,câble
-these,estas,celles-ci
-important,importante,important
-environmental,ambiental,environnemental
-scope,alcance,portée
-consciousness,conciencia,conscience
-fifteen,quince,quinze
-rough,áspero,rugueux
-whether,ya sea,qu'il s'agisse
-knee,rodilla,le genou
-consensus,consenso,consensus
-lots,un montón,lot
-historic,histórico,historique
-ocean,oceano,océan
-central,central,central
-glance,mirada,coup d'œil
-pie,tarta,tarte
-day,día,journée
-chemical,químico,chimique
-regional,regional,régional
-occupation,ocupación,occupation
-read,leer,lire
-man,hombre,homme
-estate,inmuebles,domaine
-chocolate,chocolate,chocolat
-or,o,ou
-dry,seco,sécher
-soccer,fútbol,football
-hearing,escuchando,audience
-lung,pulmón,poumon
-management,administración,le management
-dress,vestido,robe
-entire,completo,tout
-summer,el verano,l'été
-feeling,sentimiento,sentiment
-research,investigación,recherche
-motor,motor,moteur
-technology,tecnología,la technologie
-passion,pasión,passion
-scenario,guión,scénario
-drag,arrastrar,traîne
-reservation,reserva,réservation
-mm-hmm,mm-hmm,mm-hmm
-essential,esencial,essentiel
-differ,diferir de,différer
-speak,hablar,parlez
-wing,ala,aile
-video,video,vidéo
-competitor,competidor,concurrent
-glad,contento,content
-mine,mia,mien
-license,licencia,licence
-mind,mente,esprit
-strengthen,fortalecer,renforcer
-medication,medicamento,des médicaments
-kill,matar,tuer
-extend,ampliar,se déployer
-for,por,pour
-device,dispositivo,appareil
-community,comunidad,communauté
-brain,cerebro,cerveau
-culture,cultura,culture
-brown,marrón,marron
-cluster,grupo,groupe
-enemy,enemigo,ennemi
-food,comida,aliments
-revenue,ingresos,revenu
-emphasize,enfatizar,mettre l'accent sur
-common,común,commun
-jury,jurado,jury
-guard,guardia,garder
-throughout,a lo largo de,tout au long de
-their,sus,leur
-involvement,intervención,participation
-train,entrenar,former
-doctor,médico,médecin
-helicopter,helicóptero,hélicoptère
-float,flotador,flotter
-place,lugar,lieu
-bag,bolsa,sac
-bedroom,habitación,chambre à coucher
-city,ciudad,ville
-bottom,fondo,bas
-print,imprimir,impression
-flat,departamento,appartement
-butter,manteca,beurre
-chef,cocinero,chef
-side,lado,côté
-career,carrera profesional,carrière
-fire,fuego,feu
-gesture,gesto,geste
-publicly,en público,publiquement
-reflection,reflexión,réflexion
-escape,escapar,échapper
-thus,por lo tanto,donc
-such,tal,tel
-legislation,legislación,législation
-role,papel,rôle
-reduce,reducir,réduire
-flag,bandera,drapeau
-literally,literalmente,au sens propre
-internet,internet,l'internet
-incentive,incentivo,incitation
-protection,proteccion,protection
-scale,escala,escalader
-paper,papel,papier
-potentially,potencialmente,potentiellement
-special,especial,spécial
-top,cima,haut
-lap,vuelta,genoux
-dust,polvo,poussière
-complete,completo,achevée
-will,voluntad,volonté
-indian,indio,indien
-irish,irlandesa,irlandais
-meaning,sentido,signification
-about,sobre,sur
-credit,crédito,crédit
-nomination,nominación,nomination
-transition,transición,transition
-valley,valle,vallée
-basketball,baloncesto,basket-ball
-capacity,capacidad,capacité
-grocery,tienda de comestibles,épicerie
-actor,actor,acteur
-satellite,satélite,satellite
-editor,editor,éditeur
-mouth,boca,bouche
-tooth,diente,dent
-might,puede que,pourrait
-delivery,entrega,livraison
-avoid,evitar,éviter
-seed,semilla,planter
-concentrate,concentrado,concentrer
-conventional,convencional,conventionnel
-historian,historiador,historien
-wooden,de madera,en bois
-tie,corbata,nouer
-mall,centro comercial,galerie marchande
-increased,aumentado,augmenté
-over,sobre,plus de
-invite,invitación,inviter
-funeral,funeral,funéraire
-seat,asiento,siège
-survey,encuesta,enquête
-none,ninguna,rien
-religion,religión,religion
-spin,girar,tourner
-formal,formal,formel
-thank,gracias,remercier
-democracy,democracia,la démocratie
-darkness,oscuridad,ténèbres
-actual,real,réel
-correspondent,corresponsal,correspondant
-good,bien,bien
-minister,ministro,ministre
-desk,escritorio,pupitre
-gene,gene,gène
-pregnant,embarazada,enceinte
-refuse,rehusar,refuser
-happen,suceder,arriver
-employee,empleado,employé
-clothes,ropa,vêtements
-active,activo,actif
-pet,mascota,animal de compagnie
-versus,versus,contre
-slowly,lentamente,lentement
-opinion,opinión,avis
-quit,dejar,quitter
-hair,cabello,cheveu
-desert,desierto,désert
-animal,animal,animal
-use,utilizar,utiliser
-reform,reforma,réforme
-willing,dispuesto,disposé
-perhaps,quizás,peut-être
-blame,culpar,faire des reproches
-pile,pila,pile
-ticket,billete,billet
-effective,eficaz,efficace
-heat,calor,chauffer
-general,general,général
-else,demás,autre
-mrs,señora,mme
-low,bajo,meugler
-expert,experto,expert
-tongue,lengua,langue
-dependent,dependiente,dépendant
-convince,convencer,convaincre
-technique,técnica,technique
-whole,entero,ensemble
-talent,talento,talent
-remain,permanecer,rester
-interaction,interacción,interaction
-following,siguiente,suivant
-profile,perfil,profil
-human,humano,humain
-seek,buscar,chercher
-particular,especial,particulier
-shadow,sombra,ombre
-able,poder,pouvoir
-script,texto,scénario
-fully,completamente,pleinement
-beyond,más allá de,au-delà
-panel,panel,panneau
-out,fuera,en dehors
-sensitive,sensible,sensible
-put,poner,mettre
-steel,acero,acier
-orange,naranja,orange
-totally,totalmente,totalement
-document,documento,document
-tend,tender,tendre
-cap,gorra,casquette
-bread,pan,pain
-basis,base,base
-membership,afiliación,adhésion
-box,caja,boîte
-professional,profesional,professionnel
-civil,civil,civil
-increase,aumento,augmenter
-whom,quién,qui
-serve,atender,servir
-economic,económico,économique
-letter,letra,lettre
-league,liga,ligue
-straight,derecho,droit
-significant,significativo,important
-occur,ocurrir,se produire
-activist,activista,activiste
-trade,comercio,commerce
-typically,típicamente,typiquement
-pace,ritmo,rythme
-honest,honesto,honnête
-justice,justicia,justice
-utility,utilidad,utilitaire
-thought,pensamiento,pensait
-weigh,pesar,peser
-firm,firma,solidifier
-shift,cambio,changement
-childhood,infancia,enfance
-bad,malo,mal
-tournament,torneo,tournoi
-explore,explorar,explorer
-nonetheless,sin embargo,néanmoins
-bake,hornear,cuire
-sign,firmar,signer
-pure,puro,pur
-multiple,múltiple,plusieurs
-national,nacional,nationale
-asleep,dormido,endormi
-contribution,contribución,contribution
-elderly,anciano,âgé
-new,nuevo,nouveau
-rub,frotar,frotter
-edge,borde,bord
-therapy,terapia,thérapie
-lake,lago,lac
-plane,plano,avion
-vast,vasto,vaste
-set,colocar,ensemble
-menu,menú,menu
-spiritual,espiritual,spirituel
-terror,terror,la terreur
-radio,radio,radio
-ask,pedir,interroger
-soldier,soldado,soldat
-merely,simplemente,seulement
-shoe,zapato,chaussure
-examination,examen,examen
-study,estudio,étude
-principle,principio,principe
-universe,universo,univers
-anywhere,en cualquier sitio,partout
-infant,infantil,bébé
-wealthy,adinerado,riche
-armed,armado,armé
-local,local,local
-sea,mar,mer
-worker,trabajador,ouvrier
-sample,muestra,goûter
-more,más,suite
-ingredient,ingrediente,ingrédient
-sentence,oración,phrase
-appreciate,agradecer,apprécier
-appear,aparecer,apparaître
-afford,poder pagar,s'offrir
-position,posición,position
-his,su,le sien
-funny,gracioso,drôle
-value,valor,évaluer
-downtown,centro,centre ville
-enter,ingresar,entrer
-helpful,servicial,utile
-wipe,pasar un trapo,essuyer
-recent,reciente,récent
-tap,grifo,robinet
-flame,fuego,flamme
-suit,traje,combinaison
-including,incluso,y compris
-somebody,alguien,quelqu'un
-around,alrededor,environ
-reputation,reputación,réputation
-indeed,por supuesto,en effet
-shake,agitar,secouer
-rope,cuerda,corde
-mention,mencionar,mention
-either,cualquiera,soit
-recipe,receta,recette
-retain,conservar,conserver
-baseball,béisbol,base-ball
-vs,vs,vs
-report,informe,rapport
-approach,acercarse,approcher
-necessarily,necesariamente,nécessairement
-widespread,extendido,très répandu
-recommend,recomendar,recommander
-instructor,instructor,instructeur
-narrative,narrativa,récit
-shop,tienda,magasin
-unfortunately,desafortunadamente,malheureusement
-unlike,a diferencia de,contrairement à
-tiny,diminuto,minuscule
-american,americano,américain
-russian,ruso,russe
-lemon,limón,citron
-institutional,institucional,institutionnel
-theme,tema,thème
-church,iglesia,église
-wide,amplio,large
-hunter,cazador,chasseur
-kiss,beso,embrasser
-resist,resistirse,résister
-oppose,oponerse a,s'opposer
-dramatic,dramático,spectaculaire
-one,una,une
-double,doble,double
-lose,perder,perdre
-investigate,investigar,enquêter
-presidential,presidencial,présidentiel
-agricultural,agrícola,agricole
-board,tablero,planche
-command,mando,commander
-version,versión,version
-computer,computadora,l'ordinateur
-clearly,claramente,clairement
-three,tres,trois
-consumption,consumo,consommation
-exposure,exposición,exposition
-construct,construir,construction
-engineer,ingeniero,ingénieur
-crack,grieta,fissure
-impression,impresión,impression
-suggestion,sugerencia,suggestion
-definition,definición,définition
-pressure,presión,pression
-battery,batería,la batterie
-works,obras,œuvres
-gifted,dotado,doué
-barrier,barrera,barrière
-the,los,la
-depend,depender,dépendre
-parking,estacionamiento,parking
-few,pocos,quelque
-launch,lanzamiento,lancement
-button,botón,bouton
-golf,golf,le golf
-mirror,espejo,miroiter
-violent,violento,violent
-standard,estándar,la norme
-teaching,enseñando,enseignement
-vessel,embarcación,navire
-impressive,impresionante,impressionnant
-ally,aliado,allié
-hole,agujero,trou
-effectively,efectivamente,effectivement
-closely,cercanamente,étroitement
-hire,contratar,embaucher
-with,con,avec
-immigrant,inmigrante,immigrant
-wash,lavar,lavage
-deal,trato,accord
-upon,sobre,sur
-matter,importar,question
-affect,afectar,affecter
-latin,latín,latin
-form,formulario,forme
-manufacturing,fabricación,fabrication
-distinction,distinción,distinction
-anniversary,aniversario,anniversaire
-everybody,todos,tout le monde
-red,rojo,rouge
-involve,involucrar,impliquer
-scared,asustado,effrayé
-adjustment,ajustamiento,ajustement
-actually,realmente,en fait
-palm,palma,paume
-heritage,herencia,patrimoine
-both,ambas cosas,tous les deux
-nearby,cercano,proche
-night,noche,nuit
-insist,insistir,insister
-element,elemento,élément
-drug,droga,drogue
-that,que,ce
-now,ahora,à présent
-leave,salir,partir
-carefully,con cuidado,soigneusement
-transformation,transformación,transformation
-jump,salto,saut
-depict,representar,représenter
-source,fuente,la source
-athletic,atlético,athlétique
-overcome,superar,surmonter
-decide,decidir,décider
-colonial,colonial,colonial
-everyone,todo el mundo,toutes les personnes
-priest,sacerdote,prêtre
-quick,rápido,rapide
-cousin,prima,cousine
-background,antecedentes,contexte
-grain,grano,grain
-proceed,continuar,procéder
-aide,ayudante,aide
-balance,equilibrio,équilibre
-internal,interno,interne
-burden,carga,fardeau
-wealth,poder,richesse
-talk,hablar,parler
-sport,deporte,sport
-bomb,bomba,bombe
-belief,creencia,croyance
-interesting,interesante,intéressant
-domestic,doméstico,national
-island,isla,île
-demonstration,demostración,manifestation
-god,dios,dieu
-developing,desarrollando,développement
-revolution,revolución,révolution
-patient,paciente,patient
-remarkable,notable,remarquable
-purchase,compra,achat
-comparison,comparación,comparaison
-hot,caliente,chaud
-define,definir,définir
-investment,inversión,investissement
-individual,individual,individuel
-currently,actualmente,actuellement
-net,neto,rapporter
-facility,instalaciones,établissement
-eye,ojo,œil
-bowl,bol,bol
-pole,polo,pôle
-province,provincia,province
-extra,extra,supplémentaire
-tax,impuesto,impôt
-agent,agente,agent
-baby,bebé,bébé
-century,siglo,siècle
-prison,prisión,prison
-elect,electo,élire
-administrator,administrador,administrateur
-journey,viaje,voyage
-islamic,islámico,islamique
-labor,labor,la main d'oeuvre
-spanish,español,espagnol
-relatively,relativamente,relativement
-taste,gusto,goût
-west,oeste,ouest
-hit,golpear,frapper
-smart,inteligente,intelligent
-poem,poema,poème
-propose,proponer,proposer
-solution,solución,solution
-thanks,gracias,merci
-safe,a salvo,sûr
-finding,hallazgo,découverte
-fill,llenar,remplir
-award,otorgar,décerner
-corporation,corporación,société
-build,construir,construire
-remember,recordar,rappelles toi
-early,temprano,de bonne heure
-significance,significado,importance
-abuse,abuso,abuser de
-criticism,crítica,critique
-stranger,extraño,étranger
-conduct,conducta,conduite
-per,por,par
-pass,pasar,passe
-highlight,destacar,surligner
-old,viejo,vieux
-enable,habilitar,permettre
-eager,entusiasta,désireux
-inform,informar,informer
-owe,deber,devoir
-manage,administrar,faire en sorte
-believe,creer,croyez
-tear,lágrima,larme
-complaint,queja,plainte
-possess,poseer,posséder
-plate,plato,assiette
-powder,polvo,poudre
-evaluation,evaluación,évaluation
-reaction,reacción,réaction
-count,contar,compter
-tire,neumático,pneu
-pack,paquete,pack
-visitor,visitante,visiteur
-access,acceso,accéder
-there,allí,là
-lawsuit,demanda judicial,procès
-visit,visita,visiter
-nurse,enfermera,infirmière
-media,medios de comunicación,médias
-valuable,valioso,de valeur
-in,en,dans
-remove,retirar,retirer
-observation,observación,observation
-prime,principal,premier
-function,función,une fonction
-every,cada,tous
-explain,explicar,explique
-initial,inicial,initiale
-salt,sal,sel
-dirt,tierra,saleté
-seriously,seriamente,sérieusement
-help,ayuda,aider
-rice,arroz,riz
-criteria,criterio,critères
-formula,fórmula,formule
-bind,unir,lier
-emission,emisión,émission
-schedule,calendario,programme
-loss,pérdida,perte
-beer,cerveza,bière
-permit,permiso,permis
+allow,permitir,autoriser
+ally,aliado,allie
 almost,casi,presque
-no,no,non
-shortly,dentro de poco,prochainement
-chinese,chino,chinois
-itself,sí mismo,lui-même
-memory,memoria,mémoire
-crime,crimen,la criminalité
-meat,carne,viande
-policy,política,politique
-treaty,tratado,traité
-customer,cliente,client
-rose,rosa,rose
-truck,camión,un camion
-stretch,tramo,s'étirer
-negative,negativo,négatif
-confident,seguro,confiant
-lovely,encantador,beau
-familiar,familiar,familier
-killer,asesino,tueur
-listen,escucha,ecoutez
-participation,participación,participation
-morning,mañana,matin
-dish,plato,assiette
-lost,perdió,perdu
-kid,niño,enfant
-he,él,il
-african-american,afroamericano,afro-américain
-deep,profundo,profond
-explanation,explicación,explication
-post,correo,publier
-ongoing,en curso,en cours
-locate,localizar,localiser
-react,reaccionar,réagir
-grow,crecer,grandir
-telephone,teléfono,téléphone
-roll,rollo,rouler
-observer,observador,observateur
-candidate,candidato,candidat
-shape,forma,façonner
-grandmother,abuela,grand-mère
-prefer,preferir,préférer
-tremendous,tremendo,énorme
-surgery,cirugía,opération
-retire,retirarse,se retirer
-fall,otoño,tomber
-strike,huelga,la grève
-afraid,temeroso,peur
-accident,accidente,accident
-crash,choque,crash
-climb,escalada,grimper
-canadian,canadiense,canadien
-obvious,obvio,évident
-finally,finalmente,finalement
-down,abajo,vers le bas
-hey,oye,hé
-classic,clásico,classique
-identification,identificación,identification
-squeeze,estrujar,presser
-strength,fuerza,force
-table,mesa,table
-accurate,preciso,précis
-cheap,barato,pas cher
-offense,ofensa,infraction
-construction,construcción,construction
-very,muy,très
-house,casa,loger
-breast,pecho,sein
-find,encontrar,trouver
-desperate,desesperado,désespéré
-discover,descubrir,découvrir
-wind,viento,vent
-safety,la seguridad,sécurité
-intention,intención,intention
-stage,escenario,étape
-fiber,fibra,fibre
-fitness,aptitud física,aptitude
-german,alemán,allemand
-guess,adivinar,deviner
-air,aire,air
-yell,gritar,hurler
-airline,aerolínea,compagnie aérienne
-abandon,abandonar,abandonner
-discipline,disciplina,la discipline
-proof,prueba,preuve
-nowhere,en ningún lugar,nulle part
-stare,mirar fijamente,regard
-testing,pruebas,essai
-essay,ensayo,essai
-own,propio,posséder
-attend,atender,assister à
-perform,llevar a cabo,effectuer
-wage,sueldo,salaire
-pretty,bonito,jolie
-work,trabajo,travailler
-sales,ventas,ventes
-organization,organización,organisation
-effect,efecto,effet
-unlikely,improbable,improbable
-wood,madera,bois
-perceive,percibir,apercevoir
-variation,variación,variation
-formation,formación,formation
-mess,lío,désordre
-enough,suficiente,assez
-simple,sencillo,facile
-announce,anunciar,annoncer
-adult,adulto,adulte
-decision,decisión,décision
-trace,rastro,trace
-phone,teléfono,téléphoner
-flight,vuelo,vol
-potato,papa,patate
-interest,interesar,intérêt
-comedy,comedia,la comédie
-asset,activo,actif
-psychology,psicología,psychologie
-collection,colección,collection
-department,departamento,département
-book,libro,livre
-n't,nuevo testamento,nt
-list,lista,liste
-pray,rezar,prier
-fine,multa,amende
-big,grande,gros
-odds,impares,chances
-building,edificio,bâtiment
-besides,además,outre
-advertising,publicidad,la publicité
-consume,consumir,consommer
-confront,confrontar,affronter
-increasing,creciente,en augmentant
-concert,concierto,concert
-tip,propina,pointe
-auto,auto,auto
-preparation,preparación,préparation
-index,índice,indice
-result,resultado,résultat
-capture,capturar,capturer
-born,nacido,née
-entertainment,entretenimiento,divertissement
-equal,igual,égal
-favorite,favorito,favori
-foot,pie,le pied
-onion,cebolla,oignon
-so,entonces,alors
-bite,morder,mordre
-collapse,colapso,s'effondrer
-refer,referir,référer
-later,luego,plus tard
-poet,poeta,poète
-party,fiesta,fête
-immediate,inmediato,immédiat
-survivor,sobreviviente,survivant
-attitude,actitud,attitude
-withdraw,retirar,retirer
-lucky,afortunado,chanceux
-examine,examinar,examiner
-year,año,an
-quarter,trimestre,trimestre
-case,caso,cas
-sophisticated,sofisticado,sophistiqué
-prior,previo,avant
-olympic,olímpico,olympique
-nevertheless,sin embargo,néanmoins
-offer,oferta,offrir
-bean,frijol,haricot
-requirement,requisito,exigence
-several,varios,nombreuses
-welcome,bienvenidos,bienvenue
-meanwhile,mientras tanto,entre-temps
-delay,demora,retard
-remind,recordar,rappeler
-super,súper,super
-control,control,contrôler
-dining,comida,à manger
-farmer,agricultor,fermier
-music,música,la musique
-bed,cama,lit
-supreme,supremo,suprême
-electronic,electrónico,électronique
-structure,estructura,structure
-emerge,surgir,émerger
-quote,cita,citation
-specific,específico,spécifique
-properly,adecuadamente,correctement
-resolution,resolución,résolution
-economy,economía,économie
-rifle,rifle,fusil
-be,ser,être
-time,hora,temps
-perception,percepción,la perception
-shot,disparo,tirer
-heel,tacón,talon
-neither,ninguno de los dos,non plus
-severe,grave,sévère
-tool,herramienta,outil
-walk,andar,marche
-home,casa,domicile
-sweep,barrer,balayer
-bench,mesa de trabajo,banc
-percentage,porcentaje,pourcentage
-somewhere,algun lado,quelque part
-look,mira,voir
-become,volverse,devenir
-best,mejor,meilleur
-aircraft,aeronave,avion
-joint,articulación,découper
-would,haría,voudrais
-rapidly,rápidamente,rapidement
-sector,sector,secteur
-changing,cambiando,en changeant
-come,venir,viens
-want,querer,vouloir
-variable,variable,variable
-furthermore,es más,en outre
-send,enviar,envoyer
-usually,generalmente,d'habitude
-cite,citar,citer
-figure,figura,chiffre
-transfer,transferir,transfert
-back,espalda,arrière
-operate,funcionar,fonctionner
-approval,aprobación,approbation
-user,usuario,utilisateur
-brilliant,brillante,brillant
-history,historia,l'histoire
-according,según,selon
-trial,prueba,essai
-discuss,discutir,discuter
-chance,oportunidad,chance
-historical,histórico,historique
-yesterday,ayer,hier
-mood,estado animico,humeur
-chain,cadena,chaîne
-combine,combinar,combiner
-cheek,mejilla,joue
-frequently,frecuentemente,fréquemment
-visible,visible,visible
-seem,parecer,sembler
-border,frontera,frontière
-soviet,soviético,soviétique
-deliver,entregar,livrer
-marriage,matrimonio,mariage
-piano,piano,piano
-growth,crecimiento,croissance
-team,equipo,équipe
-similarly,similar,de même
-emotion,emoción,émotion
-resolve,resolver,résoudre
-generate,generar,produire
-cancer,cáncer,cancer
-last,último,dernier
-poll,encuesta,sondage
-outside,fuera de,à l'extérieur
-swim,nadar,baignade
-graduate,graduado,diplômé
-declare,declarar,déclarer
+alone,solo,seule
+along,a lo largo de,le long de
+already,ya,dejà
+also,ademas,egalement
+alter,alterar,modifier
+alternative,alternativa,alternative
+although,aunque,même si
 always,siempre,toujours
-sorry,lo siento,pardon
-terrorist,terrorista,terroriste
-storage,almacenamiento,espace de rangement
-teenager,adolescente,adolescent
-routine,rutina,routine
-honor,honor,honneur
+am,soy,un m
+amazing,increible,etonnante
+american,americano,americain
+among,entre,parmi
+amount,monto,montant
+analysis,analisis,analyse
+analyst,analista,analyste
+analyze,analizar,analyser
+ancient,antiguo,ancien
+and,y,et
+anger,enojo,colère
+angle,angulo,angle
+angry,enfadado,en colère
+animal,animal,animal
+anniversary,aniversario,anniversaire
+announce,anunciar,annoncer
+annual,anual,annuel
+another,otro,une autre
+answer,responder,repondre
+anticipate,prever,anticiper
+anxiety,ansiedad,anxiete
+any,ninguna,quelconque
+anybody,cualquiera,n'importe qui
+anymore,ya no,plus
+anyone,alguien,n'importe qui
+anything,cualquier cosa,rien
+anyway,de todos modos,en tous cas
+anywhere,en cualquier sitio,partout
+apart,aparte,une part
+apartment,departamento,appartement
+apparent,aparente,apparent
+apparently,aparentemente,apparemment
+appeal,apelacion,faire appel
+appear,aparecer,apparaître
+appearance,apariencia,apparence
+apple,manzana,pomme
+application,solicitud,application
+apply,aplicar,appliquer
+appoint,nombrar,nommer
+appointment,cita,rendez-vous
+appreciate,agradecer,apprecier
+approach,acercarse,approcher
+appropriate,apropiado,approprie
+approval,aprobacion,approbation
+approve,aprobar,approuver
+approximately,aproximadamente,approximativement
+arab,arabe,arabe
+architect,arquitecto,architecte
+area,area,region
+argue,discutir,se disputer
+argument,argumento,argument
+arise,aumentar,surgir
+arm,brazo,bras
+armed,armado,arme
+army,ejercito,armee
+around,alrededor,environ
+arrange,arreglar,organiser
+arrangement,arreglo,arrangement
+arrest,arrestar,arrêter
+arrival,llegada,arrivee
+arrive,llegar,arrivee
+art,arte,art
+article,articulo,article
+artist,artista,artiste
+artistic,artistico,artistique
+as,como,comme
+asian,asiatico,asiatique
+aside,aparte,de côte
+ask,pedir,interroger
+asleep,dormido,endormi
+aspect,aspecto,aspect
+assault,asalto,agression
+assert,afirmar,affirmer
+assess,evaluar,evaluer
+assessment,evaluacion,evaluation
+asset,activo,actif
+assign,asignar,attribuer
+assignment,asignacion,mission
+assist,ayudar,aider
+assistance,asistencia,assistance
+assistant,asistente,assistant
+associate,asociar,associer
+association,asociacion,association
+assume,asumir,supposer
+assumption,suposicion,supposition
+assure,asegurar,assurer
+at,en,à
+athlete,atleta,athlète
+athletic,atletico,athletique
+atmosphere,atmosfera,atmosphère
+attach,adjuntar,attacher
+attack,ataque,attaque
+attempt,intento,tentative
+attend,atender,assister à
+attention,atencion,attention
+attitude,actitud,attitude
+attorney,abogado,avocat
+attract,atraer,attirer
+attractive,atractivo,attractif
+attribute,atributo,attribut
 audience,audiencia,public
-terms,condiciones,termes
-reality,realidad,réalité
+author,autor,auteur
+authority,autoridad,autorite
+auto,auto,auto
+available,disponible,disponible
+average,promedio,moyen
+avoid,evitar,eviter
+award,otorgar,decerner
+aware,consciente,au courant
+awareness,conciencia,sensibilisation
+away,fuera,une facon
+awful,horrible,affreux
+baby,bebe,bebe
+back,espalda,arrière
+background,antecedentes,contexte
+bad,malo,mal
+badly,gravemente,mal
+bag,bolsa,sac
+bake,hornear,cuire
+balance,equilibrio,equilibre
+ball,bola,balle
+ban,prohibicion,interdire
+band,banda,bande
+bank,banco,banque
+bar,bar,bar
+barely,apenas,à peine
+barrel,barril,baril
+barrier,barrera,barrière
+base,base,base
+baseball,beisbol,base-ball
+basic,basico,de base
+basically,basicamente,fondamentalement
+basis,base,base
+basket,cesta,corbeille
+basketball,baloncesto,basket-ball
+bathroom,baño,salle de bain
+battery,bateria,la batterie
+battle,batalla,bataille
+be,ser,être
+beach,playa,plage
+bean,frijol,haricot
+bear,oso,ours
+beat,derrotar,battre
+beautiful,hermosa,magnifique
+beauty,belleza,beaute
+because,porque,car
+become,volverse,devenir
+bed,cama,lit
+bedroom,habitacion,chambre à coucher
+beer,cerveza,bière
+before,antes de,avant de
+begin,empezar,commencer
+beginning,comenzando,debut
+behavior,conducta,comportement
+behind,detras,derrière
+being,siendo,être
+belief,creencia,croyance
+believe,creer,croyez
+bell,campana,cloche
+belong,pertenecer,appartiennent
+below,debajo,au dessous de
+belt,cinturon,ceinture
+bench,mesa de trabajo,banc
+bend,doblar,pliez
+beneath,bajo,sous
+benefit,beneficio,avantage
+beside,junto a,à côte de
+besides,ademas,outre
+best,mejor,meilleur
+bet,apuesta,pari
+better,mejor,mieux
+between,entre,compris entre
+beyond,mas alla de,au-delà
+bible,biblia,bible
+big,grande,gros
+bike,bicicleta,bicyclette
+bill,cuenta,facture
+billion,billon,milliard
+bind,unir,lier
+biological,biologico,biologique
+bird,pajaro,oiseau
+birth,nacimiento,naissance
+birthday,cumpleaños,date d'anniversaire
+bit,poco,bit
+bite,morder,mordre
+black,negro,le noir
+blade,espada,lame
+blame,culpar,faire des reproches
+blanket,manta,couverture
+blind,ciego,aveugle
+block,cuadra,bloquer
+blood,sangre,du sang
+blow,soplar,souffler
+blue,azul,bleu
+board,tablero,planche
+boat,bote,bateau
+body,cuerpo,corps
+bomb,bomba,bombe
+bombing,bombardeo,bombardement
+bond,vinculo,lier
+bone,hueso,os
+book,libro,livre
+boom,auge,boom
+boot,bota,demarrage
+border,frontera,frontière
+born,nacido,nee
+borrow,tomar prestado,emprunter
+boss,patron,chef
+both,ambas cosas,tous les deux
+bother,molestar,embêter
+bottle,botella,bouteille
+bottom,fondo,bas
+boundary,perimetro,frontière
+bowl,bol,bol
+box,caja,boîte
+boy,chico,garcon
+boyfriend,novio,petit ami
+brain,cerebro,cerveau
+branch,rama,branche
+brand,marca,marque
+bread,pan,pain
+break,descanso,pause
+breakfast,desayuno,petit-dejeuner
+breast,pecho,sein
+breath,respiracion,souffle
+breathe,respirar,respirer
+brick,ladrillo,brique
+bridge,puente,pont
+brief,breve,bref
+briefly,brevemente,brièvement
+bright,brillante,brillant
+brilliant,brillante,brillant
+bring,traer,apporter
+british,britanico,britanique
+broad,amplio,large
+broken,roto,casse
+brother,hermano,frère
+brown,marron,marron
+brush,cepillo,brosser
+buck,dolar,male
+budget,presupuesto,budget
+build,construir,construire
+building,edificio,batiment
+bullet,bala,balle
+bunch,racimo,groupe
+burden,carga,fardeau
+burn,quemar,brûler
+bury,enterrar,enterrer
+bus,autobus,autobus
+business,negocio,affaires
+busy,ocupado,occupe
+but,pero,mais
+butter,manteca,beurre
+button,boton,bouton
+buy,comprar,acheter
+buyer,comprador,acheteur
+by,por,par
+cabin,cabina,cabine
+cabinet,gabinete,cabinet
+cable,cable,cable
+cake,pastel,gateau
+calculate,calcular,calculer
+call,llamada,appel
+camera,camara,appareil photo
+camp,acampar,camp
+campaign,campaña,campagne
+campus,instalaciones,campus
+can,lata,pouvez
+canadian,canadiense,canadien
+cancer,cancer,cancer
+candidate,candidato,candidat
+cap,gorra,casquette
+capability,capacidad,aptitude
+capable,capaz,capable
+capacity,capacidad,capacite
+capital,capital,capitale
+captain,capitan,capitaine
+capture,capturar,capturer
+car,coche,auto
+carbon,carbon,carbone
+card,tarjeta,carte
+care,cuidado,se soucier
+career,carrera profesional,carrière
+careful,cuidado,prudent
+carefully,con cuidado,soigneusement
+carrier,transportador,transporteur
+carry,llevar,porter
+case,caso,cas
+cash,dinero en efectivo,en espèces
+cast,emitir,jeter
+cat,gato,chat
+catch,atrapar,attraper
+category,categoria,categorie
+catholic,catolico,catholique
+cause,porque,causer
+ceiling,techo,plafond
+celebrate,celebrar,celebrer
+celebration,celebracion,fête
+celebrity,celebridad,celebrite
+cell,celula,cellule
+center,centrar,centre
+central,central,central
+century,siglo,siècle
+ceo,ceo,pdg
+ceremony,ceremonia,la ceremonie
+certain,cierto,certain
+certainly,ciertamente,certainement
+chain,cadena,chaîne
+chair,silla,chaise
+chairman,presidente,president
+challenge,desafio,defi
+chamber,camara,chambre
+champion,campeon,champion
+championship,campeonato,championnat
+chance,oportunidad,chance
+change,cambiar,changement
+changing,cambiando,en changeant
+channel,canal,canal
+chapter,capitulo,chapitre
+character,personaje,personnage
+characteristic,caracteristica,caracteristique
+characterize,caracterizar,caracteriser
+charge,cargar,charger
+charity,caridad,charite
+chart,grafico,graphique
+chase,perseguir,chasser
+cheap,barato,pas cher
+check,controlar,chèque
+cheek,mejilla,joue
+cheese,queso,fromage
+chef,cocinero,chef
+chemical,quimico,chimique
+chest,cofre,coffre
+chicken,pollo,poulet
+chief,jefe,chef
+child,niño,enfant
+childhood,infancia,enfance
+chinese,chino,chinois
+chip,chip,ebrecher
+chocolate,chocolate,chocolat
+choice,eleccion,choix
+cholesterol,colesterol,cholesterol
+choose,escoger,choisir
+christian,cristiano,christian
+christmas,navidad,noël
+church,iglesia,eglise
+cigarette,cigarrillo,cigarette
+circle,circulo,cercle
+circumstance,circunstancia,circonstance
+cite,citar,citer
+citizen,ciudadano,citoyen
+city,ciudad,ville
+civil,civil,civil
+civilian,civil,civil
+claim,afirmar,reclamer
+class,clase,classer
+classic,clasico,classique
+classroom,salon de clases,salle de classe
+clean,limpio,nettoyer
+clear,claro,degager
+clearly,claramente,clairement
+client,cliente,client
+climate,clima,climat
+climb,escalada,grimper
+clinic,clinica,clinique
+clinical,clinico,clinique
+clock,reloj,l'horloge
+close,cerrar,fermer
+closely,cercanamente,etroitement
+closer,mas cerca,plus proche
+clothes,ropa,vêtements
+clothing,ropa,vêtements
+cloud,nube,nuage
+club,club,club
+clue,pista,indice
+cluster,grupo,groupe
+coach,entrenador,entraîneur
+coal,carbon,charbon
+coalition,coalicion,coalition
+coast,costa,côte
+coat,saco,manteau
+code,codigo,code
+coffee,cafe,cafe
+cognitive,cognitivo,cognitif
+cold,frio,du froid
+collapse,colapso,s'effondrer
+colleague,colega,collègue
+collect,recolectar,collecter
+collection,coleccion,collection
+collective,colectivo,collectif
+college,universidad,universite
+colonial,colonial,colonial
+color,color,couleur
+column,columna,colonne
+combination,combinacion,combinaison
+combine,combinar,combiner
+come,venir,viens
+comedy,comedia,la comedie
+comfort,comodidad,confort
+comfortable,comodo,à l'aise
+command,mando,commander
+commander,comandante,le commandant
+comment,comentario,commenter
+commercial,comercial,commercial
+commission,comision,commission
+commit,cometer,s'engager
+commitment,compromiso,engagement
+committee,comite,comite
+common,comun,commun
+communicate,comunicar,communiquer
+communication,comunicacion,la communication
+community,comunidad,communaute
+company,empresa,entreprise
+compare,comparar,comparer
+comparison,comparacion,comparaison
+compete,competir,rivaliser
+competition,competencia,concurrence
+competitive,competitivo,competitif
+competitor,competidor,concurrent
+complain,quejarse,se plaindre
+complaint,queja,plainte
+complete,completo,achevee
+completely,completamente,complètement
+complex,complejo,complexe
+complicated,complicado,complique
+component,componente,composant
+compose,componer,composer
+composition,composicion,composition
+comprehensive,exhaustivo,complet
+computer,computadora,l'ordinateur
+concentrate,concentrado,concentrer
+concentration,concentracion,concentration
+concept,concepto,concept
+concern,preocupacion,preoccuper
+concerned,preocupado,concerne
+concert,concierto,concert
+conclude,concluir,conclure
+conclusion,conclusion,conclusion
+concrete,hormigon,beton
+condition,condicion,etat
+conduct,conducta,conduite
+conference,conferencia,conference
+confidence,confianza,confiance
+confident,seguro,confiant
+confirm,confirmar,confirmer
+conflict,conflicto,conflit
+confront,confrontar,affronter
+confusion,confusion,confusion
+congress,congreso,congrès
+congressional,del congreso,du congrès
+connect,conectar,relier
+connection,conexion,connexion
+consciousness,conciencia,conscience
+consensus,consenso,consensus
+consequence,consecuencia,consequence
+conservative,conservador,conservateur
+consider,considerar,considerer
+considerable,considerable,considerable
+consideration,consideracion,consideration
+consist,consistir,consister
+consistent,consistente,coherent
+constant,constante,constant
+constantly,constantemente,constamment
+constitute,constituir,constituer
+constitutional,constitucional,constitutionnel
+construct,construir,construction
+construction,construccion,construction
+consultant,consultor,consultant
+consume,consumir,consommer
+consumer,consumidor,consommateur
+consumption,consumo,consommation
+contact,contacto,contact
+contain,contiene,contenir
+container,envase,recipient
+contemporary,contemporaneo,contemporain
+content,contenido,contenu
+contest,concurso,concours
+context,contexto,le contexte
+continue,seguir,continuez
+continued,continuado,a continue
+contract,contrato,contrat
+contrast,contraste,contraste
+contribute,contribuir,contribuer
+contribution,contribucion,contribution
+control,control,contrôler
+controversial,polemico,controverse
+controversy,controversia,controverse
+convention,convencion,convention
+conventional,convencional,conventionnel
+conversation,conversacion,conversation
+convert,convertir,convertir
+conviction,conviccion,conviction
+convince,convencer,convaincre
+cook,cocinar,cuisiner
+cookie,galleta,biscuit
+cooking,cocinando,cuisine
+cool,frio,frais
+cooperation,cooperacion,la cooperation
+cop,policia,flic
+cope,afrontar,se debrouiller
+copy,copiar,copie
+core,centro,cœur
+corn,maiz,maïs
+corner,esquina,coin
+corporate,corporativo,d'entreprise
+corporation,corporacion,societe
+correct,correcto,correct
+correspondent,corresponsal,correspondant
+cost,costo,coût
+cotton,algodon,coton
+couch,sofa,canape
+could,pudo,pouvait
+council,consejo,conseil
+counselor,consejero,conseiller
+count,contar,compter
+counter,encimera,contrer
+country,pais,de campagne
+county,condado,comte
+couple,pareja,coupler
+courage,coraje,courage
+course,curso,cours
+court,corte,rechercher
+cousin,prima,cousine
+cover,cubrir,couverture
+coverage,cobertura,couverture
+cow,vaca,vache
+crack,grieta,fissure
+craft,artesania,artisanat
+crash,choque,crash
+crazy,loco,fou
+cream,crema,crème
+create,crear,creer
+creation,creacion,creation
+creative,creativo,creatif
+creature,criatura,creature
+credit,credito,credit
+crew,tripulacion,equipage
+crime,crimen,la criminalite
+criminal,delincuente,criminel
+crisis,crisis,crise
+criteria,criterio,critères
+critic,critico,critique
+critical,critico,critique
+criticism,critica,critique
+criticize,criticar,critiquer
+crop,cultivo,recadrer
+cross,cruzar,traverser
+crowd,multitud,foule
+crucial,crucial,crucial
+cry,llorar,pleurer
+cultural,cultural,culturel
+culture,cultura,culture
+cup,taza,coupe
+curious,curioso,curieuse
+current,actual,courant
+currently,actualmente,actuellement
+curriculum,plan de estudios,curriculum
+custom,personalizado,douane
+customer,cliente,client
+cut,corte,couper
+cycle,ciclo,cycle
+dad,papa,père
+daily,a diario,du quotidien
+damage,daño,dommage
+dance,danza,danse
+danger,peligro,danger
+dangerous,peligroso,dangereux
+dare,atrevimiento,oser
+dark,oscuro,fonce
+darkness,oscuridad,tenèbres
+data,datos,les donnees
+date,fecha,date
+daughter,hija,la fille
+day,dia,journee
+dead,muerto,mort
+deal,trato,accord
+dealer,distribuidor,marchand
+dear,estimado,cher
+death,muerte,decès
+debate,debate,debat
+debt,deuda,dette
+decade,decada,decennie
+decide,decidir,decider
+decision,decision,decision
+deck,plataforma,plate-forme
+declare,declarar,declarer
+decline,disminucion,declin
+decrease,disminucion,diminuer
+deep,profundo,profond
+deeply,profundamente,profondement
+deer,ciervo,cerf
+defeat,fracaso,defaite
+defend,defender,defendre
+defendant,acusado,defendeur
+defense,defensa,la defense
+defensive,defensivo,defensive
+deficit,deficit,deficit
+define,definir,definir
+definitely,definitivamente,absolument
+definition,definicion,definition
+degree,la licenciatura,diplôme
+delay,demora,retard
+deliver,entregar,livrer
+delivery,entrega,livraison
+demand,demanda,demande
+democracy,democracia,la democratie
+democrat,democrata,democrate
+democratic,democratico,democratique
+demonstrate,demostrar,demontrer
+demonstration,demostracion,manifestation
+deny,negar,nier
+department,departamento,departement
+depend,depender,dependre
+dependent,dependiente,dependant
+depending,dependiente,"en fonction, dependemment"
+depict,representar,representer
+depression,depresion,depression
+depth,profundidad,profondeur
+deputy,diputado,adjoint
+derive,derivar,deriver
+describe,describir,decris
+description,descripcion,la description
+desert,desierto,desert
+deserve,merecer,meriter
+design,diseño,conception
+designer,diseñador,designer
+desire,deseo,desir
+desk,escritorio,pupitre
+desperate,desesperado,desespere
+despite,a pesar de,en depit
+destroy,destruir,detruire
+destruction,destruccion,destruction
+detail,detalle,detail
+detailed,detallado,detaille
+detect,detectar,detecter
+determine,determinar,determiner
+develop,desarrollar,developper
+developing,desarrollando,developpement
+development,desarrollo,developpement
+device,dispositivo,appareil
+devote,dedicar,consacrer
+dialogue,dialogo,dialogue
+die,morir,mourir
+diet,dieta,diète
+differ,diferir de,differer
+difference,diferencia,difference
+different,diferente,different
+differently,diferentemente,differemment
+difficult,dificil,difficile
+difficulty,dificultad,difficulte
+dig,cavar,creuser
+digital,digital,numerique
+dimension,dimension,dimension
+dining,comida,à manger
+dinner,cena,dîner
+direct,directo,direct
+direction,direccion,direction
+directly,directamente,directement
+director,director,realisateur
+dirt,tierra,salete
+dirty,sucio,sale
+disability,invalidez,invalidite
+disagree,discrepar,être en desaccord
+disappear,desaparecer,disparaître
+disaster,desastre,catastrophe
+discipline,disciplina,la discipline
+discourse,discurso,discours
+discover,descubrir,decouvrir
+discovery,descubrimiento,decouverte
+discrimination,discriminacion,la discrimination
+discuss,discutir,discuter
+discussion,discusion,discussion
+disease,enfermedad,maladie
+dish,plato,assiette
+dismiss,descartar,rejeter
+disorder,trastorno,desordre
+display,mostrar,affichage
+dispute,disputa,contestation
+distance,distancia,distance
+distant,distante,loin
+distinct,distinto,distinct
+distinction,distincion,distinction
+distinguish,distinguir,distinguer
+distribute,distribuir,distribuer
+distribution,distribucion,distribution
+district,distrito,quartier
+diverse,diverso,diverse
+diversity,diversidad,la diversite
+divide,dividir,diviser
+division,division,division
+divorce,divorcio,divorce
+dna,adn,adn
+do,hacer,fais
+doctor,medico,medecin
+document,documento,document
+dog,perro,chien
+domestic,domestico,national
+dominant,dominante,dominant
+dominate,dominar,dominer
+door,puerta,porte
+double,doble,double
+doubt,duda,doute
+down,abajo,vers le bas
+downtown,centro,centre ville
+dozen,docena,douzaine
+draft,sequia,brouillon
+drag,arrastrar,traîne
+drama,drama,drame
+dramatic,dramatico,spectaculaire
+dramatically,dramaticamente,radicalement
+draw,dibujar,dessiner
+drawing,dibujo,dessin
+dream,sueño,rêver
+dress,vestido,robe
+drink,bebida,boisson
+drive,conducir,conduire
+driver,conductor,chauffeur
+drop,soltar,laissez tomber
+drug,droga,drogue
+dry,seco,secher
+due,vencer,payable
+during,durante,durant
+dust,polvo,poussière
+duty,deber,devoir
+each,cada,chaque
+eager,entusiasta,desireux
+ear,oreja,oreille
+early,temprano,de bonne heure
+earn,ganar,gagner
+earnings,ganancias,gains
+earth,tierra,la terre
+ease,facilitar,faciliter
+easily,facilmente,facilement
+east,este,est
+eastern,oriental,est
+easy,facil,facile
+eat,come,manger
+economic,economico,economique
+economics,ciencias economicas,economie
+economist,economista,economiste
+economy,economia,economie
+edge,borde,bord
+edition,edicion,edition
+editor,editor,editeur
+educate,educar,eduquer
+education,educacion,education
+educational,educativo,educatif
+educator,educador,educateur
+effect,efecto,effet
+effective,eficaz,efficace
+effectively,efectivamente,effectivement
+efficiency,eficiencia,efficacite
+efficient,eficiente,efficace
+effort,esfuerzo,effort
+egg,huevo,oeuf
+eight,ocho,huit
+either,cualquiera,soit
+elderly,anciano,age
+elect,electo,elire
+election,eleccion,election
+electric,electrico,electrique
+electricity,electricidad,electricite
+electronic,electronico,electronique
+element,elemento,element
+elementary,elemental,elementaire
+eliminate,eliminar,eliminer
+elite,elite,elite
+else,demas,autre
+elsewhere,en otra parte,ailleurs
+e-mail,email,e-mail
+embrace,abarcar,embrasse
+emerge,surgir,emerger
+emergency,emergencia,urgence
+emission,emision,emission
+emotion,emocion,emotion
+emotional,emocional,emotif
+emphasis,enfasis,accent
+emphasize,enfatizar,mettre l'accent sur
+employ,emplear,employer
+employee,empleado,employe
+employer,empleador,employeur
+employment,empleo,emploi
+empty,vacio,vide
+enable,habilitar,permettre
+encounter,encuentro,rencontrer
+encourage,alentar,encourager
+end,final,finir
+enemy,enemigo,ennemi
+energy,energia,energie
+enforcement,aplicacion,mise en vigueur
+engage,comprometerse,engager
+engine,motor,moteur
+engineer,ingeniero,ingenieur
+engineering,ingenieria,ingenierie
+english,ingles,anglais
+enhance,mejorar,ameliorer
+enjoy,disfrutar,prendre plaisir
+enormous,enorme,enorme
+enough,suficiente,assez
+ensure,garantizar,assurer
+enter,ingresar,entrer
+enterprise,empresa,entreprise
+entertainment,entretenimiento,divertissement
+entire,completo,tout
+entirely,enteramente,entièrement
+entrance,entrada,entree
+entry,entrada,entree
+environment,ambiente,environnement
+environmental,ambiental,environnemental
+episode,episodio,episode
+equal,igual,egal
+equally,igualmente,egalement
+equipment,equipo,equipement
+era,era,ère
+error,error,erreur
+escape,escapar,echapper
+especially,especialmente,surtout
+essay,ensayo,essai
+essential,esencial,essentiel
+essentially,esencialmente,essentiellement
+establish,establecer,etablir
+establishment,establecimiento,etablissement
+estate,inmuebles,domaine
+estimate,estimar,estimation
+etc,etc.,etc
+ethics,etica,ethique
+ethnic,etnico,ethnique
+european,europeo,europeen
+evaluate,evaluar,evaluer
+evaluation,evaluacion,evaluation
+even,incluso,même
+evening,noche,soiree
+event,evento,un evenement
+eventually,finalmente,finalement
+ever,siempre,jamais
+every,cada,tous
+everybody,todos,tout le monde
+everyday,cada dia,tous les jours
+everyone,todo el mundo,toutes les personnes
+everything,todo,tout
+everywhere,en todas partes,partout
+evidence,evidencia,preuve
+evolution,evolucion,evolution
+evolve,evolucionar,evoluer
+exact,exacto,exact
+exactly,exactamente,exactement
+examination,examen,examen
+examine,examinar,examiner
+example,ejemplo,exemple
+exceed,exceder,depasser
+excellent,excelente,excellent
+except,excepto,à l'exception
+exception,excepcion,exception
+exchange,intercambio,echanger
+exciting,excitante,passionnant
+executive,ejecutivo,executif
+exercise,ejercicio,exercer
+exhibit,exposicion,exposition
+exhibition,exposicion,exposition
+exist,existe,exister
+existence,existencia,existence
+existing,existente,existant
+expand,expandir,developper
+expansion,expansion,expansion
+expect,suponer,attendre
+expectation,expectativa,attente
+expense,gastos,frais
+expensive,caro,cher
+experience,experiencia,experience
+experiment,experimentar,experience
+expert,experto,expert
+explain,explicar,explique
+explanation,explicacion,explication
+explode,explotar,exploser
+explore,explorar,explorer
+explosion,explosion,explosion
+expose,exponer,exposer
+exposure,exposicion,exposition
+express,rapido,express
+expression,expresion,expression
+extend,ampliar,se deployer
+extension,extension,extension
+extensive,extenso,extensif
+extent,grado,le degre
+external,externo,externe
+extra,extra,supplementaire
+extraordinary,extraordinario,extraordinaire
+extreme,extremo,extrême
+extremely,extremadamente,extrêmement
+eye,ojo,œil
+fabric,tela,en tissu
+face,rostro,visage
+facility,instalaciones,etablissement
+fact,hecho,fait
+factor,factor,facteur
+factory,fabrica,usine
+faculty,facultad,la faculte
+fade,desvanecerse,disparaître
+fail,fallar,echouer
+failure,falla,echec
+fair,justo,equitable
+fairly,equitativamente,equitablement
+faith,fe,foi
+fall,otoño,tomber
+false,falso,faux
+familiar,familiar,familier
+family,familia,famille
+famous,famoso,celèbre
+fan,ventilador,ventilateur
+fantasy,fantasia,fantaisie
+far,lejos,loin
+farm,granja,cultiver
+farmer,agricultor,fermier
+fashion,moda,mode
+fast,rapido,vite
+fat,grasa,gros
+fate,destino,destin
+father,padre,père
+fault,culpa,faute
+favor,favor,favoriser
+favorite,favorito,favori
+fear,miedo,peur
+feature,rasgo,caracteristique
+federal,federal,federal
+fee,tarifa,frais
+feed,alimento,alimentation
+feel,sentir,sentir
+feeling,sentimiento,sentiment
+fellow,compañero,compagnon
+female,mujer,femme
+fence,valla,clôture
+few,pocos,quelque
+fewer,menos,moins
+fiber,fibra,fibre
+fiction,ficcion,fiction
+field,campo,champ
+fifteen,quince,quinze
+fifth,quinto,cinquième
+fifty,cincuenta,cinquante
+fight,pelear,se battre
+fighter,combatiente,combattant
+fighting,luchando,combat
+figure,figura,chiffre
+file,expediente,fichier
+fill,llenar,remplir
+film,pelicula,film
+final,final,final
+finally,finalmente,finalement
+finance,finanzas,la finance
+financial,financiero,financier
+find,encontrar,trouver
+finding,hallazgo,decouverte
+fine,multa,amende
+finger,dedo,doigt
+finish,finalizar,terminer
+fire,fuego,feu
+firm,firma,solidifier
+first,primero,première
+fish,pez,poisson
+fishing,pesca,faire de la pêche
+fit,encajar,ajuster
+fitness,aptitud fisica,aptitude
+five,cinco,cinq
+fix,reparar,reparer
+flag,bandera,drapeau
+flame,fuego,flamme
+flat,departamento,appartement
+flavor,sabor,saveur
+flee,huir,fuir
+flesh,carne,chair
+flight,vuelo,vol
+float,flotador,flotter
+floor,piso,sol
+flow,flujo,couler
+flower,flor,fleur
+fly,mosca,voler
+focus,enfocar,se concentrer
+folk,gente,populaire
+follow,seguir,suivre
+following,siguiente,suivant
+food,comida,aliments
+foot,pie,le pied
+football,futbol,football
+for,por,pour
+force,fuerza,obliger
+foreign,extranjero,etranger
+forest,bosque,forêt
+forever,siempre,toujours
+forget,olvidar,oubliez
+form,formulario,forme
+formal,formal,formel
+formation,formacion,formation
+former,anterior,ancien
+formula,formula,formule
+forth,adelante,en avant
+fortune,fortuna,fortune
+forward,hacia adelante,effronte
+found,fundar,a trouve
+foundation,fundacion,fondation
+founder,fundador,fondateur
+four,cuatro,quatre
+fourth,cuatro,quatrième
+frame,marco,cadre
+framework,estructura,cadre
+free,gratis,libre
+freedom,libertad,liberte
+freeze,congelar,geler
+french,frances,francais
+frequency,frecuencia,la frequence
+frequent,frecuente,frequent
+frequently,frecuentemente,frequemment
+fresh,nuevo,frais
+friend,amigo,amie
+friendly,amistoso,amical
+friendship,amistad,relation amicale
+from,desde,à partir de
+front,parte delantera,de face
+fruit,fruta,fruit
+frustration,frustracion,frustration
+fuel,gasolina,carburant
+full,completo,plein
+fully,completamente,pleinement
+fun,divertido,amusant
+function,funcion,une fonction
+fund,fondo,fonds
+fundamental,fundamental,fondamental
+funding,fondos,le financement
+funeral,funeral,funeraire
+funny,gracioso,drôle
+furniture,mueble,meubles
+furthermore,es mas,en outre
+future,futuro,avenir
+gain,ganar,gain
+galaxy,galaxia,galaxie
+gallery,galeria,galerie
+game,juego,jeu
+gang,pandilla,gang
+gap,brecha,ecart
+garage,garaje,garage
+garden,jardin,jardin
+garlic,ajo,ail
+gas,gas,gaz
+gate,porton,portail
+gather,recolectar,rassembler
+gay,gay,gay
+gaze,mirada,regard
+gear,engranaje,equipement
+gender,genero,le sexe
+gene,gene,gène
+general,general,general
+generally,generalmente,generalement
+generate,generar,produire
+generation,generacion,generation
+genetic,genetico,genetique
+gentleman,caballero,gentilhomme
+gently,suavemente,doucement
+german,aleman,allemand
+gesture,gesto,geste
+get,obtener,avoir
+ghost,fantasma,fantôme
+giant,gigante,geant
+gift,regalo,cadeau
+gifted,dotado,doue
+girl,niña,fille
+girlfriend,novia,copine
+give,dar,donner
+given,dado,etant donne
+glad,contento,content
+glance,mirada,coup d'œil
+glass,vidrio,verre
+global,global,global
+glove,guante,gant
+go,ir,va
+goal,meta,but
+god,dios,dieu
+gold,oro,or
+golden,dorado,dore
+golf,golf,le golf
+good,bien,bien
+government,gobierno,gouvernement
+governor,gobernador,gouverneur
+grab,tomar,saisir
+grade,calificacion,noter
+gradually,gradualmente,progressivement
+graduate,graduado,diplôme
+grain,grano,grain
+grand,grandioso,grandiose
+grandfather,abuelo,grand-père
+grandmother,abuela,grand-mère
+grant,conceder,accorder
+grass,hierba,gazon
+grave,tumba,la tombe
+gray,gris,grise
+great,estupendo,genial
+greatest,mas grande,plus grand
+green,verde,vert
+grocery,tienda de comestibles,epicerie
+ground,terrestre,sol
+group,grupo,grouper
+grow,crecer,grandir
+growing,creciente,croissance
+growth,crecimiento,croissance
+guarantee,garantia,garantie
+guard,guardia,garder
+guess,adivinar,deviner
+guest,huesped,invite
+guide,guia,guider
+guideline,guia,ligne directrice
+guilty,culpable,coupable
+gun,pistola,arme à feu
+guy,chico,mec
+habit,habito,habitude
+habitat,habitat,habitat
+hair,cabello,cheveu
+half,medio,demi
+hall,salon,salle
+hand,mano,main
+handful,puñado,poignee
+handle,encargarse de,poignee
+hang,colgar,pendre
+happen,suceder,arriver
+happy,contento,content
+hard,duro,dur
+hardly,dificilmente,à peine
+hat,sombrero,chapeau
+hate,odio,detester
+have,tener,avoir
+he,el,il
+head,cabeza,diriger
+headline,titular,gros titre
+headquarters,sede,quartier general
+health,salud,sante
+healthy,saludable,sain
+hear,escuchar,ecouter
+hearing,escuchando,audience
+heart,corazon,cœur
+heat,calor,chauffer
+heaven,cielo,paradis
+heavily,fuertemente,fortement
+heavy,pesado,lourd
+heel,tacon,talon
+height,altura,la taille
+helicopter,helicoptero,helicoptère
+hell,infierno,enfer
+hello,hola,bonjour
+help,ayuda,aider
+helpful,servicial,utile
+her,su,son
+here,aqui,ici
+heritage,herencia,patrimoine
+hero,heroe,heros
+herself,si misma,se
+hey,oye,he
+hi,hola,salut
+hide,esconder,cacher
+high,elevado,haut
+highlight,destacar,surligner
+highly,muy,très
+highway,carretera,autoroute
+hill,colina,colline
+him,el,lui
+himself,el mismo,lui-même
+hip,cadera,hanche
+hire,contratar,embaucher
+his,su,le sien
+historian,historiador,historien
+historic,historico,historique
+historical,historico,historique
+history,historia,l'histoire
+hit,golpear,frapper
+hold,sostener,tenir
+hole,agujero,trou
+holiday,fiesta,vacances
+holy,santo,saint
+home,casa,domicile
+homeless,vagabundo,sans-abri
+honest,honesto,honnête
+honey,cariño,mon cheri
+honor,honor,honneur
+hope,esperar,esperer
+horizon,horizonte,horizon
+horror,horror,horreur
+horse,caballo,cheval
+hospital,hospital,hôpital
+host,anfitrion,heberger
+hot,caliente,chaud
+hotel,hotel,hôtel
+hour,hora,heure
+house,casa,loger
+household,familiar,menage
+housing,alojamiento,logement
+how,como,comment
+however,sin embargo,toutefois
+huge,enorme,enorme
+human,humano,humain
+humor,humor,humour
+hundred,centenar,cent
+hungry,hambriento,faim
+hunter,cazador,chasseur
+hunting,caza,chasse
+hurt,herir,faire mal
+husband,esposo,mari
+hypothesis,hipotesis,hypothèse
+I,yo,je
+ice,hielo,glace
+idea,idea,idee
+ideal,ideal,ideal
+identification,identificacion,identification
+identify,identificar,identifier
+identity,identidad,identite
+ie,es decir,c'est à dire
+if,si,si
+ignore,ignorar,ignorer
+ill,enfermo,malade
+illegal,ilegal,illegal
+illness,enfermedad,maladies
+illustrate,ilustrar,illustrer
+image,imagen,image
+imagination,imaginacion,imagination
+imagine,imagina,imaginer
+immediate,inmediato,immediat
+immediately,inmediatamente,immediatement
+immigrant,inmigrante,immigrant
+immigration,inmigracion,immigration
+impact,impacto,impacter
+implement,implementar,mettre en œuvre
+implication,implicacion,implication
+imply,implicar,impliquer
+importance,importancia,importance
+important,importante,important
+impose,imponer,imposer
+impossible,imposible,impossible
+impress,impresionar,impressionner
+impression,impresion,impression
+impressive,impresionante,impressionnant
+improve,mejorar,ameliorer
+improvement,mejora,amelioration
+in,en,dans
+incentive,incentivo,incitation
+incident,incidente,incident
+include,incluir,inclure
+including,incluso,y compris
+income,ingreso,le revenu
+incorporate,incorporar,integrer
+increase,aumento,augmenter
+increased,aumentado,augmente
+increasing,creciente,en augmentant
+increasingly,cada vez mas,de plus en plus
+incredible,increible,incroyable
+indeed,por supuesto,en effet
+independence,independencia,independance
+independent,independiente,independant
+index,indice,indice
+indian,indio,indien
+indicate,indicar,indiquer
+indication,indicacion,indication
+individual,individual,individuel
+industrial,industrial,industriel
+industry,industria,industrie
+infant,infantil,bebe
+infection,infeccion,infection
+inflation,inflacion,inflation
+influence,influencia,influence
+inform,informar,informer
+information,informacion,information
+ingredient,ingrediente,ingredient
+initial,inicial,initiale
+initially,inicialmente,initialement
+initiative,iniciativa,initiative
+injury,lesion,blessure
+inner,interno,interieur
+innocent,inocente,innocent
+inquiry,consulta,enquête
+inside,en el interior,à l'interieur
+insight,vision,apercu
+insist,insistir,insister
+inspire,inspirar,inspirer
+install,instalar en pc,installer
+instance,ejemplo,exemple
+instead,en lugar de,au lieu
+institution,institucion,institution
+institutional,institucional,institutionnel
+instruction,instruccion,instruction
+instructor,instructor,instructeur
+instrument,instrumento,instrument
+insurance,seguro,assurance
+intellectual,intelectual,intellectuel
+intelligence,inteligencia,intelligence
+intend,intentar,intention de
+intense,intenso,intense
+intensity,intensidad,intensite
+intention,intencion,intention
+interaction,interaccion,interaction
+interest,interesar,interêt
+interested,interesado,interesse
+interesting,interesante,interessant
+internal,interno,interne
+international,internacional,international
+internet,internet,l'internet
+interpret,interpretar,interpreter
+interpretation,interpretacion,interpretation
+intervention,intervencion,intervention
+interview,entrevista,entretien
+into,dentro,dans
+introduce,introducir,presenter
+introduction,introduccion,introduction
+invasion,invasion,invasion
+invest,invertir,investir
+investigate,investigar,enquêter
+investigation,investigacion,enquête
+investigator,investigador,enquêteur
+investment,inversion,investissement
+investor,inversor,investisseur
+invite,invitacion,inviter
+involve,involucrar,impliquer
+involved,involucrado,implique
+involvement,intervencion,participation
+iraqi,iraqui,irakien
+irish,irlandesa,irlandais
+iron,planchar,fer à repasser
+islamic,islamico,islamique
+island,isla,île
+israeli,israeli,israelien
+issue,asunto,publier
+it,eso,ce
+italian,italiano,italien
+item,it,objet
+its,su,son
+itself,si mismo,lui-même
+jacket,chaqueta,veste
+jail,celda,geôle
+japanese,japones,japonais
+jet,chorro,jet
+jew,judio,juif
+jewish,judio,juif
+job,trabajo,travail
+join,unirse,rejoindre
+joint,articulacion,decouper
+joke,broma,blague
+journal,diario,journal
+journalist,periodista,journaliste
+journey,viaje,voyage
+joy,alegria,joie
+judge,juez,juge
+judgment,juicio,jugement
+juice,jugo,jus
+jump,salto,saut
+junior,junior,junior
+jury,jurado,jury
+just,solo,juste
+justice,justicia,justice
+justify,justificar,justifier
+keep,mantenerse,garder
+key,llave,cle
+kick,patear,donner un coup
+kid,niño,enfant
+kill,matar,tuer
+killer,asesino,tueur
+killing,asesinato,meurtre
+kind,tipo,type
+king,rey,roi
+kiss,beso,embrasser
+kitchen,cocina,cuisine
+knee,rodilla,le genou
+knife,cuchillo,couteau
+knock,golpear,frappe
+know,saber,connaître
+knowledge,conocimiento,connaissances
+lab,laboratorio,laboratoire
+label,etiqueta,etiqueter
+labor,labor,la main d'oeuvre
+laboratory,laboratorio,laboratoire
+lack,carecer,manque
+lady,señora,dame
+lake,lago,lac
+land,tierra,terre
+landscape,paisaje,paysage
+language,idioma,langue
+lap,vuelta,genoux
+large,grande,grande
+largely,en gran parte,en grande partie
+last,ultimo,dernier
+late,tarde,en retard
+later,luego,plus tard
+latin,latin,latin
+latter,ultimo,dernier
+laugh,reir,rire
+launch,lanzamiento,lancement
+law,ley,droit
+lawn,cesped,pelouse
+lawsuit,demanda judicial,procès
+lawyer,abogado,avocat
+lay,poner,allonger
+layer,capa,couche
+lead,dirigir,mener
+leader,lider,chef
+leadership,liderazgo,leadership
+leading,principal,premier
+leaf,hoja,feuille
+league,liga,ligue
+lean,inclinarse,mince
+learn,aprender,apprendre
+learning,aprendiendo,apprentissage
+least,menos,moins
+leather,cuero,cuir
+leave,salir,partir
+left,izquierda,la gauche
+leg,pierna,jambe
+legacy,legado,heritage
+legal,legal,legal
+legend,leyenda,legende
+legislation,legislacion,legislation
+legitimate,legitimo,legitime
+lemon,limon,citron
+length,longitud,longueur
+less,menos,moins
+lesson,leccion,cours
+let,dejar,laisser
+letter,letra,lettre
+level,nivel,niveau
+liberal,liberal,liberal
+library,biblioteca,bibliothèque
+license,licencia,licence
+lie,mentir,mensonge
+life,la vida,la vie
+lifestyle,estilo de vida,mode de vie
+lifetime,toda la vida,duree de vie
+lift,elevar,ascenseur
+light,luz,leger
+like,me gusta,aimer
+likely,probable,probable
+limit,limite,limite
+limitation,limitacion,limitation
+limited,limitado,limite
+line,linea,ligne
+link,enlace,lien
+lip,labio,lèvre
+list,lista,liste
+listen,escucha,ecoutez
+literally,literalmente,au sens propre
+literary,literario,litteraire
+literature,literatura,litterature
+little,poco,peu
+live,en vivo,habitent
+living,viviendo,vivant
+load,carga,charge
+loan,prestamo,prêter
+local,local,local
+locate,localizar,localiser
+location,ubicacion,lieu
+lock,cerrar con llave,fermer à cle
+long,largo,long
+long-term,a largo plazo,long terme
+look,mira,voir
+loose,suelto,ample
+lose,perder,perdre
+loss,perdida,perte
+lost,perdio,perdu
+lot,lote,parcelle
+lots,un monton,lot
+loud,ruidoso,fort
+love,amor,amour
+lovely,encantador,beau
+lover,amante,amoureux
+low,bajo,meugler
+lower,mas bajo,plus bas
+luck,suerte,chance
+lucky,afortunado,chanceux
+lunch,comida,dejeuner
+lung,pulmon,poumon
+machine,maquina,machine
+mad,enojado,fou
+magazine,revista,magazine
+mail,correo,courrier
+main,principal,principale
+mainly,principalmente,surtout
+maintain,mantener,maintenir
+maintenance,mantenimiento,maintenance
+major,importante,majeur
+majority,mayoria,majorite
+make,hacer,fabriquer
+maker,fabricante,fabricant
+makeup,maquillaje,se reconcilier
+male,masculino,masculin
+mall,centro comercial,galerie marchande
+man,hombre,homme
+manage,administrar,faire en sorte
+management,administracion,le management
+manager,gerente,directeur
+manner,conducta,manière
+manufacturer,fabricante,fabricant
+manufacturing,fabricacion,fabrication
+many,muchos,de nombreux
+map,mapa,carte
+margin,margen,marge
+mark,marca,marque
+market,mercado,marche
+marketing,marketing,commercialisation
+marriage,matrimonio,mariage
+married,casado,marie
+marry,casar,marier
+mask,mascara,masquer
+mass,masa,masse
+massive,masivo,massif
+master,maestro,maître
+match,partido,rencontre
+material,material,materiel
+math,matematicas,math
+matter,importar,question
+may,mayo,mai
+maybe,quizas,peut être
+mayor,alcalde,maire
+me,me,moi
+meal,comida,repas
+mean,significar,signifier
+meaning,sentido,signification
+meanwhile,mientras tanto,entre-temps
+measure,la medida,mesure
+measurement,medicion,la mesure
+meat,carne,viande
+mechanism,mecanismo,mecanisme
+media,medios de comunicacion,medias
+medical,medico,medical
+medication,medicamento,des medicaments
+medicine,medicamento,medicament
+medium,medio,moyen
+meet,reunirse,rencontrer
+meeting,reunion,rencontre
+member,miembro,membre
+membership,afiliacion,adhesion
+memory,memoria,memoire
+mental,mental,mental
+mention,mencionar,mention
+menu,menu,menu
+mere,mero,simple
+merely,simplemente,seulement
+mess,lio,desordre
+message,mensaje,un message
+metal,metal,metal
+meter,metro,mètre
+method,metodo,methode
+mexican,mexicano,mexicain
+middle,medio,milieu
+might,puede que,pourrait
+military,militar,militaire
+milk,leche,lait
+million,millon,million
+mind,mente,esprit
+mine,mia,mien
+minister,ministro,ministre
+minor,menor,mineur
+minority,minoria,minorite
+minute,minuto,minute
+miracle,milagro,miracle
+mirror,espejo,miroiter
+miss,extrañar,mademoiselle
+missile,misil,missile
+mission,mision,mission
+mistake,error,erreur
+mix,mezcla,melanger
+mixture,mezcla,melange
+mm-hmm,mm-hmm,mm-hmm
+mode,modo,mode
+model,modelo,maquette
+moderate,moderar,moderer
+modern,moderno,moderne
+modest,modesto,modeste
+mom,mama,maman
 moment,momento,moment
-creature,criatura,créature
+money,dinero,de l'argent
+monitor,monitor,surveiller
+month,mes,mois
+mood,estado animico,humeur
+moon,luna,lune
+moral,moral,moral
+more,mas,suite
+moreover,es mas,en outre
+morning,mañana,matin
+mortgage,hipoteca,hypothèque
+most,mas,plus
+mostly,principalmente,la plupart
+mother,madre,mère
+motion,movimiento,mouvement
+motivation,motivacion,motivation
+motor,motor,moteur
+mount,montar,monter
+mountain,montaña,montagne
+mouse,raton,souris
+mouth,boca,bouche
+move,moverse,bouge toi
+movement,movimiento,mouvement
+movie,pelicula,film
+mr,sres,monsieur
+mrs,señora,mme
+ms,milisegundo,mme
+much,mucho,beaucoup
+multiple,multiple,plusieurs
+murder,asesinato,meurtre
+muscle,musculo,muscle
+museum,museo,musee
+music,musica,la musique
+musical,musical,musical
+musician,musico,musicien
+muslim,musulman,musulman
+must,deber,devoir
+mutual,mutuo,mutuel
+my,mi,ma
+myself,yo mismo,moi même
+mystery,misterio,mystère
+myth,mito,mythe
+naked,desnudo,nu
+name,nombre,nom
+narrative,narrativa,recit
+narrow,estrecho,etroit
+nation,nacion,nation
+national,nacional,nationale
+native,nativo,originaire de
+natural,natural,naturel
+naturally,naturalmente,naturellement
+nature,naturaleza,nature
+near,cerca,près
+nearby,cercano,proche
+nearly,por poco,presque
+necessarily,necesariamente,necessairement
+necessary,necesario,necessaire
+neck,cuello,cou
+need,necesitar,besoin
+negative,negativo,negatif
+negotiate,negociar,negocier
+negotiation,negociacion,negociation
+neighbor,vecino,voisine
+neighborhood,vecindario,quartier
+neither,ninguno de los dos,non plus
+nerve,nervio,nerf
+nervous,nervioso,nerveux
+net,neto,rapporter
+network,la red,reseau
+never,nunca,jamais
+nevertheless,sin embargo,neanmoins
+new,nuevo,nouveau
+newly,recien,nouvellement
+news,noticias,nouvelles
+newspaper,periodico,un journal
+next,proximo,suivant
+nice,agradable,agreable
+night,noche,nuit
+nine,nueve,neuf
+no,no,non
+nobody,nadie,personne
+nod,asentir,hocher la tête
+noise,ruido,bruit
+nomination,nominacion,nomination
+none,ninguna,rien
+nonetheless,sin embargo,neanmoins
+nor,ni,ni
+normal,normal,ordinaire
+normally,normalmente,en temps normal
+north,norte,nord
+northern,del norte,nord
+nose,nariz,nez
+not,no,ne pas
+note,nota,remarque
+nothing,nada,rien
+notice,aviso,remarquer
+notion,nocion,notion
+novel,novela,roman
+now,ahora,à present
+nowhere,en ningun lugar,nulle part
+n't,nuevo testamento,nt
+nuclear,nuclear,nucleaire
+number,numero,numero
+numerous,numeroso,nombreux
+nurse,enfermera,infirmière
+nut,tuerca,noix
+object,objeto,objet
+objective,objetivo,objectif
+obligation,obligacion,obligation
+observation,observacion,observation
+observe,observar,observer
+observer,observador,observateur
+obtain,obtener,obtenir
+obvious,obvio,evident
+obviously,obviamente,de toute evidence
+occasion,ocasion,occasion
+occasionally,de vez en cuando,parfois
+occupation,ocupacion,occupation
+occupy,ocupar,occuper
+occur,ocurrir,se produire
+ocean,oceano,ocean
+odd,impar,impair
+odds,impares,chances
+of,de,de
+off,apagado,desactive
+offense,ofensa,infraction
+offensive,ofensiva,offensive
+offer,oferta,offrir
+office,oficina,bureau
+officer,oficial,officier
+official,oficial,officiel
+often,con frecuencia,souvent
+oh,oh,oh
+oil,petroleo,huile
+ok,ok,d'accord
+okay,bueno,d'accord
+old,viejo,vieux
+olympic,olimpico,olympique
+on,en,au
+once,una vez,une fois que
+one,una,une
+ongoing,en curso,en cours
+onion,cebolla,oignon
+online,en linea,en ligne
+only,solamente,seulement
+onto,sobre,sur
+open,abierto,ouvrir
+opening,apertura,ouverture
+operate,funcionar,fonctionner
+operating,operando,en fonctionnement
+operation,operacion,operation
+operator,operador,operateur
+opinion,opinion,avis
+opponent,adversario,adversaire
+opportunity,oportunidad,opportunite
+oppose,oponerse a,s'opposer
+opposite,opuesto,oppose
+opposition,oposicion,opposition
+option,opcion,option
+or,o,ou
+orange,naranja,orange
+order,pedido,commande
+ordinary,ordinario,ordinaire
+organic,organico,biologique
+organization,organizacion,organisation
+organize,organizar,organiser
+orientation,orientacion,orientation
+origin,origen,origine
+original,original,original
+originally,originalmente,initialement
+other,otro,autre
+others,otros,les autres
+otherwise,de lo contrario,par ailleurs
+ought,deberia,devrait
+our,nuestro,notre
+ourselves,nosotros mismos,nous-mêmes
+out,fuera,en dehors
+outcome,salir,resultat
+outside,fuera de,à l'exterieur
+oven,horno,four
+over,sobre,plus de
+overall,en general,globalement
+overcome,superar,surmonter
+overlook,pasar por alto,negliger
+owe,deber,devoir
+own,propio,posseder
+owner,dueño,proprietaire
+pace,ritmo,rythme
+pack,paquete,pack
+package,paquete,emballer
+page,pagina,page
+pain,dolor,douleur
+painful,doloroso,douloureux
+paint,pintura,peinture
+painter,pintor,peintre
+painting,cuadro,la peinture
+pair,par,paire
+pale,palido,pale
+palestinian,palestino,palestinien
+palm,palma,paume
+pan,sarten,poêle
+panel,panel,panneau
+pant,pantalon,haleter
+paper,papel,papier
+parent,padre,parent
+park,parque,parc
+parking,estacionamiento,parking
+part,parte,partie
+participant,participe,participant
+participate,participar,participer
+participation,participacion,participation
+particular,especial,particulier
+particularly,particularmente,particulièrement
+partly,parcialmente,partiellement
+partner,compañero,partenaire
+partnership,camaraderia,partenariat
+party,fiesta,fête
+pass,pasar,passe
+passage,paso,passage
+passenger,pasajero,passager
+passion,pasion,passion
+past,pasado,passe
+patch,parche,pièce
+path,sendero,chemin
+patient,paciente,patient
+pattern,patron,modèle
+pause,pausa,pause
+pay,pagar,payer
+payment,pago,paiement
+pc,ordenador personal,pc
+peace,paz,paix
+peak,cima,de pointe
+peer,mirar,pair
+penalty,multa,peine
+people,gente,gens
+pepper,pimienta,poivre
+per,por,par
+perceive,percibir,apercevoir
+percentage,porcentaje,pourcentage
+perception,percepcion,la perception
+perfect,perfecto,parfait
+perfectly,perfectamente,à la perfection
+perform,llevar a cabo,effectuer
+performance,rendimiento,performance
+perhaps,quizas,peut-être
+period,periodo,point final
+permanent,permanente,permanent
+permission,permiso,autorisation
+permit,permiso,permis
+person,persona,la personne
+personal,personal,personnel
+personality,personalidad,personnalite
+personally,personalmente,personnellement
+personnel,personal,personnel
+perspective,perspectiva,la perspective
+persuade,persuadir,persuader
+pet,mascota,animal de compagnie
+phase,fase,phase
+phenomenon,fenomeno,phenomène
+philosophy,filosofia,philosophie
+phone,telefono,telephoner
+photo,foto,photo
+photograph,fotografia,photographier
+photographer,fotografo,photographe
+phrase,frase,phrase
+physical,fisico,physique
+physically,fisicamente,physiquement
+physician,medico,medecin
+piano,piano,piano
+pick,elegir,prendre
+picture,imagen,image
+pie,tarta,tarte
+piece,pedazo,pièce
+pile,pila,pile
+pilot,piloto,pilote
+pine,pino,pin
+pink,rosa,rose
+pipe,tubo,tuyau
+pitch,terreno de juego,terrain
+place,lugar,lieu
+plan,plan,planifier
+plane,plano,avion
+planet,planeta,planète
+planning,planificacion,planification
+plant,planta,plante
+plastic,el plastico,plastique
+plate,plato,assiette
+platform,plataforma,plate-forme
+play,jugar,jouer
+player,jugador,joueur
+please,por favor,s'il te plaît
+pleasure,placer,plaisir
+plenty,mucho,beaucoup
+plot,trama,parcelle
+plus,mas,plus
+pm,pm,pm
+pocket,bolsillo,poche
+poem,poema,poème
+poet,poeta,poète
+poetry,poesia,poesie
+point,punto,indiquer
+pole,polo,pôle
+police,policia,police
+policy,politica,politique
+political,politico,politique
+politically,politicamente,politiquement
+politician,politico,politicien
+politics,politica,politique
+poll,encuesta,sondage
+pollution,polucion,la pollution
+pool,piscina,bassin
+poor,pobre,pauvre
+pop,musica pop,pop
+popular,popular,populaire
+population,poblacion,population
+porch,porche,porche
+port,puerto,port
+portion,parte,portion
+portrait,retrato,portrait
+portray,retratar,representer
+pose,pose,pose
+position,posicion,position
+positive,positivo,positif
+possess,poseer,posseder
+possibility,posibilidad,possibilite
+possible,posible,possible
+possibly,posiblemente,peut-être
+post,correo,publier
+pot,maceta,pot
+potato,papa,patate
+potential,potencial,potentiel
+potentially,potencialmente,potentiellement
+pound,libra,broyer
+pour,verter,verser
+poverty,pobreza,la pauvrete
+powder,polvo,poudre
+power,energia,puissance
+powerful,poderoso,puissant
+practical,practico,pratique
+practice,practica,entraine toi
+pray,rezar,prier
+prayer,oracion,prière
+precisely,precisamente,precisement
+predict,predecir,predire
+prefer,preferir,preferer
+preference,preferencia,preference
+pregnancy,el embarazo,grossesse
+pregnant,embarazada,enceinte
+preparation,preparacion,preparation
+prepare,preparar,preparer
+prescription,prescripcion,ordonnance
+presence,presencia,presence
+present,regalo,cadeau
+presentation,presentacion,presentation
+preserve,preservar,preserver
+president,presidente,president
+presidential,presidencial,presidentiel
+press,prensa,presse
+pressure,presion,pression
+pretend,pretender,faire semblant
+pretty,bonito,jolie
+prevent,evitar,empêcher
+previous,anterior,precedent
+previously,previamente,precedemment
+price,precio,le prix
+pride,orgullo,orgueil
+priest,sacerdote,prêtre
+primarily,ante todo,principalement
+primary,primario,primaire
+prime,principal,premier
+principal,principal,principal
+principle,principio,principe
+print,imprimir,impression
+prior,previo,avant
+priority,prioridad,priorite
+prison,prision,prison
+prisoner,prisionero,prisonnier
+privacy,intimidad,intimite
+private,privado,prive
+probably,probablemente,probablement
+problem,problema,problème
+procedure,procedimiento,procedure
+proceed,continuar,proceder
+process,proceso,traiter
+produce,produce,produire
+producer,productor,producteur
+product,producto,produit
+production,produccion,production
+profession,profesion,profession
+professional,profesional,professionnel
+professor,profesor,professeur
+profile,perfil,profil
+profit,ganancia,profit
+program,programa,programme
+progress,progreso,le progrès
+project,proyecto,projet
+prominent,prominente,important
+promise,promesa,promettre
+promote,promover,promouvoir
+prompt,inmediato,rapide
+proof,prueba,preuve
+proper,adecuado,correct
+properly,adecuadamente,correctement
+property,propiedad,biens
+proportion,proporcion,proportion
+proposal,propuesta,proposition
+propose,proponer,proposer
+proposed,propuesto,propose
+prosecutor,fiscal,procureur
+prospect,perspectiva,perspective
+protect,proteger,proteger
+protection,proteccion,protection
+protein,proteina,proteine
+protest,protesta,manifestation
+proud,orgulloso,fier
+prove,probar,prouver
+provide,proveer,apporter
+provider,proveedor,fournisseur
+province,provincia,province
+provision,provision,disposition
+psychological,psicologico,psychologique
+psychologist,psicologo,psychologue
+psychology,psicologia,psychologie
+public,publico,publique
+publication,publicacion,publication
+publicly,en publico,publiquement
+publish,publicar,publier
+publisher,editor,editeur
+pull,jalar,tirer
+punishment,castigo,chatiment
+purchase,compra,achat
+pure,puro,pur
+purpose,proposito,but
+pursue,perseguir,poursuivre
+push,empujar,pousser
+put,poner,mettre
+qualify,calificar,qualifier
+quality,calidad,qualite
+quarter,trimestre,trimestre
+quarterback,jugador de ataque,stratège
+question,pregunta,question
+quick,rapido,rapide
+quickly,rapidamente,rapidement
+quiet,tranquilo,silencieux
+quietly,en silencio,tranquillement
+quit,dejar,quitter
+quite,bastante,assez
+quote,cita,citation
+race,raza,course
+racial,racial,racial
+radical,radical,radical
+radio,radio,radio
+rail,carril,rail
+rain,lluvia,pluie
+raise,aumentar,elever
+range,rango,intervalle
+rank,rango,rang
+rapid,rapido,rapide
+rapidly,rapidamente,rapidement
+rare,raro,peu frequent
+rarely,casi nunca,rarement
+rate,calificar,taux
+rather,bastante,plutôt
+rating,clasificacion,notation
+ratio,proporcion,rapport
+raw,crudo,cru
+reach,alcanzar,atteindre
+react,reaccionar,reagir
+reaction,reaccion,reaction
+read,leer,lire
+reader,lector,lecteur
+reading,leyendo,la lecture
+ready,listo,prêt
+real,verdadero,reel
+reality,realidad,realite
+realize,darse cuenta de,prendre conscience de
+really,de verdad,vraiment
+reason,razon,raison
+reasonable,razonable,raisonnable
+recall,recordar,rappeler
+receive,recibir,recevoir
+recent,reciente,recent
+recently,hace poco,recemment
+recipe,receta,recette
+recognition,reconocimiento,reconnaissance
+recognize,reconocer,reconnaître
+recommend,recomendar,recommander
+recommendation,recomendacion,recommandation
+record,registro,disque
+recording,grabacion,enregistrement
+recover,recuperar,se remettre
+recovery,recuperacion,recuperation
+recruit,recluta,recruter
+red,rojo,rouge
+reduce,reducir,reduire
+reduction,reduccion,reduction
+refer,referir,referer
+reference,referencia,reference
+reflect,reflejar,reflechir
+reflection,reflexion,reflexion
+reform,reforma,reforme
+refugee,refugiado,refugie
+refuse,rehusar,refuser
+regard,respecto,qui concerne
+regarding,con respecto a,en ce qui concerne
+regardless,independientemente,independamment
+regime,regimen,regime
+region,region,region
+regional,regional,regional
+register,registrarse,s'inscrire
+regular,regular,regulier
+regularly,regularmente,regulièrement
+regulate,regular,reglementer
+regulation,regulacion,regulation
+reinforce,reforzarse,renforcer
+reject,rechazar,rejeter
+relate,relacionar,rapporter
+relation,relacion,relation
+relationship,relacion,relation amoureuse
+relative,relativo,relatif
+relatively,relativamente,relativement
+relax,relajarse,detendez-vous
+release,liberar,liberation
+relevant,pertinente,pertinent
+relief,alivio,soulagement
+religion,religion,religion
+religious,religioso,religieux
+rely,confiar,compter sur
+remain,permanecer,rester
+remaining,restante,restant
+remarkable,notable,remarquable
+remember,recordar,rappelles toi
+remind,recordar,rappeler
+remote,remoto,à distance
+remove,retirar,retirer
+repeat,repetir,repeter
+repeatedly,repetidamente,à plusieurs reprises
+replace,reemplazar,remplacer
+reply,respuesta,reponse
+report,informe,rapport
+reporter,reportero,journaliste
+represent,representar,representer
+representation,representacion,representation
+representative,representante,representant
+republican,republicano,republicain
+reputation,reputacion,reputation
+request,solicitud,demande
+require,exigir,exiger
+requirement,requisito,exigence
+research,investigacion,recherche
+researcher,investigador,chercheur
+resemble,asemejarse a,ressembler
+reservation,reserva,reservation
+resident,residente,resident
+resist,resistirse,resister
+resistance,resistencia,la resistance
+resolution,resolucion,resolution
+resolve,resolver,resoudre
+resort,recurso,recours
+resource,recurso,ressource
+respect,respeto,le respect
+respond,responder,repondre
+respondent,demandado,intime
+response,respuesta,reponse
+responsibility,responsabilidad,responsabilite
+responsible,responsable,responsable
+rest,descanso,du repos
+restaurant,restaurante,restaurant
+restore,restaurar,restaurer
+restriction,restriccion,restriction
+result,resultado,resultat
+retain,conservar,conserver
+retire,retirarse,se retirer
+retirement,jubilacion,retraite
+return,regreso,retourner
+reveal,revelar,faire apparaître
+revenue,ingresos,revenu
+review,revision,la revue
+revolution,revolucion,revolution
+rhythm,ritmo,rythme
+rice,arroz,riz
+rich,rico,riche
+rid,deshacerse,debarrasser
+ride,paseo,conduire
+rifle,rifle,fusil
+right,correcto,droit
+ring,anillo,bague
+rise,aumento,se lever
+risk,riesgo,risque
+river,rio,fleuve
+road,camino,route
+rock,rock,roche
+role,papel,rôle
+roll,rollo,rouler
+romantic,romantico,romantique
+roof,techo,toit
+room,habitacion,salle
+root,raiz,racine
+rope,cuerda,corde
+rose,rosa,rose
+rough,aspero,rugueux
+roughly,aproximadamente,à peu près
+round,ronda,rond
+route,ruta,route
+routine,rutina,routine
+row,fila,ligne
+rub,frotar,frotter
+rule,regla,regner
+run,correr,cours
+running,corriendo,fonctionnement
+rural,rural,rural
+rush,prisa,se ruer
+russian,ruso,russe
+sacred,sagrado,sacre
+sad,triste,triste
+safe,a salvo,sûr
+safety,la seguridad,securite
+sake,motivo,sake
+salad,ensalada,salade
+salary,salario,un salaire
+sale,rebaja,vendre
+sales,ventas,ventes
+salt,sal,sel
+same,mismo,même
+sample,muestra,goûter
+sanction,sancion,sanction
+sand,arena,sable
+satellite,satelite,satellite
+satisfaction,satisfaccion,la satisfaction
+satisfy,satisfacer,satisfaire
+sauce,salsa,sauce
+save,salvar,enregistrer
+saving,ahorro,economie
+say,decir,dire
+scale,escala,escalader
+scandal,escandalo,scandale
+scared,asustado,effraye
+scenario,guion,scenario
+scene,escena,scène
+schedule,calendario,programme
+scheme,esquema,schème
+scholar,erudito,savant
+scholarship,beca,bourse
+school,colegio,l'ecole
+science,ciencia,la science
+scientific,cientifico,scientifique
+scientist,cientifico,scientifique
+scope,alcance,portee
+score,puntaje,but
+scream,grito,crier
+screen,pantalla,ecran
+script,texto,scenario
+sea,mar,mer
+search,busqueda,chercher
+season,temporada,saison
+seat,asiento,siège
+second,segundo,seconde
+secret,secreto,secret
+secretary,secretario,secretaire
+section,seccion,section
+sector,sector,secteur
+secure,seguro,securise
+security,seguridad,securite
+see,ver,voir
+seed,semilla,planter
+seek,buscar,chercher
+seem,parecer,sembler
+segment,segmento,segment
+seize,aprovechar,s'emparer de
+select,seleccione,selectionner
+selection,seleccion,selection
+self,uno mismo,soi
+sell,vender,vendre
+senate,senado,senat
+senator,senador,senateur
+send,enviar,envoyer
+senior,mayor,senior
+sense,sentido,sens
+sensitive,sensible,sensible
+sentence,oracion,phrase
+separate,separar,separe
+sequence,secuencia,sequence
+series,serie,series
+serious,grave,serieux
+seriously,seriamente,serieusement
+serve,atender,servir
+service,servicio,service
+session,sesion,session
+set,colocar,ensemble
+setting,ajuste,reglage
+settle,resolver,regler
+settlement,asentamiento,règlement
+seven,siete,sept
+several,varios,nombreuses
+severe,grave,sevère
+sex,sexo,sexe
+sexual,sexual,sexuel
+shade,sombra,ombre
+shadow,sombra,ombre
+shake,agitar,secouer
+shall,debera,doit
+shape,forma,faconner
+share,cuota,partager
+sharp,afilado,tranchant
+she,ella,elle
+sheet,sabana,drap
+shelf,estante,etagère
+shell,cascaron,coquille
+shelter,refugio,abri
+shift,cambio,changement
+shine,brillar,eclat
+ship,embarcacion,bateau
+shirt,camisa,chemise
+shit,mierda,merde
+shock,choque,choc
+shoe,zapato,chaussure
+shoot,disparo,tirer
+shooting,tiroteo,tournage
+shop,tienda,magasin
+shopping,compras,achats
+shore,orilla,rive
+short,pequeño,court
+shortly,dentro de poco,prochainement
+shot,disparo,tirer
+should,deberian,devrait
+shoulder,hombro,epaule
+shout,gritar,crier
+show,show,afficher
+shower,ducha,douche
+shrug,encogimiento de hombros,hausser les epaules
+shut,cerrar,fermer
+sick,enfermo,malade
+side,lado,côte
+sigh,suspiro,soupir
+sight,vision,vue
+sign,firmar,signer
+signal,señal,signal
+significance,significado,importance
+significant,significativo,important
+significantly,significativamente,significativement
+silence,silencio,silence
+silent,silencio,silencieux
+silver,plata,argent
+similar,similar,similaire
+similarly,similar,de même
+simple,sencillo,facile
+simply,simplemente,simplement
+sin,pecado,peche
+since,ya que,puisque
+sing,canta,chanter
+singer,cantante,chanteur
+single,unico,celibataire
+sink,hundir,evier
+sir,señor,monsieur
+sister,hermana,sœur
+sit,sentarse,asseoir
+site,sitio,placer
+situation,situacion,situation
+six,seis,six
+size,talla,taille
+ski,esqui,ski
+skill,habilidad,competence
+skin,piel,la peau
+sky,cielo,ciel
+slave,esclavo,trimer
+sleep,dormir,sommeil
+slice,rodaja,tranche
+slide,diapositiva,faire glisser
+slight,leve,leger
+slightly,levemente,legèrement
+slip,deslizar,glisser
+slow,lento,lent
+slowly,lentamente,lentement
+small,pequeña,petit
+smart,inteligente,intelligent
+smell,oler,sentir
+smile,sonreir,le sourire
+smoke,humo,fumee
+smooth,suave,lisse
+snap,quebrar,se casser
+snow,nieve,neiger
+so,entonces,alors
+so-called,asi llamado,soi-disant
+soccer,futbol,football
+social,social,social
+society,sociedad,societe
+soft,suave,doux
+software,software,logiciel
+soil,tierra,sol
+solar,solar,solaire
+soldier,soldado,soldat
+solid,solido,solide
+solution,solucion,solution
+solve,resolver,resoudre
+some,algunos,quelque
+somebody,alguien,quelqu'un
+somehow,de alguna manera,en quelque sorte
+someone,alguien,quelqu'un
+something,algo,quelque chose
+sometimes,a veces,parfois
+somewhat,algo,quelque peu
+somewhere,algun lado,quelque part
+son,hijo,fils
+song,cancion,chanson
+soon,pronto,bientôt
+sophisticated,sofisticado,sophistique
+sorry,lo siento,pardon
+sort,clasificar,sorte
+soul,alma,ame
+sound,sonar,sonner
+soup,sopa,soupe
+source,fuente,la source
+south,sur,sud
+southern,meridional,du sud
+soviet,sovietico,sovietique
+space,espacio,espacer
+spanish,español,espagnol
+speak,hablar,parlez
+speaker,altavoz,conferencier
+special,especial,special
+specialist,especialista,specialiste
+species,especies,espèce
+specific,especifico,specifique
+specifically,especificamente,plus precisement
+speech,habla,discours
+speed,velocidad,vitesse
+spend,gastar,depenser
+spending,gasto,depenses
+spin,girar,tourner
+spirit,espiritu,esprit
+spiritual,espiritual,spirituel
+split,separar,diviser
+spokesman,portavoz,porte-parole
+sport,deporte,sport
+spot,lugar,place
+spread,untado,propage
+spring,primavera,le printemps
+square,cuadrado,carre
+squeeze,estrujar,presser
+stability,estabilidad,la stabilite
+stable,estable,stable
+staff,personal,personnel
+stage,escenario,etape
+stair,escalera,escalier
+stake,apostar,pieu
+stand,pararse,supporter
+standard,estandar,la norme
+standing,de pie,debout
+star,estrella,star
+stare,mirar fijamente,regard
+start,comienzo,demarrer
+state,estado,etat
+statement,declaracion,declaration
+station,estacion,station
+statistics,estadisticas,statistiques
+status,estado,statut
+stay,quedate,rester
+steady,firme,constant
+steal,robar,voler
+steel,acero,acier
+step,paso,etape
+stick,palo,coller
+still,todavia,toujours
+stir,revolver,remuer
+stock,valores,stock
+stomach,estomago,estomac
+stone,roca,calcul
+stop,detener,arrêter
+storage,almacenamiento,espace de rangement
+store,tienda,boutique
+storm,tormenta,orage
+story,historia,recit
+straight,derecho,droit
+strange,extraño,etrange
+stranger,extraño,etranger
+strategic,estrategico,strategique
+strategy,estrategia,strategie
+stream,arroyo,flux
+street,calle,rue
+strength,fuerza,force
+strengthen,fortalecer,renforcer
+stress,estres,stress
+stretch,tramo,s'etirer
+strike,huelga,la grève
+string,cuerda,chaîne de caractères
+strip,banda,deshabiller
+stroke,carrera,accident vasculaire cerebral
+strong,fuerte,fort
+strongly,fuertemente,fortement
+structure,estructura,structure
+struggle,dificil,lutter
+student,estudiante,elève
+studio,estudio,studio
+study,estudio,etude
+stuff,cosas,truc
+stupid,estupido,stupide
+style,estilo,style
+subject,tema,matière
+submit,enviar,nous faire parvenir
+subsequent,subsecuente,subsequent
+substance,sustancia,substance
+substantial,sustancial,substantiel
+succeed,triunfar,reussir
+success,exito,succès
+successful,exitoso,reussi
+successfully,exitosamente,avec succès
+such,tal,tel
+sudden,repentino,soudain
+suddenly,de repente,tout à coup
+sue,demandar,poursuivre en justice
+suffer,sufrir,souffrir
+sufficient,suficiente,suffisant
+sugar,azucar,du sucre
+suggest,sugerir,suggerer
+suggestion,sugerencia,suggestion
+suicide,suicidio,suicide
+suit,traje,combinaison
+summer,el verano,l'ete
+summit,cumbre,sommet
+sun,sol,soleil
+super,super,super
+supply,suministro,fournir
+support,apoyo,support
+supporter,seguidor,supporter
+suppose,suponer,supposer
+supposed,supuesto,suppose
+supreme,supremo,suprême
+sure,por supuesto,bien sur
+surely,seguramente,sûrement
+surface,superficie,surface
+surgery,cirugia,operation
+surprise,sorpresa,surprendre
+surprised,sorprendido,surpris
+surprising,sorprendente,surprenant
+surprisingly,asombrosamente,etonnamment
+surround,rodear,entourer
+survey,encuesta,enquête
+survival,supervivencia,survie
+survive,sobrevivir,survivre
+survivor,sobreviviente,survivant
+suspect,sospechar,suspect
+sustain,sostener,soutenir
+swear,jurar,jurer
+sweep,barrer,balayer
+sweet,dulce,sucre
+swim,nadar,baignade
+swing,balancearse,balancoire
+switch,cambiar,changer
+symbol,simbolo,symbole
+symptom,sintoma,symptôme
+system,sistema,système
+table,mesa,table
+tablespoon,cucharada,cuilleree à soupe
+tactic,tactica,tactique
+tail,cola,queue
+take,llevar,prendre
+tale,cuento,conte
+talent,talento,talent
+talk,hablar,parler
+tall,alto,haut
+tank,tanque,char
+tap,grifo,robinet
+tape,cinta,ruban
+target,objetivo,cible
+task,tarea,tache
+taste,gusto,goût
+tax,impuesto,impôt
+taxpayer,contribuyente,contribuable
+tea,te,the
+teach,enseñar,enseigner
+teacher,profesor,prof
+teaching,enseñando,enseignement
+team,equipo,equipe
+tear,lagrima,larme
+teaspoon,cucharilla,cuillère à cafe
+technical,tecnico,technique
+technique,tecnica,technique
+technology,tecnologia,la technologie
+teen,adolescente,adolescent
+teenager,adolescente,adolescent
+telephone,telefono,telephone
+telescope,telescopio,telescope
+television,television,television
+tell,decir,dire
+temperature,temperatura,temperature
+temporary,temporal,temporaire
+ten,diez,dix
+tend,tender,tendre
+tendency,tendencia,tendance
+tennis,tenis,tennis
+tension,tension,tension
+tent,carpa,tente
+term,termino,terme
+terms,condiciones,termes
+terrible,terrible,terrible
+territory,territorio,territoire
+terror,terror,la terreur
+terrorism,terrorismo,terrorisme
+terrorist,terrorista,terroriste
+test,prueba,test
+testify,testificar,temoigner
+testimony,testimonio,temoignage
+testing,pruebas,essai
+text,texto,texte
+than,que,que
+thank,gracias,remercier
+thanks,gracias,merci
+that,que,ce
+the,los,la
+theater,teatro,theatre
+their,sus,leur
+them,ellos,leur
+theme,tema,thème
+themselves,ellos mismos,eux-mêmes
+then,luego,ensuite
+theory,teoria,theorie
+therapy,terapia,therapie
+there,alli,là
+therefore,por lo tanto,donc
+these,estas,celles-ci
+they,ellos,elles ou ils
+thick,grueso,epais
+thin,delgado,mince
+thing,cosa,chose
+think,pensar,pense
+thinking,pensando,en pensant
+third,tercera,la troisième
+thirty,treinta,30
+this,esta,ce
+those,esos,celles
+though,aunque,mais
+thought,pensamiento,pensait
+thousand,mil,mille
+threat,amenaza,menace
+threaten,amenazar,menacer
+three,tres,trois
+throat,garganta,gorge
+through,a traves de,par
+throughout,a lo largo de,tout au long de
+throw,lanzar,lancer
+thus,por lo tanto,donc
+ticket,billete,billet
+tie,corbata,nouer
+tight,ajustado,serre
+time,hora,temps
+tiny,diminuto,minuscule
+tip,propina,pointe
+tire,neumatico,pneu
+tired,cansado,fatigue
+tissue,tejido,tissu
+title,titulo,titre
+to,para,pour
+tobacco,tabaco,le tabac
+today,hoy dia,aujourd'hui
+toe,dedo del pie,doigt de pied
+together,juntos,ensemble
+tomato,tomate,tomate
+tomorrow,mañana,demain
+tone,tono,ton
+tongue,lengua,langue
+tonight,esta noche,ce soir
+too,tambien,aussi
+tool,herramienta,outil
+tooth,diente,dent
+top,cima,haut
+topic,tema,sujet
+toss,sacudida,lancer
+total,total,total
+totally,totalmente,totalement
+touch,tocar,toucher
+tough,dificil,difficile
+tour,excursion,visiter
+tourist,turista,touristique
+tournament,torneo,tournoi
+toward,hacia,vers
+towards,hacia,vers
+tower,torre,la tour
+town,pueblo,ville
+toy,juguete,jouet
+trace,rastro,trace
+track,pista,piste
+trade,comercio,commerce
+tradition,tradicion,tradition
+traditional,tradicional,traditionnel
+traffic,trafico,circulation
+tragedy,tragedia,la tragedie
+trail,rastro,piste
+train,entrenar,former
+training,capacitacion,formation
+transfer,transferir,transfert
+transform,transformar,transformer
+transformation,transformacion,transformation
+transition,transicion,transition
+translate,traducir,traduire
+transportation,transporte,transport
+travel,viaje,voyage
+treat,tratar,traiter
+treatment,tratamiento,traitement
+treaty,tratado,traite
+tree,arbol,arbre
+tremendous,tremendo,enorme
+trend,tendencia,tendance
+trial,prueba,essai
+tribe,tribu,tribu
+trick,truco,duper
+trip,viaje,voyage
+troop,tropa,troupe
+trouble,problema,inquieter
+truck,camion,un camion
+true,cierto,vrai
+truly,verdaderamente,vraiment
+trust,confianza,confiance
+truth,verdad,verite
+try,tratar,essayer
+tube,tubo,tube
+tunnel,tunel,tunnel
+turn,girar,tourner
+tv,televisor,la tele
+twelve,doce,douze
+twenty,veinte,vingt
+twice,dos veces,deux fois
+twin,mellizo,double
+two,dos,deux
+type,escribe,taper
+typical,tipico,typique
+typically,tipicamente,typiquement
+ugly,feo,laid
+ultimate,ultimo,ultime
+ultimately,por ultimo,finalement
+unable,incapaz,incapable
+uncle,tio,oncle
+under,bajo,en dessous de
+undergo,someterse,subir
+understand,comprender,comprendre
+understanding,comprension,entente
+unfortunately,desafortunadamente,malheureusement
+uniform,uniforme,uniforme
+union,union,syndicat
+unique,unico,unique
+unit,unidad,unite
+united,unido,uni
+universal,universal,universel
+universe,universo,univers
+university,universidad,universite
+unknown,desconocido,inconnu
+unless,a no ser que,à moins que
+unlike,a diferencia de,contrairement à
+unlikely,improbable,improbable
+until,hasta que,jusqu'à ce que
+unusual,raro,inhabituel
+up,arriba,en haut
+upon,sobre,sur
+upper,superior,superieur
+urban,urbano,urbain
+urge,impulso,exhorter
+us,nosotros,nous
+use,utilizar,utiliser
+used,usado,utilise
+useful,util,utile
+user,usuario,utilisateur
+usual,usual,habituel
+usually,generalmente,d'habitude
+utility,utilidad,utilitaire
+vacation,vacaciones,vacances
+valley,valle,vallee
+valuable,valioso,de valeur
+value,valor,evaluer
+variable,variable,variable
+variation,variacion,variation
+variety,variedad,variete
+various,varios,divers
+vary,variar,varier
+vast,vasto,vaste
+vegetable,vegetal,legume
+vehicle,vehiculo,vehicule
+venture,riesgo,entreprise
+version,version,version
+versus,versus,contre
+very,muy,très
+vessel,embarcacion,navire
+veteran,veterano,veteran
+via,via,via
+victim,victima,victime
+victory,victoria,la victoire
+video,video,video
+view,vista,voir
+viewer,espectador,telespectateur
+village,pueblo,village
+violate,violar,violer
+violation,violacion,violation
+violence,violencia,la violence
+violent,violento,violent
+virtually,virtualmente,virtuellement
+virtue,virtud,vertu
+virus,virus,virus
+visible,visible,visible
+vision,vision,vision
+visit,visita,visiter
+visitor,visitante,visiteur
+visual,visual,visuel
+vital,vital,vital
+voice,voz,voix
+volume,volumen,le volume
+volunteer,voluntario,benevole
+vote,votar,voter
+voter,votante,electeur
+vs,vs,vs
+vulnerable,vulnerable,vulnerable
+wage,sueldo,salaire
+wait,espere,attendre
+wake,despertar,reveiller
+walk,andar,marche
+wall,muro,mur
+wander,vagar,errer
+want,querer,vouloir
+war,guerra,guerre
+warm,calido,chaleureux
+warn,advertir,prevenir
+warning,advertencia,attention
+wash,lavar,lavage
+waste,desperdicio,dechets
+watch,reloj,regardez
+water,agua,l'eau
+wave,ola,vague
+way,manera,facon
+we,nosotros,nous
+weak,debil,faible
+wealth,poder,richesse
+wealthy,adinerado,riche
+weapon,arma,arme
+wear,tener puesto,porter
+weather,tiempo,la meteo
+wedding,boda,mariage
+week,semana,semaine
+weekend,fin de semana,weekend
+weekly,semanal,hebdomadaire
+weigh,pesar,peser
+weight,peso,poids
+welcome,bienvenidos,bienvenue
+welfare,bienestar,bien-être
+well,bien,bien
+west,oeste,ouest
+western,occidental,occidental
+wet,mojado,mouiller
+what,que,quel
+whatever,lo que,peu importe
+wheel,rueda,roue
+when,cuando,lorsque
+whenever,cuando sea,n'importe quand
+where,donde,où
+whereas,mientras que,tandis que
+whether,ya sea,qu'il s'agisse
+which,cual,lequel
+while,tiempo,tandis que
+whisper,susurro,chuchotement
+white,blanco,blanche
+who,quien,oms
+whole,entero,ensemble
+whom,quien,qui
+whose,cuyo,à qui
+why,por que,pourquoi
+wide,amplio,large
+widely,ampliamente,largement
+widespread,extendido,très repandu
+wife,esposa,femme
+wild,salvaje,sauvage
+will,voluntad,volonte
+willing,dispuesto,dispose
+win,ganar,gagner
+wind,viento,vent
+window,ventana,la fenêtre
+wine,vino,vin
+wing,ala,aile
+winner,ganador,gagnant
+winter,invierno,hiver
+wipe,pasar un trapo,essuyer
+wire,cable,fil
+wisdom,sabiduria,sagesse
+wise,sabio,sage
+wish,deseo,souhaiter
+with,con,avec
+withdraw,retirar,retirer
+within,dentro de,dans
+without,sin,sans pour autant
+witness,testigo,temoin
+woman,mujer,femme
+wonder,preguntarse,merveille
+wonderful,maravilloso,magnifique
+wood,madera,bois
+wooden,de madera,en bois
+word,palabra,mot
+work,trabajo,travailler
+worker,trabajador,ouvrier
+working,trabajando,travaillant
+works,obras,œuvres
+workshop,taller,atelier
+world,mundo,monde
+worried,preocupado,inquiet
+worry,preocuparse,s'inquieter
+worth,valor,valeur
+would,haria,voudrais
+wound,herida,blesser
+wrap,envoltura,envelopper
+write,escribe,ecrivez
+writer,escritor,ecrivain
+writing,escribiendo,en ecrivant
+wrong,incorrecto,tort
+yard,yarda,cour
+yeah,si,ouais
+year,año,an
+yell,gritar,hurler
+yellow,amarillo,jaune
+yes,si,oui
+yesterday,ayer,hier
+yet,aun,encore
+yield,producir,rendement
+you,usted,toi
+young,joven,jeune
+your,tu,ton
+yours,tuya,le tiens
+yourself,tu mismo,toi-même
+youth,juventud,jeunesse
+zone,zona,zone

@@ -1,120 +1,102 @@
 import java.util.ArrayList;
+import java.util.Objects;
 import java.util.Scanner;
+
 import java.io.*;
 
 
 public class Main {
 
     public static void main(String[] args) {
-        try {
+        try{    
             Scanner scan = new Scanner(System.in);
-            System.out.println("LEER ARCHIVO");
-        ArrayList<String[]> strings = leer("diccionario.txt");
-        System.out.println("CONSTRUIR LOS DICCIONARIOS");
-        BinarySearchTree<ComparableAssociation<String, String[]>> dictEN = construirDict(strings, 0);
-        BinarySearchTree<ComparableAssociation<String, String[]>> dictES = construirDict(strings, 1);
-        BinarySearchTree<ComparableAssociation<String, String[]>> dictFR = construirDict(strings, 2);
-        System.out.println("RECORRER IN-ORDER");
-        scan.nextLine();
+            System.out.println("ENTER PARA LEER: \"diccionario.txt\"");
+            ArrayList<String[]> strings = leer("diccionario.txt");
+            BinarySearchTree<ComparableAssociation<String, String[]>> dictEN = construirDict(strings, 0);
+            BinarySearchTree<ComparableAssociation<String, String[]>> dictES = construirDict(strings, 1);
+            BinarySearchTree<ComparableAssociation<String, String[]>> dictFR = construirDict(strings, 2);
+            System.out.println("ENTER PARA RECORRER IN-ORDER");
+            scan.nextLine();
 
-        recorrer(dictEN);
+            recorrer(dictEN);
+            
+            String texto = "";
+            ArrayList<String[]> text = new ArrayList<String[]>();
+            String cadena;
+            BinarySearchTree<ComparableAssociation<String, String[]>> DicOrigen = new BinarySearchTree<ComparableAssociation<String, String[]>>();
+            int LenDestino = 0;
 
-        
-        String texto = "";
-        ArrayList<String[]> text = new ArrayList<String[]>();
-        String cadena;
-        BinarySearchTree<ComparableAssociation<String, String[]>> DicOrigen = new BinarySearchTree<ComparableAssociation<String, String[]>>();
-        int LenDestino = 0;
+            System.out.println("\n\n\nBienvenido al traductor\n");
+            System.out.println("Ingrese el nombre exacto del archivo de texto que desea traducir\n");
+            texto =scan.nextLine();
 
-
-        System.out.println("Bienvenido al traductor\n");
-        System.out.println("Ingrese el nombre exacto del archivo de texto que desea traducir\n");
-        texto =scan.nextLine();
-
-        FileReader f = new FileReader(texto); //abre el archivo
-        BufferedReader b = new BufferedReader(f); // lee el archivo
-        while((cadena = b.readLine())!=null) { // Para separar con espacios
-            String[] parts = cadena.split(" ");
-            text.add(parts);
-        }
-        b.close();
-        
-        // System.out.println("Ingrese el número que indica el idioma de origen de su archivo\n ");
-        // int opcion = 0;
-		// while (opcion != 3){
-		// 	System.out.println("1. Ingles");
-		// 	System.out.println("2. Español");
-		// 	System.out.println("3. Francés");
-        //     scan = new Scanner(System.in);
-		// 	try{opcion = scan.nextInt();}
-		// 	catch(Exception e){System.out.println("INVALIDO");}
-
-		// 	if (opcion == 1){
-		// 		DicOrigen = dictEN;
-		// 	}
-		// 	else if (opcion == 2){
-		// 		DicOrigen = dictES;
-		// 	} 
-		// 	else if (opcion == 3){
-        //         DicOrigen = dictFR;
-        //     }
-        //     else{ System.out.println("Agregue una entrada valida del menu");}
-        // }
-
-        // System.out.println("Ingrese el número que indica el idioma al que desea traducir su archivo\n ");
-        // int opcion2 = 0;
-		// while (opcion2 != 3){
-		// 	System.out.println("1. Ingles");
-		// 	System.out.println("2. Español");
-		// 	System.out.println("3. Francés");
-        //     scan = new Scanner(System.in);
-		// 	try{opcion2 = scan.nextInt();}
-		// 	catch(Exception e){System.out.println("INVALIDO");}
-
-		// 	if (opcion2 == 1){
-		// 		LenDestino = 0;
-		// 	}
-		// 	else if (opcion2 == 2){
-		// 		LenDestino = 1;
-		// 	} 
-		// 	else if (opcion2 == 3){
-        //         LenDestino = 2;
-        //     }
-        //     else{ System.out.println("Agregue una entrada valida del menu");}
-        // }
-        // pregunta idioma de origen (escoge diccionario dict)
-        // pregunta idioma de destino (escoge numero del array i)
-
-        LenDestino = 2;
-        DicOrigen = dictES;
-
-        for (String[] linea : text) {
-            String trad = "";
-            for (String s : linea) {
-                ComparableAssociation<String, String[]> encontrado;
-                encontrado = DicOrigen.get(new ComparableAssociation<String,String[]>(s));
-                if (encontrado.equals(null)) {
-                    trad.concat("*"+s+"*");
-                } else{
-                    String[] valor = encontrado.getValue();
-                    String t = valor[LenDestino];
-                    trad.concat(t);
-                }
+            FileReader f = new FileReader(texto); //abre el archivo
+            BufferedReader b = new BufferedReader(f); // lee el archivo
+            while((cadena = b.readLine())!=null) { // Para separar con espacios
+                String[] parts = cadena.split(" ");
+                text.add(parts);
             }
-            System.out.println(trad);
-        }
+            b.close();
+            
+            System.out.println("Ingrese el número que indica el idioma de origen de su archivo\n ");
+            int opcion = 4;
+            while (opcion > 3){
+            	System.out.println("1. Ingles");
+            	System.out.println("2. Español");
+            	System.out.println("3. Francés");
+                scan = new Scanner(System.in);
+            	try{opcion = scan.nextInt();}
+            	catch(Exception e){System.out.println("INVALIDO");}
+
+            	if (opcion == 1){DicOrigen = dictEN;}
+            	else if (opcion == 2){DicOrigen = dictES;} 
+            	else if (opcion == 3){DicOrigen = dictFR;}
+                else{ System.out.println("Agregue una entrada valida del menu");}
+            }
+
+            System.out.println("Ingrese el número que indica el idioma al que desea traducir su archivo\n ");
+            int opcion2 = 4;
+            while (opcion2 > 3){
+            	System.out.println("1. Ingles");
+            	System.out.println("2. Español");
+            	System.out.println("3. Francés");
+                scan = new Scanner(System.in);
+            	try{opcion2 = scan.nextInt();}
+            	catch(Exception e){System.out.println("INVALIDO");}
+
+            	if (opcion2 == 1){LenDestino = 0;}
+            	else if (opcion2 == 2){LenDestino = 1;} 
+            	else if (opcion2 == 3){LenDestino = 2;}
+                else{ System.out.println("Agregue una entrada valida del menu");}
+            }
+
+            for (String[] linea : text) {
+                String trad = "";
+                for (String s : linea) {
+                    ComparableAssociation<String, String[]> encontrado;
+                    encontrado = DicOrigen.get(new ComparableAssociation<String,String[]>(s));
+                    if (Objects.isNull(encontrado)) {
+                        trad = trad.concat("*"+s+"* ");
+                    } else{
+                        String[] valor = encontrado.getValue();
+                        String t = valor[LenDestino];
+                        trad = trad.concat(t+" ");
+                    }
+                }
+                System.out.println(trad);
+            }
 
 
-        
-        // string traducido
-        // for s in texto:
-        //     busca s en dict
-        //         if encuentra s: concat dict-s[i]
-        //         else: append "*"+s+"*" 
+            
+            // string traducido
+            // for s in texto:
+            //     busca s en dict
+            //         if encuentra s: concat dict-s[i]
+            //         else: append "*"+s+"*" 
 
 
         } catch (Exception e) {
-            e.fillInStackTrace();
+            e.printStackTrace();
         }
         
     }
@@ -156,11 +138,7 @@ public class Main {
             ComparableAssociation<String, String[]> a;
             a = new ComparableAssociation<String, String[]>(p[lengua],p);
             bst.add(a);
-         }
-	    // for palabra in strings
-        //    hacer un new ComparableAssociation<palabra[lengua], palabra>
-        //    y meter este ComparableAssociation al BST con add
-        
+         }         
         return bst;   
     }
     
